@@ -74,8 +74,11 @@ def norm_name(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+HYPHENS = dict.fromkeys(map(ord, "\u2010\u2011\u2012\u2013\u2014\u2212\u00ad"), "-")
+
+
 def clean_title(t: str) -> str:
-    t = html.unescape(re.sub(r"<[^>]+>", "", t or ""))
+    t = html.unescape(re.sub(r"<[^>]+>", "", t or "")).translate(HYPHENS)
     return re.sub(r"\s+", " ", t).strip()
 
 
@@ -119,6 +122,7 @@ def match_journal(cfg: dict, name: str) -> dict | None:
 def score_topics(cfg: dict, title: str, abstract: str) -> tuple[dict, str | None, int, int]:
     """주제별 점수. 제목 일치 2점, 초록 일치 1점."""
     def variants(text: str) -> tuple[str, str]:
+        text = (text or "").translate(HYPHENS)
         low = " " + text.lower() + " "
         return low, " " + re.sub(r"[^a-z0-9+]+", " ", text.lower()) + " "
 
@@ -295,6 +299,8 @@ def main() -> int:
     for d, r in raw.items():
         if (d in seen and d not in already_today) or not r["titleEn"]:
             continue
+        if d.startswith("10.1002/ange.") and d.replace("/ange.", "/anie.") in raw:
+            continue  # Angewandte 독일어판 중복
         if r["pubDate"] and r["pubDate"] < from_date:
             continue
         scores, best, best_score, title_hits = score_topics(cfg, r["titleEn"], r["abstract"])
