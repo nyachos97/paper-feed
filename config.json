@@ -1,0 +1,72 @@
+{
+  "_note": "주제·키워드·저널을 바꾸려면 이 파일을 고치세요. queries는 OpenAlex/Crossref 검색어, terms는 제목·초록 관련도 판정용(소문자 부분일치).",
+  "lookback_days": 10,
+  "max_candidates": 80,
+  "topics": [
+    {
+      "name": "광가교 리간드",
+      "queries": ["photo-crosslinkable ligand", "photocrosslinkable ligand quantum dot", "crosslinkable ligand nanocrystal", "photopatterning ligand", "direct photopatterning quantum dot"],
+      "terms": ["crosslinkable ligand", "cross-linkable ligand", "photocrosslinkable", "photo-crosslinkable", "photopattern", "photo-pattern", "direct optical lithography", "ligand crosslink", "light-driven ligand"]
+    },
+    {
+      "name": "페로브스카이트 SAM",
+      "queries": ["self-assembled monolayer perovskite", "2PACz perovskite", "Me-4PACz", "phosphonic acid hole transport perovskite", "buried interface self-assembled monolayer"],
+      "terms": ["self-assembled monolayer", "self-assembled molecule", " sam ", "sams", "2pacz", "4pacz", "5pacz", "phosphonic acid", "hole-selective monolayer", "buried interface"]
+    },
+    {
+      "name": "CQD 리간드",
+      "queries": ["colloidal quantum dot ligand exchange", "quantum dot surface ligand", "PbS quantum dot ligand", "InP quantum dot ligand", "perovskite nanocrystal ligand"],
+      "terms": ["ligand exchange", "surface ligand", "ligand engineering", "capping ligand", "ligand passivation", "quantum dot", "nanocrystal"]
+    },
+    {
+      "name": "변색 센서",
+      "queries": ["colorimetric sensor", "chromogenic sensor", "color-changing indicator", "smartphone colorimetric detection", "colorimetric sensor array"],
+      "terms": ["colorimetric", "chromogenic", "color change", "colour change", "color-changing", "naked-eye", "naked eye", "chromic sensor", "smartphone"]
+    },
+    {
+      "name": "유해물질 검출 센서",
+      "queries": ["hazardous gas sensor", "toxic gas detection sensor", "heavy metal ion detection", "nerve agent simulant detection", "VOC gas sensor", "pesticide detection sensor"],
+      "terms": ["toxic", "hazardous", "heavy metal", "nerve agent", "dmmp", "sarin", "simulant", "voc", "volatile organic", "pesticide", "nh3", "ammonia", "no2", "h2s", "so2", "formaldehyde", "hg2+", "pb2+", "cd2+", "explosive", "gas sensor", "gas sensing"]
+    },
+    {
+      "name": "광가교 전반",
+      "queries": ["photocrosslinking polymer", "photo-crosslinked polymer", "UV curing", "direct photolithography polymer semiconductor", "azide crosslinker", "benzophenone crosslinker", "nitrene crosslinking"],
+      "terms": ["photocrosslink", "photo-crosslink", "photo-cross-link", "uv curing", "uv-curing", "uv-curable", "photocurable", "photolithograph", "azide", "nitrene", "benzophenone", "crosslinker", "cross-linker"]
+    }
+  ],
+  "journals": [
+    {"name": "Nature", "abbr": "Nature", "tier": 1, "aliases": []},
+    {"name": "Science", "abbr": "Science", "tier": 1, "aliases": []},
+    {"name": "Nature Energy", "abbr": "Nat. Energy", "tier": 1, "aliases": []},
+    {"name": "Nature Photonics", "abbr": "Nat. Photonics", "tier": 1, "aliases": []},
+    {"name": "Nature Nanotechnology", "abbr": "Nat. Nanotechnol.", "tier": 1, "aliases": []},
+    {"name": "Nature Materials", "abbr": "Nat. Mater.", "tier": 1, "aliases": []},
+    {"name": "Joule", "abbr": "Joule", "tier": 1, "aliases": []},
+    {"name": "Energy & Environmental Science", "abbr": "Energy Environ. Sci.", "tier": 1, "aliases": ["Energy and Environmental Science"]},
+    {"name": "Journal of the American Chemical Society", "abbr": "J. Am. Chem. Soc.", "tier": 1, "aliases": []},
+    {"name": "Angewandte Chemie International Edition", "abbr": "Angew. Chem. Int. Ed.", "tier": 1, "aliases": ["Angewandte Chemie", "Angewandte Chemie (International ed. in English)"]},
+    {"name": "Advanced Materials", "abbr": "Adv. Mater.", "tier": 1, "aliases": []},
+
+    {"name": "ACS Energy Letters", "abbr": "ACS Energy Lett.", "tier": 2, "aliases": []},
+    {"name": "Advanced Energy Materials", "abbr": "Adv. Energy Mater.", "tier": 2, "aliases": []},
+    {"name": "Advanced Functional Materials", "abbr": "Adv. Funct. Mater.", "tier": 2, "aliases": []},
+    {"name": "ACS Nano", "abbr": "ACS Nano", "tier": 2, "aliases": []},
+    {"name": "Nano Letters", "abbr": "Nano Lett.", "tier": 2, "aliases": []},
+    {"name": "Chemistry of Materials", "abbr": "Chem. Mater.", "tier": 2, "aliases": []},
+    {"name": "Nature Communications", "abbr": "Nat. Commun.", "tier": 2, "aliases": []},
+    {"name": "Science Advances", "abbr": "Sci. Adv.", "tier": 2, "aliases": []},
+    {"name": "ACS Sensors", "abbr": "ACS Sens.", "tier": 2, "aliases": []},
+    {"name": "Analytical Chemistry", "abbr": "Anal. Chem.", "tier": 2, "aliases": []},
+    {"name": "Sensors and Actuators B: Chemical", "abbr": "Sens. Actuators B Chem.", "tier": 2, "aliases": ["Sensors and Actuators B Chemical", "Sensors and Actuators B-chemical"]},
+    {"name": "Journal of Hazardous Materials", "abbr": "J. Hazard. Mater.", "tier": 2, "aliases": []},
+    {"name": "Macromolecules", "abbr": "Macromolecules", "tier": 2, "aliases": []},
+
+    {"name": "ACS Applied Materials & Interfaces", "abbr": "ACS Appl. Mater. Interfaces", "tier": 3, "aliases": ["ACS Applied Materials and Interfaces"]},
+    {"name": "Small", "abbr": "Small", "tier": 3, "aliases": []},
+    {"name": "Journal of Materials Chemistry A", "abbr": "J. Mater. Chem. A", "tier": 3, "aliases": []},
+    {"name": "Journal of Materials Chemistry C", "abbr": "J. Mater. Chem. C", "tier": 3, "aliases": []},
+    {"name": "Chemical Engineering Journal", "abbr": "Chem. Eng. J.", "tier": 3, "aliases": []},
+    {"name": "Biosensors and Bioelectronics", "abbr": "Biosens. Bioelectron.", "tier": 3, "aliases": []},
+    {"name": "Solar RRL", "abbr": "Sol. RRL", "tier": 3, "aliases": []}
+  ]
+}
