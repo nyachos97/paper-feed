@@ -1,0 +1,717 @@
+{
+ "date": "2026-10-19",
+ "generatedAt": "2026-10-19T04:56:05+09:00",
+ "searchFrom": "2026-10-09",
+ "sources": {
+  "openalex": {
+   "ok": 33,
+   "fail": 0
+  },
+  "crossref": {
+   "ok": 0,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 7,
+   "fail": 0
+  }
+ },
+ "count": 8,
+ "papers": [
+  {
+   "doi": "10.1002/anie.4404754",
+   "url": "https://doi.org/10.1002/anie.4404754",
+   "titleEn": "Radical-Mediated Surface Reconstruction of SnO 2 Nanocrystals Enables Efficient and Durable Perovskite Solar Cells and Modules",
+   "journal": "Angewandte Chemie International Edition",
+   "journalAbbr": "Angew. Chem. Int. Ed.",
+   "tier": 1,
+   "pubDate": "2026-10-14",
+   "year": "2026",
+   "authors": [
+    "Shiheng Wang",
+    "Jian Cheng",
+    "Xianglong Sun",
+    "Xiao Jiang",
+    "Qiqi Wang",
+    "Xi Lu",
+    "Junru Chen",
+    "Yanlin Song",
+    "Liyuan Han"
+   ],
+   "corrAuthor": "Liyuan Han",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT Charge‐transport layers fundamentally dictate interfacial recombination, carrier extraction, and operational stability in perovskite solar cells (PSCs), yet scalable routes to simultaneously regulate their colloidal stability and defect chemistry remain elusive. Here, we report a radical‐mediated surface reconstruction strategy for ligand‐free SnO 2 nanocrystals that enables concurrent gains in device efficiency, scalability, and durability. Sonochemical activation generates hydroxyl radicals that selectively passivate oxygen‐deficient Sn sites while inducing electrostatically stabilized dispersions with exceptional shelf stability, allowing the SnO 2 colloids to be stored for over 2 years without aggregation or performance degradation. This stabilization enables the formation of uniform electron transport layers with reduced trap density and enhanced electron mobility. These improvements promote buried‐interface perovskite crystallization and accelerate charge extraction, yielding PSCs with an efficiency of 26.47% (certified 26.12%). Importantly, the strategy is inherently scalable, enabling a perovskite module (∼110 cm 2 ) with an efficiency of 21.45%. Devices exhibit enhanced operational stability, retaining 92% efficiency after 1000 h thermal aging (ISOS‐D‐2), maintaining 88% efficiency under maximum power point tracking (ISOS‐L‐1), and showing negligible degradation over 500 thermal cycles (ISOS‐T‐3). These results establish radical‐mediated engineering of SnO 2 nanocrystals as a general pathway in perovskite photovoltaics, bridging high efficiency, large‐area manufacturability, and long‐term operational stability.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.4404754",
+   "oaStatus": "bronze",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "페로브스카이트 SAM": 1,
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Liyuan Han, Angew. Chem. Int. Ed., 2026, Radical-Mediated Surface Reconstruction of SnO 2 Nanocrystals Enables Efficient and Durable Perovskite Solar Cells and Modules",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acssensors.6c02752",
+   "url": "https://doi.org/10.1021/acssensors.6c02752",
+   "titleEn": "AI-Enabled Mixed Potential Sensor Array for Complex VOC Mixture Decoding and Real-Time Methanol-Risk Assessment in Baijiu",
+   "journal": "ACS Sensors",
+   "journalAbbr": "ACS Sens.",
+   "tier": 2,
+   "pubDate": "2026-10-16",
+   "year": "2026",
+   "authors": [
+    "Jiayao Du",
+    "Hanchi Shi",
+    "Xinyu Li",
+    "Yuanye Pan",
+    "Yan Lv",
+    "Haiyan Liu",
+    "Minghui Cao",
+    "Xishuang Liang",
+    "Tong Liu"
+   ],
+   "corrAuthor": "Tong Liu (추정)",
+   "corrConfirmed": false,
+   "abstract": "Accurate identification of complex gas mixtures in dynamic real-world environments is essential for environmental monitoring, food safety, and public health. However, these challenges arise mainly from overlapping response fingerprints of chemically similar hazardous analytes and the limited capability of conventional sensors to decouple multicomponent, concentration-coupled signals. Here, we report a ZnFe2O4/MoO3 mixed potential sensor array enabled by a material-device-algorithm co-design strategy. Through compositional engineering of the sensing electrodes, the array generates orthogonal cross-reactive fingerprints for six volatile organic compounds, with response fluctuation standard deviations of 0.47-2.43 mV across all analytes and a rapid response time of 12 s toward 100 ppm triethylamine. To address alcohol mixtures with strong competitive adsorption, including methanol, ethanol, and n-butanol, a CNN-BiLSTM spatiotemporal fusion model extracts multiscale features from dynamic sensing responses, enabling simultaneous mixture classification and concentration prediction. The system achieves recognition accuracies of 100 and 99.33% for the test set and independent validation set, respectively, with corresponding mean absolute errors of 1.61 and 1.62 ppm. We further extend this strategy to a portable Baijiu MeOH sensing platform for real-time methanol-risk assessment in complex liquor matrices, achieving above 98.89% accuracy in identifying samples exceeding the statutory limit. This work integrates interfacial electrochemical regulation, high-dimensional array sensing, deep-learning-enabled signal decoupling, and portable system implementation, offering a deployable route toward intelligent gas sensing in complex real-world environments.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 5
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 5,
+   "autoPdf": true,
+   "filename": "Tong Liu, ACS Sens., 2026, AI-Enabled Mixed Potential Sensor Array for Complex VOC Mixture Decoding and Real-Time Methanol-Risk Assessment in Baijiu",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.snb.2026.141073",
+   "url": "https://doi.org/10.1016/j.snb.2026.141073",
+   "titleEn": "Asymmetric FeO6 coordination in LaFeO3 perovskites enabling enhanced gas-sensing for multi-gas detection arrays to distinguish VOCs generated from different bacterials",
+   "journal": "Sensors and Actuators B: Chemical",
+   "journalAbbr": "Sens. Actuators B Chem.",
+   "tier": 2,
+   "pubDate": "2026-10-13",
+   "year": "2026",
+   "authors": [
+    "Tiange Gao",
+    "Wei Chen",
+    "Xilong Lu",
+    "Zhenliang Dong",
+    "Limin Yao",
+    "Liwen Mao",
+    "Jiaxi Li",
+    "Xiaohong Wang",
+    "Qingmin Hu",
+    "Jiaqiang Xu"
+   ],
+   "corrAuthor": "Jiaqiang Xu",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 4
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Jiaqiang Xu, Sens. Actuators B Chem., 2026, Asymmetric FeO6 coordination in LaFeO3 perovskites enabling enhanced gas-sensing for multi-gas detection arrays to distinguish VOCs gene",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.macromol.6c02461",
+   "url": "https://doi.org/10.1021/acs.macromol.6c02461",
+   "titleEn": "Transforming Cyclic Allenes into Precision Macromolecular Building Blocks",
+   "journal": "Macromolecules",
+   "journalAbbr": "Macromolecules",
+   "tier": 2,
+   "pubDate": "2026-10-16",
+   "year": "2026",
+   "authors": [
+    "Xuefen Liu",
+    "Lefei Yu",
+    "Kerry M. Hanson",
+    "William J. Neary"
+   ],
+   "corrAuthor": "William J. Neary (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract Ring-opening allene metathesis polymerization (ROAlMP) provides direct access to polyallenamers containing reactive allene functionality within the polymer backbone, yet achieving controlled polymerization has remained a major challenge. Here, we report an additive-assisted ROAlMP strategy in which triphenylphosphine (PPh3) or 3,5-dichloropyridine (3,5-Cl2Py) modulates catalyst speciation to enable controlled polymerization behavior, affording polyallenamers with predictable molecular weight (Mn up to 70 kDa) and moderate dispersities (Đ < 1.4). This enhanced control enables the synthesis of di- and triblock copolymers spanning three distinct classes of metathesis-active monomers, including cyclic alkenes, diynes, and cyclic allenes, while also providing access to self-assembled nanostructured materials containing allene-rich domains. We further demonstrate that these domains can be selectively stabilized through backbone [2 + 2] photocrosslinking, a capability inherently encoded within the polymer backbone and achieved without additional monomer functionalization. Finally, to illustrate the unique chemical opportunities afforded by backbone allenes, the resulting polyallenamers were subjected to iodonium-induced annulation, generating naphthalene-containing polymer backbones with pronounced changes in their photophysical behavior. Collectively, these results establish additive-controlled ROAlMP as a versatile platform for precision polyallenamer synthesis and highlight the unique materials opportunities enabled by allene-containing polymer backbones.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "광가교 전반",
+   "topicScores": {
+    "광가교 전반": 1
+   },
+   "queryTopics": [
+    "광가교 전반"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "William J. Neary, Macromolecules, 2026, Transforming Cyclic Allenes into Precision Macromolecular Building Blocks",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsami.6c15678",
+   "url": "https://doi.org/10.1021/acsami.6c15678",
+   "titleEn": "Interleaving Self-Assembled Monolayers for Efficient and Stable Wide-Bandgap Perovskite Solar Cells and Modules",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-10-15",
+   "year": "2026",
+   "authors": [
+    "Dingfu Luo",
+    "Hao Wang",
+    "Tianjun Ma",
+    "Xinzhao Zhao",
+    "Sheng He",
+    "Jun Yan",
+    "Haiyang Zhang",
+    "Yuan Li",
+    "SiFan Liu",
+    "Mingyu Li",
+    "Qilin Guo",
+    "Bingxin Ding",
+    "Ruiheng Gao",
+    "Salman Ali",
+    "Wei Xie",
+    "Pingli Qin",
+    "Ying Zhou",
+    "Chao Chen",
+    "Haisheng Song",
+    "Jiang Tang"
+   ],
+   "corrAuthor": "Jiang Tang (추정)",
+   "corrConfirmed": false,
+   "abstract": "Self-assembled monolayers (SAMs) are widely used as hole-selective contacts in inverted wide-bandgap (WBG) perovskite solar cells (PSCs). However, incomplete SAM coverage and non-uniform interfacial contact of the SAMs/absorber induce recombination losses and interfacial degradation. Herein, we introduce carbohydrazide (CBH) as an interfacial modifier by interleaving it with SAMs to remedy their uncovered and weakly contacted interfacial regions. The CBH treatment improves interfacial uniformity and strengthens hole extraction, primarily through its dipolar nature and favorable interactions with the perovskite surface. This enables a reduced interfacial defect density and substantially extended interfacial stability. As a result, the optimized WBG perovskite single-junction device achieves a top power conversion efficiency (PCE) of 20.51% (19.56% for control), accompanied by a high open-circuit voltage of 1.355 V. Extending this approach to tandem architectures, its two-terminal all-perovskite tandem solar cell and monolithic mini-module reach impressive PCEs of 29.35% and 23.41% (20.07 cm2), respectively. Both single-junction and tandem devices exhibit pronouncedly improved operational stability. This work provides an innovative and effective strategy to address SAM-related buried interfacial challenges for inverted WBG PSCs.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 4,
+    "광가교 전반": 1
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Jiang Tang, ACS Appl. Mater. Interfaces, 2026, Interleaving Self-Assembled Monolayers for Efficient and Stable Wide-Bandgap Perovskite Solar Cells and Modules",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsami.6c14902",
+   "url": "https://doi.org/10.1021/acsami.6c14902",
+   "titleEn": "Etching-Assisted Double-End Anchoring of Ligands for High-Performance CsPbBr3 Light-Emitting Diodes",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-10-15",
+   "year": "2026",
+   "authors": [
+    "Guiyuan Liu",
+    "Wannan Dai",
+    "Shengwei Fang",
+    "Xiaotian Lu",
+    "Peipei Du",
+    "Ying Ma"
+   ],
+   "corrAuthor": "Ying Ma (추정)",
+   "corrConfirmed": false,
+   "abstract": "Perovskite nanocrystals (NCs) have emerged as highly promising emitters for light-emitting diodes (LEDs) owing to their outstanding luminescence properties, broadly tunable band structures, and intrinsically high color purity. Surface ligand engineering plays a crucial role in regulating the electroluminescent performance and device stability of perovskite NCs. Here, we develop a cooperative 2-(4-(methylsulfonyl)phenyl)ethylamine (MSPE)-hydrogen halide (HX, X = Br, I) ligand-exchange strategy that enables surface reconfiguration and robust passivation of perovskite NCs. In this approach, HX assists in removing insulating long-chain ligands (oleic acid and oleylamine), thereby exposing additional undercoordinated surface sites and promoting firm double-end anchoring of in situ protonated MSPE through bidentate interactions. Spectroscopic and electrical analyses reveal that the strengthened ligand-nanocrystal interface effectively suppresses trap-assisted nonradiative recombination, increases the exciton binding energy from 97.7 to 168.9 meV, prolongs the lifetime from 9.5 to 12.3 ns, and reduces trap densities in CsPbBr3 NC films. As a result, the photoluminescence quantum yield of CsPbBr3 NCs after MSPE-HBr treatment is enhanced to 96.1%, and LEDs fabricated with MSPE-HBr-treated NCs deliver a peak external quantum efficiency of 25.2% and display excellent device-to-device reproducibility. This cooperative ligand-exchange strategy provides an effective pathway for achieving high surface coverage of robust multidentate ligands, offering a promising route toward highly efficient and stable perovskite LEDs.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 4
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Ying Ma, ACS Appl. Mater. Interfaces, 2026, Etching-Assisted Double-End Anchoring of Ligands for High-Performance CsPbBr3 Light-Emitting Diodes",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.cej.2026.183003",
+   "url": "https://doi.org/10.1016/j.cej.2026.183003",
+   "titleEn": "Bisphosphonate-anchored fluorene-based self-assembled monolayers for efficient and thermally robust inverted perovskite solar cells",
+   "journal": "Chemical Engineering Journal",
+   "journalAbbr": "Chem. Eng. J.",
+   "tier": 3,
+   "pubDate": "2026-10-12",
+   "year": "2026",
+   "authors": [
+    "Yajie Fu",
+    "Chunguang Li",
+    "Qiang Luo",
+    "Wenliang Sun",
+    "翁长浩",
+    "Tianyi Yang",
+    "Yebin Li",
+    "Jiadi Pan",
+    "Haoliang Cheng"
+   ],
+   "corrAuthor": "Haoliang Cheng",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 2
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Haoliang Cheng, Chem. Eng. J., 2026, Bisphosphonate-anchored fluorene-based self-assembled monolayers for efficient and thermally robust inverted perovskite solar cells",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.bios.2026.119335",
+   "url": "https://doi.org/10.1016/j.bios.2026.119335",
+   "titleEn": "Site-regulated CoNFs-NH2@PtNPs nanozyme-based all-in-one portable detection of organophosphorus pesticides integrating deep learning and hardware logic gates",
+   "journal": "Biosensors and Bioelectronics",
+   "journalAbbr": "Biosens. Bioelectron.",
+   "tier": 3,
+   "pubDate": "2026-10-13",
+   "year": "2026",
+   "authors": [
+    "Yining Zhang",
+    "Di Gao",
+    "Panrui He",
+    "Huajie Peng",
+    "Peng Xu",
+    "Ping Qiu"
+   ],
+   "corrAuthor": "Ping Qiu",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서",
+    "유해물질 검출 센서"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Ping Qiu, Biosens. Bioelectron., 2026, Site-regulated CoNFs-NH2@PtNPs nanozyme-based all-in-one portable detection of organophosphorus pesticides integrating deep learning and hard",
+   "source": "openalex"
+  }
+ ],
+ "others": [
+  {
+   "doi": "10.1002/inc2.70029",
+   "titleEn": "Division of labor among self-assembled monolayer components at nickel oxide interfaces: A DFT-Machine learning framework for inverted perovskite solar cells",
+   "journal": "InfoScience.",
+   "pubDate": "2026-10-11",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1021/acs.inorgchem.6c01486",
+   "titleEn": "Surface Ligand Composition of Polyoxovanadate-Alkoxides Influences Hole Transfer from CdSe Quantum Dots",
+   "journal": "Inorganic Chemistry",
+   "pubDate": "2026-10-15",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.nxnano.2026.100858",
+   "titleEn": "Adaptive interface engineering and charge dynamics in CdSe quantum dots: A roadmap toward next-generation quantum optoelectronic technologies",
+   "journal": "Next Nanotechnology",
+   "pubDate": "2026-10-12",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.mtcomm.2026.116331",
+   "titleEn": "Silver-based quantum dots for near-infrared tumor imaging and targeted delivery",
+   "journal": "Materials Today Communications",
+   "pubDate": "2026-10-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.jallcom.2026.191656",
+   "titleEn": "Water-induced phase transformation for fluorescence enhancement of perovskite nanocrystals",
+   "journal": "Journal of Alloys and Compounds",
+   "pubDate": "2026-10-13",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.optmat.2026.118591",
+   "titleEn": "A surface post-treatment strategy enables synchronous ligand removal and defect passivation for efficient perovskite nanocrystal light-emitting diodes",
+   "journal": "Optical Materials",
+   "pubDate": "2026-10-12",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.mtcomm.2026.116357",
+   "titleEn": "Coupled effects of confinement, surface chemistry, and concentration in MAPbBr3 nanocrystal-modified MAPbI3 thin films",
+   "journal": "Materials Today Communications",
+   "pubDate": "2026-10-12",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.mtchem.2026.104098",
+   "titleEn": "High-conformational-entropy tail zwitterionic ligand enables colloidally stable CsPbBr3 perovskite nanocrystals",
+   "journal": "Materials Today Chemistry",
+   "pubDate": "2026-10-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/nano16201279",
+   "titleEn": "Perovskite Nanocrystal-Based Scintillators: Synthesis Routes, Matrix Engineering, and Performance Optimization for Radiation Detection",
+   "journal": "Nanomaterials",
+   "pubDate": "2026-10-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s12161-026-03313-3",
+   "titleEn": "Multivariate-optimized Gold Nanoparticle-based Colorimetric Detection of Ametryn in Water and Vegetable Samples using a Miniaturized Photoabsorbance Sensor",
+   "journal": "Food Analytical Methods",
+   "pubDate": "2026-10-17",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acsapm.6c03467",
+   "titleEn": "Sustainable Reactive Polymer Coating Platform for Durable Wearable Colorimetric pH-Sensing Textiles with Tunable Acid-Base Responsiveness",
+   "journal": "ACS Applied Polymer Materials",
+   "pubDate": "2026-10-16",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/s26206496",
+   "titleEn": "QR-Code-Integrated Colorimetric Sensors for Simultaneous Temperature Threshold and Oxygen Detection",
+   "journal": "Sensors",
+   "pubDate": "2026-10-14",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.synthmet.2026.118333",
+   "titleEn": "Synthesis of polydiacetylene/Li+ assemblies for colorimetric detection of hydrochloric acid in liquid and gas phases",
+   "journal": "Synthetic Metals",
+   "pubDate": "2026-10-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346382",
+   "titleEn": "Oxygen vacancies promote electron transfer in PRT@MnO2-x with boosting oxidase-mimicking activity for dual-mode detection of β-galactosidase",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-10-13",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.mtchem.2026.104055",
+   "titleEn": "Harnessing chromogenic response for photocurrent switching: A smartphone-aided, field-deployable optical platform for detection of heavy metal pollutants",
+   "journal": "Materials Today Chemistry",
+   "pubDate": "2026-10-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130786",
+   "titleEn": "Selenium-doped Mn-N-C single-atom nanozymes with modulated electronic structure for ultrasensitive colorimetric biosensing of total antioxidant capacity in food samples",
+   "journal": "Talanta",
+   "pubDate": "2026-10-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/sci8100303",
+   "titleEn": "Beyond the Camera: Applications of Embedded Smartphone Sensors in the Analytical Sciences",
+   "journal": "Sci",
+   "pubDate": "2026-10-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.119972",
+   "titleEn": "Electrochemiluminescence-smartphone colorimetric dual-mode sensor driven by SnS2 quantum dots and Ag2O nanozyme for sensitive detection of sulfadiazine",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-10-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.119965",
+   "titleEn": "A smart single nanozyme probe for colorimetric/smartphone dual-mode sensing: Turn-on detection of Hg2+ in cosmetics/serum and turn-off determination of S2- in medicinal herbs using FeCo-PBA@ZnMn-ZIF heterojunction nanocubes",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-10-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151535",
+   "titleEn": "Complementary integration of highly sensitive aptasensor and portable hydrogel for colorimetric detection of dhurrin in sorghum based on enhanced laccase-like activity of CuCo-MOFs",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-10-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.119964",
+   "titleEn": "Smartphone-assisted Pd@Cu-HHTP nanozyme hydrogel for on-site colorimetric monitoring of shrimp freshness",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-10-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00216-026-06855-x",
+   "titleEn": "Colorimetric discrimination of chrysanthemum polyphenols via tunable MOF-818 nanozyme sensor array",
+   "journal": "Analytical and Bioanalytical Chemistry",
+   "pubDate": "2026-10-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130763",
+   "titleEn": "Histidine-copper microenvironment-engineered high-entropy LDH nanozyme enables a neutral-pH colorimetric sensor array for antibiotic discrimination",
+   "journal": "Talanta",
+   "pubDate": "2026-10-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/gels12100910",
+   "titleEn": "Smartphone-Assisted Aerogel Colorimetric Sensor Array Coupled with Lightweight Deep Learning for Multi-Meat Freshness Monitoring",
+   "journal": "Gels",
+   "pubDate": "2026-10-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s12161-026-03304-4",
+   "titleEn": "Development of Chitosan/PVA-Based Colorimetric Films Incorporating Butterfly Pea Flower for Fish Freshness Monitoring",
+   "journal": "Food Analytical Methods",
+   "pubDate": "2026-10-16",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/s26206403",
+   "titleEn": "Zero-Shot Water Monitoring from Fixed Drainage Surveillance Imagery Across Day/Night and Rain/No-Rain Conditions: A SAM 3 Benchmark at 25 Urban Sites",
+   "journal": "Sensors",
+   "pubDate": "2026-10-10",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.3390/chemosensors14100227",
+   "titleEn": "Pt-Functionalized SnO2 Hollow Nanotubular Structures for H2S Sensing: Experimental Investigation and DFT Insights",
+   "journal": "Chemosensors",
+   "pubDate": "2026-10-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsomega.6c10289",
+   "titleEn": "A Smartphone-Assisted Schirmer Strip for Rapid Dual Colorimetric Sensing of Tear Glucose and pH Level",
+   "journal": "ACS Omega",
+   "pubDate": "2026-10-14",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.30574/gscarr.2026.29.1.0267",
+   "titleEn": "AI-DRIVEN OPTIMIZATION OF A SMARTPHONE-BASED COLORIMETRIC METHOD FOR SIMULTANEOUS DETERMINATION OF MULTIPLE HEAVY METAL IONS IN ENVIRONMENTAL WATER OF BABIL GOVERNORATE, IRAQ",
+   "journal": "GSC Advanced Research and Reviews",
+   "pubDate": "2026-10-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.26599/nr.2026.94909251",
+   "titleEn": "Transition metal regulation of PtPdCuFe nanozyme with boosted dual enzyme activity for smartphone-assisted colorimetric sensing of nitrite and thiophanate methyl",
+   "journal": "Nano Research",
+   "pubDate": "2026-10-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/bkcs.70228",
+   "titleEn": "A portable dual-ratiometric fluorescent and colorimetric probe for ClO - sensing across environmental samples, smartphone platform and cabbage",
+   "journal": "Bulletin of the Korean Chemical Society",
+   "pubDate": "2026-10-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.36548/jeea.2026.4.003",
+   "titleEn": "IoT-Integrated Intelligent Platform for Biomedical Waste Classification and Hazardous Emission Alerts",
+   "journal": "Journal of Electrical Engineering and Automation",
+   "pubDate": "2026-10-17",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.6000/1929-5995.2026.15.12",
+   "titleEn": "Optimization of rGO/ZnO and rGO/ZnO-NiO Nanocomposites for Efficient Room Temperature Ammonia Sensors, under DFT simulations",
+   "journal": "Journal of Research Updates in Polymer Science",
+   "pubDate": "2026-10-14",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18202457",
+   "titleEn": "Comparative Gas-Sensing Studies of EPAA with Aniline Tetramer in the Main/Side Chain and Corresponding Densely/Porous Electro-Spun Films",
+   "journal": "Polymers",
+   "pubDate": "2026-10-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/s26206363",
+   "titleEn": "Electric-Field-Controlled Rotational Spectroscopy for Highly Selective Gas Sensing",
+   "journal": "Sensors",
+   "pubDate": "2026-10-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.jics.2026.103167",
+   "titleEn": "Dual-functional carbon quantum dots from purple cabbage: Integrating selective Cr(VI) fluorescence sensing with free radical scavenging",
+   "journal": "Journal of the Indian Chemical Society",
+   "pubDate": "2026-10-14",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/molecules31203621",
+   "titleEn": "Recent Advances in Near-Infrared Fluorescent Probes Based on Organic Small Molecules for the Detection and Imaging of Heavy Metal Ions",
+   "journal": "Molecules",
+   "pubDate": "2026-10-11",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.62110/sciencein.jmc.2026.1722",
+   "titleEn": "Synthesis of Carbon Quantum Dots (CQDs) and their applications as catalyst in organic synthesis: A comprehensive review",
+   "journal": "Journal of Molecular Chemistry.",
+   "pubDate": "2026-10-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s00289-026-06738-2",
+   "titleEn": "Development of a polyaniline - sulfonated phenol formaldehyde (PANI-SPF) composite as a fluorescence ‘Turn-off’ chemosensor for Cr6+ and Fe3+ ions, antimicrobial application and DFT investigation",
+   "journal": "Polymer Bulletin",
+   "pubDate": "2026-10-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130775",
+   "titleEn": "A biomimetic imidazole-based hydrogen-bonded organic framework for photoelectrochemical sensing of nerve agent simulants",
+   "journal": "Talanta",
+   "pubDate": "2026-10-15",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1088/1402-4896/aeb57a",
+   "titleEn": "Study on apodized split-electrode SAW sensor for the detection of VOC gases",
+   "journal": "Physica Scripta",
+   "pubDate": "2026-10-16",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsomega.6c08719",
+   "titleEn": "Dual-Kinetic Relaxation Spectroscopy for Discrimination of Volatile Organic Mixtures via Finite-Size Surface Gratings",
+   "journal": "ACS Omega",
+   "pubDate": "2026-10-15",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.nxsust.2026.100557",
+   "titleEn": "Sustainable synthesis of ZnO nanoparticles using fruit peel, VOC sensing and DFT insights",
+   "journal": "Next Sustainability",
+   "pubDate": "2026-10-15",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.surfcoat.2026.134021",
+   "titleEn": "Room-temperature MOF-ZnO gas sensors based on the incorporation of RE (Eu, Er) for ppb-level n-butanol sensing and DFT mechanistic investigation",
+   "journal": "Surface and Coatings Technology",
+   "pubDate": "2026-10-14",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08456-y",
+   "titleEn": "Confinement enhanced phosphorescent electrochemiluminescence of copper iodide cluster complex for imaging detection of organophosphorus pesticide",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-10-16",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.48175/ijarsct-38830",
+   "titleEn": "An Agricultural Skid-Steering Robot for Tomato Leaf Disease Detection and Targeted Pesticide Spraying: An Updated Prototype and Current Technology",
+   "journal": "International Journal of Advanced Research in Science Communication and Technology",
+   "pubDate": "2026-10-13",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.molstruc.2026.147836",
+   "titleEn": "A multi-responsive Cd(II)-MOF for pesticides and nitroaromatic compounds sensor with ultralow detection limits",
+   "journal": "Journal of Molecular Structure",
+   "pubDate": "2026-10-12",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151553",
+   "titleEn": "Machine learning-assisted dual-channel FeZnCu@CNP nanozyme sensor array for qualitative and quantitative analysis of multiple pesticides",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-10-11",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.solmat.2026.114767",
+   "titleEn": "High-precision patterned electrochromic devices enabled by covalent photocrosslinking of disulfide side-chains",
+   "journal": "Solar Energy Materials and Solar Cells",
+   "pubDate": "2026-10-13",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1038/s41427-026-00680-5",
+   "titleEn": "Non-toxic aryl diazirine photoinitiators",
+   "journal": "NPG Asia Materials",
+   "pubDate": "2026-10-16",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1186/s11671-026-04906-x",
+   "titleEn": "Negligible impact of UV-curable resist shrinkage on NIL pattern fidelity",
+   "journal": "Discover Nano",
+   "pubDate": "2026-10-16",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1021/acs.biomac.6c01649",
+   "titleEn": "Photocurable Double Dynamic Polyester Resins with Closed-Loop Circular End of Life",
+   "journal": "Biomacromolecules",
+   "pubDate": "2026-10-15",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1007/s11998-026-01385-8",
+   "titleEn": "Effects of monomer type and oligomer-to-monomer ratio on UV-curable coating performance on paper substrates",
+   "journal": "Journal of Coatings Technology and Research",
+   "pubDate": "2026-10-15",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1108/prt-01-2026-0012",
+   "titleEn": "Synthesis and characterization of Bio-Derived UV-Curable easy-to-clean coatings for multiple substrates",
+   "journal": "Pigment & Resin Technology",
+   "pubDate": "2026-10-10",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.3390/jmmp10100420",
+   "titleEn": "Formulation-Dependent Phase Stability and Optical Haze Reduction in High-PDMS UV-Curable Acrylate Blends for SLA Processing",
+   "journal": "Journal of Manufacturing and Materials Processing",
+   "pubDate": "2026-10-10",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.compositesa.2026.110350",
+   "titleEn": "Additive manufacturing of continuous fiber-reinforced UV-curable epoxy composites via peristaltic-driven direct ink writing",
+   "journal": "Composites Part A Applied Science and Manufacturing",
+   "pubDate": "2026-10-09",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
