@@ -1,23 +1,95 @@
 {
  "date": "2026-10-27",
- "generatedAt": "2026-10-27T05:09:33+09:00",
+ "generatedAt": "2026-10-27T05:47:43+09:00",
  "searchFrom": "2026-10-17",
  "sources": {
   "openalex": {
-   "ok": 33,
-   "fail": 0
+   "ok": 32,
+   "fail": 1
   },
   "crossref": {
-   "ok": 0,
+   "ok": 1,
    "fail": 0
   },
   "unpaywall": {
-   "ok": 0,
+   "ok": 2,
    "fail": 0
   }
  },
- "count": 0,
- "papers": [],
+ "count": 2,
+ "papers": [
+  {
+   "doi": "10.1021/acsnano.6c18491",
+   "url": "https://doi.org/10.1021/acsnano.6c18491",
+   "titleEn": "Kinetic Access to Focal Conic Domains in Photonic Cellulose Nanocrystal Films",
+   "journal": "ACS Nano",
+   "journalAbbr": "ACS Nano",
+   "tier": 2,
+   "pubDate": "2026-10-24",
+   "year": "2026",
+   "authors": [
+    "Diogo V. Saraiva",
+    "Lotte Polling",
+    "Sander J. W. Vonk",
+    "Samaneh Rahbar",
+    "Ivo R. Vermaire",
+    "Djouke A. C. Elferink",
+    "Rae M. Robertson-Anderson",
+    "Freddy T. Rabouw",
+    "Lisa Tran"
+   ],
+   "corrAuthor": "Lisa Tran (추정)",
+   "corrConfirmed": false,
+   "abstract": "Cellulose nanocrystals (CNCs) self-assemble into cholesteric structures that enable sustainable photonic films, but controlling their pitch, domain morphology, and angular color response remains challenging. Here, we investigate how salt concentration and sonication dose jointly regulate the evaporation-induced self-assembly of CNC suspensions. Across 24 dish-cast films, polarized optical microscopy, time-lapse imaging, rheology, electron microscopy, and angle-resolved spectroscopy reveal that these processing parameters affect not only the cholesteric pitch but also tactoid nucleation, transport, coalescence, and the onset of kinetic arrest. Increasing NaCl concentration generally blue-shifts the photonic response, whereas sonication red-shifts it by fragmenting CNC bundles, with the magnitude of this effect decreasing as ionic content increases. At intermediate ionic content, low sonication doses produce extended cholesteric domains with comparatively narrow spectral responses, while the abundance of focal conic domains (FCDs) increases with sonication dose, culminating in FCD-rich films at moderate sonication. Refined parameter scans show that FCDs form within a finite processing window. Time-lapse imaging shows that FCDs appear abruptly after tactoid growth and coalescence, as macroscopic motion becomes strongly restricted during late-stage evaporation. Concentration- and residence-time-dependent rheology further demonstrates that the material response evolves throughout the assembly pathway. The FCD-rich film retains a narrow local reflection band while exhibiting the smallest angular displacement of the reflection maximum among the films examined. These findings show that salt and sonication regulate the kinetic accessibility of elastically driven focal conic structures, providing a route to tune domain morphology, spectral bandwidth, and iridescence in CNC photonic films.",
+   "pdfUrl": "https://pubs.acs.org/ancac3/article-pdf/doi/10.1021/acsnano.6c18491/68971083/acsnano.6c18491.pdf",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Lisa Tran, ACS Nano, 2026, Kinetic Access to Focal Conic Domains in Photonic Cellulose Nanocrystal Films",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acs.analchem.6c04970",
+   "url": "https://doi.org/10.1021/acs.analchem.6c04970",
+   "titleEn": "Ligand-Engineered Eu-MOF for Ratiometric/Visual Urease Biosensing with Encrypted Optical Readout",
+   "journal": "Analytical Chemistry",
+   "journalAbbr": "Anal. Chem.",
+   "tier": 2,
+   "pubDate": "2026-10-23",
+   "year": "2026",
+   "authors": [
+    "Yafei Chen",
+    "Haiyan Li",
+    "Jingnuo Fu",
+    "Shangqing Zhang",
+    "Jun Niu",
+    "Mingli Chen"
+   ],
+   "corrAuthor": "Mingli Chen (추정)",
+   "corrConfirmed": false,
+   "abstract": "Programming energy-transfer pathways in lanthanide metal-organic frameworks (Ln-MOFs) through rational ligand design is essential for modulating the antenna effect and developing high-performance ratiometric sensors. However, the effective synthetic regulation of the coordination microenvironment remains a key challenge. Herein, we demonstrate that the ligand-to-Eu3+ energy transfer efficiency can be precisely regulated simply by tuning the molar ratio of pyromellitic acid to 2-aminoterephthalic acid during MOF assembly. This compositional regulation strategy not only enables fine modulation of the antenna effect to optimize Eu3+ emission but also directly controls the density of amino sites for postsynthetic conjugation with fluorescein isothiocyanate. The resulting EuMOF@FITC probe integrates multiple emission centers and exhibits a distinct red-to-green fluorescence response toward NH3 generated from urease-catalyzed urea hydrolysis. The ratiometric signal improves analytical reliability and signal-to-noise ratio through minimizing the influence of excitation fluctuation, probe concentration variation, and complex environmental interference, enabling accurate quantification of urease activity and efficient screening of urease inhibitors. This synthetic strategy can systematically modulate the energy-transfer pathway through simple ligand ratio regulation without changing the overall synthetic conditions, providing a direct and generalized route for the rational design of Ln-MOF ratiometric sensors. Furthermore, we embed the probe into a hydrogel matrix to achieve portable, visual, and real-time urease monitoring. The excitation-dependent and reversible luminescence characteristics of the composite hydrogel further enable dual-key optical information encryption. This study highlights the critical role of precisely controlling the coordination microenvironment during MOF assembly to improve the sensing reliability and expand the multifunctional optical applications of Ln-MOFs.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Mingli Chen, Anal. Chem., 2026, Ligand-Engineered Eu-MOF for Ratiometric Visual Urease Biosensing with Encrypted Optical Readout",
+   "source": "crossref"
+  }
+ ],
  "others": [
   {
    "doi": "10.20517/energymater.2026.213",
@@ -305,6 +377,90 @@
    "journal": "Progress in Organic Coatings",
    "pubDate": "2026-10-23",
    "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.4308/hjb.33.6.1473-1482",
+   "titleEn": "Anti-Inflammatory and Anti-Cancer Activity of Moringa Leaf Extract Nanocrystal on MCF-7 Cells <i>In Vitro</i>",
+   "journal": "HAYATI Journal of Biosciences",
+   "pubDate": "2026-11-01",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s43938-026-00154-8",
+   "titleEn": "Hole-driven solar photocatalysis of ofloxacin using cellulose nanocrystal-supported TiO2 nanocomposites",
+   "journal": "Discover Chemical Engineering",
+   "pubDate": "2026-10-26",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/met16111176",
+   "titleEn": "Surface Integrity Enhancement of Stainless Steel and Copper Alloy Golf Putter Faces via Ultrasonic Nanocrystal Surface Modification: Performance Improvement and Restoration and Their Implications for the Circular Economy",
+   "journal": "Metals",
+   "pubDate": "2026-10-24",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/molecules31213830",
+   "titleEn": "Ionic Ligand-Enhanced Dual Passivation of Orange CsPb(Br/I)3 Quantum Dots for Multicolor Anti-Counterfeiting",
+   "journal": "Molecules",
+   "pubDate": "2026-10-23",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1002/admi.70707",
+   "titleEn": "Interface-Driven Control of Vanadium Carbide Micro- and Nanocrystal Growth During Chemical Vapor Deposition",
+   "journal": "Advanced Materials Interfaces",
+   "pubDate": "2026-10-22",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1116/6.0005755",
+   "titleEn": "Oxygen-partial-pressure modulation of the near-infrared photoresponse in reactively sputtered SiO2/Ge-nanocrystal/SiO2/p-Si heterostructures",
+   "journal": "Journal of Vacuum Science &amp; Technology A",
+   "pubDate": "2026-10-21",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/coatings16101245",
+   "titleEn": "The Effect of Ultrasonic Nanocrystal Surface Modification on the Tribological Properties and Resistance to Local Mechanical Damage of WC-12Co Coatings Deposited by the HVOF Method",
+   "journal": "Coatings",
+   "pubDate": "2026-10-20",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.54254/2753-8818/2026.38016",
+   "titleEn": "Nanocrystal Technology for Preparation of Natural Product Formulations: Processes, Formulation, Limitations and Challenges",
+   "journal": "Theoretical and Natural Science",
+   "pubDate": "2026-10-20",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s12668-026-02921-x",
+   "titleEn": "Design, Development and Evaluation of Nanocrystal Loaded Orodispersible Film of Quetiapine Fumarate",
+   "journal": "BioNanoScience",
+   "pubDate": "2026-10-20",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acs.inorgchem.6c04316",
+   "titleEn": "Dynamic Balance between Heptamolybdate and Octamolybdate: Controlled Syntheses of Ag46 and Ag48 Nanoclusters and Their Transformation via pH-Regulated Ligand Exchange",
+   "journal": "Inorganic Chemistry",
+   "pubDate": "2026-10-20",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/met16101148",
+   "titleEn": "Nanostructuring of Ti-6Al-4V Alloy by Ultrasonic Nanocrystal Surface Modification to Restore and Enhance Golf Driver Performance",
+   "journal": "Metals",
+   "pubDate": "2026-10-19",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1002/cnma.70392",
+   "titleEn": "Single-Feedstock Valorization of Rice Husk Into Cellulose Nanocrystal/Lysine-Doped Carbon Dot Hybrid Nanocarriers for pH-Responsive Tetracycline Delivery",
+   "journal": "ChemNanoMat",
+   "pubDate": "2026-10-20",
+   "topic": "CQD 리간드"
   }
  ],
  "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
