@@ -65,18 +65,18 @@
 "10.1021/acsnano.6c18491": "2026-10-27",
 "10.1021/acs.analchem.6c04970": "2026-10-27"
 },
-"lastRun": "2026-10-27T05:47:43+09:00",
+"lastRun": "2026-10-28T05:14:29+09:00",
 "lastStatus": {
 "openalex": {
-"ok": 32,
-"fail": 1
+"ok": 33,
+"fail": 0
 },
 "crossref": {
-"ok": 1,
+"ok": 0,
 "fail": 0
 },
 "unpaywall": {
-"ok": 2,
+"ok": 0,
 "fail": 0
 }
 }
