@@ -1,0 +1,416 @@
+{
+ "date": "2026-11-03",
+ "generatedAt": "2026-11-03T05:20:51+09:00",
+ "searchFrom": "2026-10-24",
+ "sources": {
+  "openalex": {
+   "ok": 33,
+   "fail": 0
+  },
+  "crossref": {
+   "ok": 0,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 0,
+   "fail": 0
+  }
+ },
+ "count": 0,
+ "papers": [],
+ "others": [
+  {
+   "doi": "10.1088/1361-6528/aebb16",
+   "titleEn": "MeO-2PACz-Mediated Interfacial Engineering for Strain Regulation in Efficient Narrow-Bandgap Sn-Pb Perovskite Solar Cells",
+   "journal": "Nanotechnology",
+   "pubDate": "2026-10-29",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1038/s44160-026-01203-4",
+   "titleEn": "AI-guided discovery of self-assembled monolayers combining synthetic accessibility and interfacial stability for perovskite solar cells",
+   "journal": "Nature Synthesis",
+   "pubDate": "2026-10-28",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1063/5.0352023",
+   "titleEn": "Inverted perovskite solar cells via layer-by-layer deposition of self-assembled monolayers with complementary tail-group steric effects",
+   "journal": "Applied Physics Letters",
+   "pubDate": "2026-10-26",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1016/j.mtphys.2026.102284",
+   "titleEn": "Ammeline underlayer engineering of the NiOX/Me-4PACz buried interface for efficient inverted flexible perovskite solar cells",
+   "journal": "Materials Today Physics",
+   "pubDate": "2026-10-24",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1007/s12161-026-03335-x",
+   "titleEn": "Quantum Dot-based Fluorescent Sensors for Cd2⁺ Detection in Food and Environmental Samples: Mechanisms, Analytical Performance, and Future Perspectives",
+   "journal": "Food Analytical Methods",
+   "pubDate": "2026-10-31",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acsaem.6c02211",
+   "titleEn": "Rational Design and Controlled Synthesis of Perovskite Nanocrystals for Bridging Dimensionality and Excited-State Dynamics",
+   "journal": "ACS Applied Energy Materials",
+   "pubDate": "2026-10-31",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.29026/oet.2026.260024",
+   "titleEn": "Short-chain ligand engineering toward room-temperature synthesis of high-brightness CsPbBr3 nanocrystals for color-conversion LED applications",
+   "journal": "Opto-Electronic Technology",
+   "pubDate": "2026-10-31",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/nano16211376",
+   "titleEn": "InAs Quantum Dots for Infrared Optoelectronics: Interface Engineering, Device Performance, and Emerging Opportunities",
+   "journal": "Nanomaterials",
+   "pubDate": "2026-10-27",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acsphyschemau.6c00142",
+   "titleEn": "Effect of Chirality on Carrier Spin Relaxation Dynamics in CsPbBr3 Perovskite Quantum Dots",
+   "journal": "ACS Physical Chemistry Au",
+   "pubDate": "2026-10-26",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.solener.2026.115283",
+   "titleEn": "Lead(II) dithiocarbamate-derived PbS quantum dots for high-performance quantum dot-sensitized solar cells",
+   "journal": "Solar Energy",
+   "pubDate": "2026-10-30",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3938/phit.35.032",
+   "titleEn": "Fabrication of Highly Efficient Perovskite Nanocrystals",
+   "journal": "Physics and High Technology",
+   "pubDate": "2026-10-30",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/ma19214497",
+   "titleEn": "Strategies for Stability Enhancement of Metal Halide Perovskite Nanocrystals for Efficient and Stable Perovskite LEDs",
+   "journal": "Materials",
+   "pubDate": "2026-10-26",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.jre.2026.10.022",
+   "titleEn": "Suppression of ligand-to-metal charge/energy transfer and alkaline phosphatase activity of Eu@ZrMOF for fluorescent and colorimetric perfluorooctanoic acid detection",
+   "journal": "Journal of Rare Earths",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120170",
+   "titleEn": "Selenium-modulated p-band center of nitrogen-doped carbon for colorimetric detection of total antioxidant capacity",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08502-9",
+   "titleEn": "Fabrication of bimetallic nanoclusters with peroxidase-like activity for detection of phenylenediamine and formaldehyde",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-10-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s43994-026-00360-8",
+   "titleEn": "Engineering of bioinspired cellulose nanowhisker-reinforced alginate hydrogel platform for colorimetric urea biosensing",
+   "journal": "Journal of Umm Al-Qura University for Applied Sciences",
+   "pubDate": "2026-10-29",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.67893/jeer.v1.i2.65",
+   "titleEn": "Advances in Coordination Chemistry-Based Sensors for Monitoring Toxic Metal Pollutants in Aquatic Environments",
+   "journal": "Journal of Ethnobiology and Environmental Research",
+   "pubDate": "2026-10-29",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1088/1361-6439/aebb3b",
+   "titleEn": "Differential colorimetric pH measuring microfluidic manifold with embedded sensors and actuators for textile dyeing industry",
+   "journal": "Journal of Micromechanics and Microengineering",
+   "pubDate": "2026-10-29",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acs.iecr.6c04131",
+   "titleEn": "Peroxidase-Mimetic Activity of Pollutant-Soot-Derived Cytocompatible Onion-like Nanocarbon for Colorimetric Detection of H2O2 and Sequential Sensing of Epinephrine",
+   "journal": "Industrial & Engineering Chemistry Research",
+   "pubDate": "2026-10-29",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/bio.70662",
+   "titleEn": "A Signal-Switchable Fluorescent-Colorimetric Dual-Signal Probe for Detection of Sunitinib Based on D-Penicillamine-Functionalized Silicon Nanoparticles",
+   "journal": "Luminescence",
+   "pubDate": "2026-10-29",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130854",
+   "titleEn": "Colorimetric sensor arrays and artificial intelligence for natural product quality evaluation: From cross-reactive fingerprints to analytical validation",
+   "journal": "Talanta",
+   "pubDate": "2026-10-28",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.saa.2026.129066",
+   "titleEn": "A dual-emission zirconium-based metal-organic framework for fluorescence-colorimetry-smartphone sensing of quercetin",
+   "journal": "Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy",
+   "pubDate": "2026-10-28",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acs.cgd.6c00465",
+   "titleEn": "Synthesis of Spherical Nanoflower-Shaped Ti3C2Tx MXenes for Application in the Label-Free Colorimetric Sensing of Silver Ions",
+   "journal": "Crystal Growth & Design",
+   "pubDate": "2026-10-27",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.pmpp.2026.103622",
+   "titleEn": "Rapid quantitative detection of aflatoxin B1 contamination in wheat using a hybrid anthocyanin-porphyrin colorimetric sensor array",
+   "journal": "Physiological and Molecular Plant Pathology",
+   "pubDate": "2026-10-27",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.rechem.2026.104023",
+   "titleEn": "Natural product-derived xanthotoxin from Prangos pabularia as a colorimetric sensor for selective detection of hypochlorite anion",
+   "journal": "Results in Chemistry",
+   "pubDate": "2026-10-25",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08474-w",
+   "titleEn": "Manganese phthalocyanine-conjugated polymer nanozyme with enhanced catalytic activity for dual-mode photothermal-colorimetric detection of hypoxanthine and meat freshness assessment",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-10-24",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.saa.2026.129041",
+   "titleEn": "Dual-mode colorimetric sensing of bilirubin using a PDDA@peroxomolybdate composite: A spectrophotometric platform and cost-effective cotton-swab sensor for point-of-care testing",
+   "journal": "Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy",
+   "pubDate": "2026-10-24",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.18805/ajdfr.drf-713",
+   "titleEn": "Comparison of Cielab and RGB-based Color Analysis for Characterizing Curcumin-based Edible Coating as a Potential Colorimetric Indicator for Sliced Cheese",
+   "journal": "Asian Journal of Dairy and Food Research",
+   "pubDate": "2026-10-24",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08493-7",
+   "titleEn": "N-doped carbon dots based metal-free nanozymes for smartphone-assisted colorimetric detection of Co2+ in water samples",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346465",
+   "titleEn": "Switchable-hydrophilicity pH-Responsive deep eutectic solvent-assisted microfluidic preconcentration for smartphone-based colorimetric determination of rifaximin",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-10-29",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130836",
+   "titleEn": "Dual-zone swelling microneedle-smartphone platform for simultaneous colorimetric quantification of glucose and pH in diabetic wound interstitial fluid",
+   "journal": "Talanta",
+   "pubDate": "2026-10-27",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346444",
+   "titleEn": "Smartphone-assisted ATT-AuNCs/CuCo@PDA colorimetric/ fluorescent dual-modal test strip immunosensor for precision acetochlor detection",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-10-27",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.diamond.2026.114336",
+   "titleEn": "Anti-correlated dual-channel ratiometric fluorescence and colorimetric determination of formaldehyde using carbon dots coupled with the malachite green-sulfite kinetic system",
+   "journal": "Diamond and Related Materials",
+   "pubDate": "2026-10-27",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346439",
+   "titleEn": "Nanozyme-enabled colorimetric immunoassay with smartphone readout for serum small cell lung cancer biomarkers",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-10-24",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ccr.2026.218685",
+   "titleEn": "Smartphone-assisted colorimetric and fluorometric sensing with small-molecule responsive probes: advances and perspectives",
+   "journal": "Coordination Chemistry Reviews",
+   "pubDate": "2026-10-24",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acsanm.6c04164",
+   "titleEn": "Flexible MoS2-ZnO Nanocomposite Film for Highly Sensitive and Wide-Range NO2 Detection at Room Temperature via Heterojunction-Controlled Conduction",
+   "journal": "ACS Applied Nano Materials",
+   "pubDate": "2026-10-29",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.62643/ijerst.2026.v22.n4.4784",
+   "titleEn": "DESIGN AND IMPLEMENTATION OF A SMART MACHINE LEARNING FRAMEWORK FOR MONITORING, FORECASTING, AND EARLY WARNING OF HAZARDOUS GAS EMISSIONS IN RURAL AND REMOTE AREAS",
+   "journal": "International Journal of Engineering Research and Science & Technology",
+   "pubDate": "2026-10-26",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.yofte.2026.104855",
+   "titleEn": "Refractive index modulation in HKUST-1 thin film for ultrasensitive fiber- optic ammonia sensing",
+   "journal": "Optical Fiber Technology",
+   "pubDate": "2026-10-28",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/ijms27219711",
+   "titleEn": "Simple, Fast and Cheap Pb2+ and Hg2+ Detection in Liquid Media Using EGOFET-Based Aptasensors",
+   "journal": "International Journal of Molecular Sciences",
+   "pubDate": "2026-10-29",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.jece.2026.125726",
+   "titleEn": "Synergistic integration of AIE-active thiourea rotors and masking agent arrays in a fluorescent covalent organic framework platform for heavy metal ions and corresponding masking agents sensing",
+   "journal": "Journal of environmental chemical engineering",
+   "pubDate": "2026-10-29",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsaenm.6c01045",
+   "titleEn": "Engineering a 3D-Printed PLA-Based Graphene-NiCo2S4 Electrochemical Platform for Simultaneous Detection of Cd2+, Pb2+, and Hg2+ in Fish and Water",
+   "journal": "ACS Applied Engineering Materials",
+   "pubDate": "2026-10-27",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18212651",
+   "titleEn": "Flexible Surface Acoustic Wave Sensor Based on an SXFA Sensitive Film for DMMP Detection",
+   "journal": "Polymers",
+   "pubDate": "2026-10-26",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/ma19214606",
+   "titleEn": "Intelligent Recognition of Sulfur-Containing VOCs Using a Au/Pd-Modified RGO-SnO2 Gas Sensor Array",
+   "journal": "Materials",
+   "pubDate": "2026-10-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s00339-026-10396-6",
+   "titleEn": "Synergistic modulation of oxygen vacancies, pore structure, and gas adsorption by Nd doping for enhanced VOC sensing in ZnO",
+   "journal": "Applied Physics A",
+   "pubDate": "2026-10-28",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1080/14328917.2026.2749058",
+   "titleEn": "Harnessing p-type behaviour in V 2 O 5 nanostructures for advanced selective detection of volatile organic compounds",
+   "journal": "Materials Research Innovations",
+   "pubDate": "2026-10-28",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.61558/2993-074x.3623",
+   "titleEn": "Metal Oxide Semiconductor Gas Sensors for Exhaled Breath Cancer Biomarker Detection",
+   "journal": "Journal of Electrochemistry",
+   "pubDate": "2026-10-28",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.mtchem.2026.104133",
+   "titleEn": "MoSi2N4 monolayers for volatile organic compound detection and early assessment of pond health in shrimp aquaculture systems",
+   "journal": "Materials Today Chemistry",
+   "pubDate": "2026-10-28",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.colsurfa.2026.142188",
+   "titleEn": "Pd-decorated ZnO/g-C3N4 heterojunctions for high-performance ethanol gas sensing",
+   "journal": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+   "pubDate": "2026-10-27",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1038/s41598-026-76940-9",
+   "titleEn": "Identification of artificially ripened banana by chemical agent using gas sensor array",
+   "journal": "Scientific Reports",
+   "pubDate": "2026-10-25",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120169",
+   "titleEn": "CTAB assisted electrosynthesis of polycurcumin based enzymeless electrochemical platform for sensing of methyl-parathion pesticide in water and tomato samples",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/admt.71429",
+   "titleEn": "A Laser-Induced Graphene Biosensor With an Engineered Antifouling Interface for On-Site Detection of Organophosphorus Pesticides",
+   "journal": "Advanced Materials Technologies",
+   "pubDate": "2026-10-24",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.mtchem.2026.104139",
+   "titleEn": "High energy density dielectric films based on photo-crosslinked high-polarization polynorbornene copolymers for capacitive energy storage",
+   "journal": "Materials Today Chemistry",
+   "pubDate": "2026-10-31",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1080/10601325.2026.2751634",
+   "titleEn": "Fluorinated amine-polysiloxanes as versatile crosslinkers for epoxy anti-corrosion coatings",
+   "journal": "Journal of Macromolecular Science Part A",
+   "pubDate": "2026-10-29",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.apmt.2026.103465",
+   "titleEn": "High refractive index, photocurable resins for inkjet-printable optical devices",
+   "journal": "Applied Materials Today",
+   "pubDate": "2026-10-26",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.optlastec.2026.116797",
+   "titleEn": "Measurement of refractive index and evaluation of cured state of UV-curable adhesive using immersion liquid method and digital holography",
+   "journal": "Optics & Laser Technology",
+   "pubDate": "2026-10-25",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1177/07316844261500327",
+   "titleEn": "Comparative repair of drilled flame-retardant GFRP composites using UV-curable and unsaturated polyester resins",
+   "journal": "Journal of Reinforced Plastics and Composites",
+   "pubDate": "2026-10-24",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
