@@ -1,0 +1,1096 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T05:14:46+09:00",
+ "searchFrom": "2026-10-30",
+ "sources": {
+  "openalex": {
+   "ok": 33,
+   "fail": 0
+  },
+  "crossref": {
+   "ok": 0,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 13,
+   "fail": 0
+  }
+ },
+ "count": 17,
+ "papers": [
+  {
+   "doi": "10.1002/adma.75660",
+   "url": "https://doi.org/10.1002/adma.75660",
+   "titleEn": "Ionization-State-Directed Sulfonate-Rich Buried Interfaces Enable Durable High-Efficiency Perovskite Solar Cells and Modules",
+   "journal": "Advanced Materials",
+   "journalAbbr": "Adv. Mater.",
+   "tier": 1,
+   "pubDate": "2026-11-05",
+   "year": "2026",
+   "authors": [
+    "Yihao Mo",
+    "Ye Lan",
+    "Hengyu Zhou",
+    "Xiaowei Xu",
+    "Simeng Gao",
+    "Shikang Zhu",
+    "Yu Jie",
+    "Leixi He",
+    "Songyu Du",
+    "Quan Liu",
+    "Wei Song",
+    "Lihong Zhou",
+    "Mengjin Yang",
+    "Ziyi Ge"
+   ],
+   "corrAuthor": "Ziyi Ge",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT Proton‐triggered degradation at the buried interface severely undermines the operational stability of inverted perovskite solar cells (PSCs). To address this issue, this work develops an ionization‐state‐directed sulfonate approach using sodium 2,2'‐disulfanediyldiethanesulfonate (DDANA). The pre‐deprotonated sulfonate terminals grant DDANA strong coordination with lead sites and drive its spontaneous aggregation at the perovskite and self‐assembled monolayer interface, forming robust multisite binding with the perovskite lattice. The enriched sulfonate groups build favorable interfacial dipoles to optimize energy level alignment and facilitate hole transport. The immobilized sulfonate groups act as conjugate‐based sites to competitively capture protons, while the disulfide skeleton enables reversible iodine‐redox to scavenge corrosive iodine species under operational stress. Dissociated sodium (Na + ) ions embed into lattice interstices and release residual tensile strain. As a result, DDANA‐modified inverted PSCs achieve a champion efficiency of 27.38% (certified 27.13%). The strategy extends seamlessly to flexible devices and rigid large‐area modules, delivering efficiencies of 25.88% and 23.33%, respectively. Moreover, the DDANA‐modified devices retain 98.9% of their initial efficiency after 1000 h of maximum power point tracking and 97.4% after cycling diurnals. This work establishes sulfonate ionization‐state engineering as a versatile molecular design platform for constructing chemically robust buried interfaces toward efficient, stable, and scalable perovskite photovoltaics.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.75660",
+   "oaStatus": "bronze",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 3
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 3,
+   "autoPdf": true,
+   "filename": "Ziyi Ge, Adv. Mater., 2026, Ionization-State-Directed Sulfonate-Rich Buried Interfaces Enable Durable High-Efficiency Perovskite Solar Cells and Modules",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41586-026-11226-8",
+   "url": "https://doi.org/10.1038/s41586-026-11226-8",
+   "titleEn": "Conjugation-regulated self-assembled molecules for tandem solar cells",
+   "journal": "Nature",
+   "journalAbbr": "Nature",
+   "tier": 1,
+   "pubDate": "2026-11-04",
+   "year": "2026",
+   "authors": [
+    "Zheng Fang",
+    "Zhijie Rao",
+    "Chongtao Liu",
+    "Lei Ding",
+    "Anqi Lv",
+    "Yuan Qin",
+    "Jingwei Xue",
+    "Vladyslav Hnapovskyi",
+    "Fuzong Xu",
+    "Tino Lukas",
+    "Zhaoyu Lou",
+    "Qingshui Zheng",
+    "Huimin Zhang",
+    "Yue Yin",
+    "Luxin Lu",
+    "Hongbo Mo",
+    "Fu Zhang",
+    "Y.H. He",
+    "Xixiang Xu",
+    "Martin Stolterfoht",
+    "Stefaan De Wolf",
+    "Long Jiang",
+    "Bo He",
+    "Jun Li Yin",
+    "Kai Wang",
+    "Jiang Liu",
+    "Xiaohong Zhang"
+   ],
+   "corrAuthor": "Xiaohong Zhang",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 2
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Xiaohong Zhang, Nature, 2026, Conjugation-regulated self-assembled molecules for tandem solar cells",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.snb.2026.141202",
+   "url": "https://doi.org/10.1016/j.snb.2026.141202",
+   "titleEn": "Eco-friendly synthesis of InSe nanoflakes for NO2 gas sensors with excellent response and high humidity resilience",
+   "journal": "Sensors and Actuators B: Chemical",
+   "journalAbbr": "Sens. Actuators B Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-06",
+   "year": "2026",
+   "authors": [
+    "Jyayasi Sharma",
+    "Dalal Fadil",
+    "Eduard Llobet"
+   ],
+   "corrAuthor": "Eduard Llobet",
+   "corrConfirmed": true,
+   "abstract": "In this paper, a faster and more environmentally friendly way to produce Indium selenide (InSe) nanoflakes for NO 2 gas sensors utilizing a non-toxic solvent (IPA/DI water) is presented. A simple technique of Liquid Phase Exfoliation was employed for the synthesis of the sensing material. The as-produced InSe nanoflakes were subjected to structural, morphological and compositional analyses with FESEM, XRD, TEM, Raman spectroscopy, EDX, DLS and XPS. These samples were then used in the development of NO 2 gas sensors for real-world applications. Sensors were tested under several conditions, including optimal operating temperature, low NO 2 concentrations, and background humidity. Sensors outperform the state of the art, with a 149.10% response for 1 ppm of NO 2 at an operating temperature of 200℃ and very low response and recovery times. Sensors also exhibit an enhanced response of 237.59% in the presence of 50% R.H. @ 25ºC, little humidity cross-sensitivity in the 25 to 75% R.H. range, with a low limit of detection of 35 ppb. Their high sensitivity and selectivity combined to their ability to operate under ambient moisture, make these sensors promising for monitoring traces of NO 2 in the ambient.",
+   "pdfUrl": "",
+   "oaStatus": "hybrid",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 5
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 5,
+   "autoPdf": true,
+   "filename": "Eduard Llobet, Sens. Actuators B Chem., 2026, Eco-friendly synthesis of InSe nanoflakes for NO2 gas sensors with excellent response and high humidity resilience",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.snb.2026.141204",
+   "url": "https://doi.org/10.1016/j.snb.2026.141204",
+   "titleEn": "Interfacial Selectivity Control via MLD-Derived Hybrid Membrane for Highly Selective H2S Detection on SnO2 Nanowires",
+   "journal": "Sensors and Actuators B: Chemical",
+   "journalAbbr": "Sens. Actuators B Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-01",
+   "year": "2026",
+   "authors": [
+    "Anh-Duy Nguyen",
+    "Elissa Makhoul",
+    "Ali Mirzaei",
+    "Igor Iatsunskyi",
+    "Emerson L. Coy",
+    "Ka Yoon Shin",
+    "Mikhaël Bechelany",
+    "Sang Sub Kim",
+    "Hyoun Woo Kim"
+   ],
+   "corrAuthor": "Hyoun Woo Kim",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "green",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 4
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Hyoun Woo Kim, Sens. Actuators B Chem., 2026, Interfacial Selectivity Control via MLD-Derived Hybrid Membrane for Highly Selective H2S Detection on SnO2 Nanowires",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adfm.79531",
+   "url": "https://doi.org/10.1002/adfm.79531",
+   "titleEn": "Surfactant Induces Uniform and Stable Self-Assembled Monolayers for High-Performance Wide-Bandgap Perovskite Solar Cells",
+   "journal": "Advanced Functional Materials",
+   "journalAbbr": "Adv. Funct. Mater.",
+   "tier": 2,
+   "pubDate": "2026-11-07",
+   "year": "2026",
+   "authors": [
+    "Zhongli Guo",
+    "Ying Meng",
+    "Fan Xu",
+    "Hao Xu",
+    "Yuan Li",
+    "Junfa Zhu",
+    "Lijuan Huang",
+    "Huaqing Yang",
+    "Yan Shi",
+    "Minggang He",
+    "Zhuoqiong Zhang",
+    "Yimu Chen",
+    "Qin Hu",
+    "Tanghao Liu"
+   ],
+   "corrAuthor": "Tanghao Liu",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT Self‐assembled monolayers (SAMs) have been extensively studied in perovskite solar cells (PSCs). Nevertheless, the aggregation tendency of SAM molecules results in non‐uniform deposition and inadequate substrate coverage, thereby severely impeding device performance. Herein, we introduce a multifunctional additive, nonafluorobutane‐1‐sulfonic acid (PFBS), to actively regulate the growth of SAM layers. Our investigations reveal that PFBS suppresses the self‐aggregation of SAM molecules through hydrogen bonding and steric disruption, thus promoting their dispersion in the solution and facilitating the exposure of anchoring groups. The PFBS‐modified SAM exhibits improved coverage, robustness, and interfacial energy‐level alignment. Furthermore, PFBS effectively passivates interfacial defects, reduces non‐radiative recombination, and promotes the growth of high‐quality perovskite film. Consequently, the PFBS‐optimized PSC with a 1.68 eV bandgap delivers a champion power conversion efficiency (PCE) of 24% and significantly enhanced stability. This work presents an additive‐induced ordering strategy, providing a scalable route for high‐performance PSCs and tandem photovoltaics.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 4
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Tanghao Liu, Adv. Funct. Mater., 2026, Surfactant Induces Uniform and Stable Self-Assembled Monolayers for High-Performance Wide-Bandgap Perovskite Solar Cells",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acssensors.6c01205",
+   "url": "https://doi.org/10.1021/acssensors.6c01205",
+   "titleEn": "Ionic Liquid-Functionalized CNT Electrochemical Platform Governed by a Dual-Path Sensing Mechanism for Versatile VOC Detection",
+   "journal": "ACS Sensors",
+   "journalAbbr": "ACS Sens.",
+   "tier": 2,
+   "pubDate": "2026-11-07",
+   "year": "2026",
+   "authors": [
+    "Han Li",
+    "Yusen Guo",
+    "Qiushi Feng",
+    "Rui He",
+    "Zilun Yin",
+    "Sisi Huang",
+    "Yan Zhang",
+    "Sisi Feng",
+    "Xuelei Liang",
+    "Qiliang Li"
+   ],
+   "corrAuthor": "Qiliang Li",
+   "corrConfirmed": true,
+   "abstract": "Abstract Room-temperature ionic liquids (RTILs) have garnered significant attention as advanced electrolytes for electrochemical gas sensors owing to their negligible volatility and wide electrochemical windows. However, their application in detecting volatile organic compounds (VOCs) is constrained by high viscosity (limiting mass transport) and the sluggish electrooxidation kinetics of most VOCs. Supported ionic liquid phase (SILP) materials, which immobilize RTILs on porous supports to amplify the gas–liquid interface, present a promising yet underexplored avenue for addressing these challenges. Herein, we develop a novel electrochemical platform configured with high-purity semiconducting carbon nanotube (CNT) films serving as both working electrodes and scaffolds to immobilize RTILs to construct a nanostructured SILP electrolyte. This architecture simultaneously maximizes the active gas–liquid interface, minimizes the gas diffusion distance, and ensures efficient charge transport. The platform enables quantitative detection of ethanol and isopropanol, exhibiting well-defined linear responses from 0–800 ppm and 0–600 ppm, respectively, with distinctive non-monotonic patterns at higher concentrations. Mechanistic investigations reveal that the sensing process diverges from conventional faradaic electrochemistry and is instead governed by a dual-path mechanism: competitive adsorption between oxygen and VOC molecules at the SILP surface, coupled with VOC absorption into the bulk phase. This unique mechanism, which circumvents the limitations of direct electrooxidation by exploiting distinct interactions between VOCs and the SILP, provides inherent discriminative capability. Consequently, our work establishes the CNT-SILP system as a versatile, miniaturization-ready platform for room-temperature VOC sensing and paves the way for novel intelligent gas sensors.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 4
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Qiliang Li, ACS Sens., 2026, Ionic Liquid-Functionalized CNT Electrochemical Platform Governed by a Dual-Path Sensing Mechanism for Versatile VOC Detection",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsnano.6c12991",
+   "url": "https://doi.org/10.1021/acsnano.6c12991",
+   "titleEn": "Bandgap and Interface Engineering of Ag-Au-S Quantum Dots toward Bright Near-Infrared Emission and Deep-Tissue Bioimaging",
+   "journal": "ACS Nano",
+   "journalAbbr": "ACS Nano",
+   "tier": 2,
+   "pubDate": "2026-11-05",
+   "year": "2026",
+   "authors": [
+    "Kazutaka Akiyoshi",
+    "Hinako Hayashi",
+    "Mariko Hasegawa",
+    "E. Ko",
+    "Nurmanita Rismaningsih",
+    "Chie Miyamae",
+    "Hiroyuki Okada",
+    "Tatsuya Kameyama",
+    "Hiroki Sato",
+    "Yusuke Ohshima",
+    "Shota Yamada",
+    "Hiroshi Yukawa",
+    "Yoshinobu Baba",
+    "Tsukasa Torimoto"
+   ],
+   "corrAuthor": "Tsukasa Torimoto",
+   "corrConfirmed": true,
+   "abstract": "Abstract Low-toxicity colloidal quantum dots (QDs) with tunable near-infrared (NIR) emission are promising for bioimaging because biological tissues exhibit relatively low light scattering and absorption in the 700–1700 nm optical window. However, it remains challenging to achieve high photoluminescence quantum yields (PLQYs), aqueous stability, and tunable emission simultaneously. Here, we demonstrate efficient NIR emission from Ag–Au–S QDs by combining composition control with heterointerface engineering. Varying the Ag/Au ratio tuned the bandgap from 1.39 to 1.88 eV and shifted the PL peak from 1130 to 745 nm. QDs prepared with an Ag/(Ag+Au) precursor ratio of 0.75 had an average diameter of 2.5 nm and consisted of a polycrystalline Ag3AuS2 core surrounded by an amorphous Ag–S-rich surface layer. These QDs exhibited a PL peak at 800 nm with a PLQY of 3.4%. In–S shell coating increased the PLQY to 33.6%. Subsequent ZnS treatment produced Janus-like Ag–Au–S@In–Zn–S QDs exhibiting a PL peak at 840 nm with a PLQY of 38.9%, consistent with suppression of nonradiative recombination through surface passivation. After ligand exchange with 3-mercaptopropionic acid, the QDs were readily dispersed in water while retaining a PLQY of 27.0% and exhibited excellent PL stability in biologically relevant media. The QDs enabled in vivo deep-tissue imaging, with NIR PL detected from tissues at depths of up to 15 mm. These findings demonstrate that Ag–Au–S-based QDs are promising low-toxicity NIR probes for biomedical imaging.",
+   "pdfUrl": "https://pubs.acs.org/ancac3/article-pdf/doi/10.1021/acsnano.6c12991/69091112/acsnano.6c12991.pdf",
+   "oaStatus": "hybrid",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 3,
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 3,
+   "autoPdf": true,
+   "filename": "Tsukasa Torimoto, ACS Nano, 2026, Bandgap and Interface Engineering of Ag-Au-S Quantum Dots toward Bright Near-Infrared Emission and Deep-Tissue Bioimaging",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.analchem.6c05646",
+   "url": "https://doi.org/10.1021/acs.analchem.6c05646",
+   "titleEn": "Self-Calibrating Ratiometric Colorimetric Microfluidic Paper-Based Analytical Device for Visual Quantification of Hypoxanthine",
+   "journal": "Analytical Chemistry",
+   "journalAbbr": "Anal. Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-06",
+   "year": "2026",
+   "authors": [
+    "Rui Wang",
+    "Ji Qi",
+    "Jie Shao",
+    "Qi Zhang",
+    "Mengfei Zhu",
+    "Zhong Zhang",
+    "Lingxin Chen",
+    "Xiaokun Wang"
+   ],
+   "corrAuthor": "Xiaokun Wang",
+   "corrConfirmed": true,
+   "abstract": "Abstract Existing self-calibrating strategies improve quantitative paper-based colorimetry by correcting imaging variations, yet their analytical reliability remains limited because heterogeneous sensing interfaces introduce errors that cannot be compensated by internal-reference calibration alone. Herein, we present a self-calibrating ratiometric microfluidic paper-based analytical devices (μPADs) based on a dual error-control strategy that integrates interface homogenization with internal-reference correction for portable hypoxanthine (Hx) quantification, an important early freshness indicator of aquatic products. A sol−gel/chitosan (Sol−Gel/CS) hybrid network uniformly immobilizes MnO2 nanoflowers (NFs), suppressing coffee-ring formation while improving reagent stability, catalytic activity, and color uniformity. Xanthine oxidase (XOD), incorporated only into the test zone, catalyzes Hx oxidation to generate H2O2 and uric acid, which decompose MnO2 NFs and weaken their oxidase-like activity toward 3,3′,5,5′-tetramethylbenzidine, producing an Hx-dependent color decrease. Meanwhile, the XOD-free reference zone provides a stable internal-reference signal. Ratiometric analysis (IT/IR) effectively compensates for imaging variations across different smartphones, enabling reliable visual quantification. The μPAD achieved a detection limit of 3.42 μM and agreed well with triple-quadrupole liquid chromatography−tandem mass spectrometry. Freshness monitoring of crucian carp, shrimp, and scallop was successfully demonstrated through both extract-based and direct-contact assays. This dual error-control strategy establishes a general framework for robust quantitative paper-based colorimetric sensing.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 3,
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 3,
+   "autoPdf": true,
+   "filename": "Xiaokun Wang, Anal. Chem., 2026, Self-Calibrating Ratiometric Colorimetric Microfluidic Paper-Based Analytical Device for Visual Quantification of Hypoxanthine",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.analchem.6c06007",
+   "url": "https://doi.org/10.1021/acs.analchem.6c06007",
+   "titleEn": "A Double-Excitation Intrinsically Dual Emissive Carbon Dot Platform Enables Multi-Channel Sensitive Detection and Imaging of Common Pesticides in Live Models",
+   "journal": "Analytical Chemistry",
+   "journalAbbr": "Anal. Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-07",
+   "year": "2026",
+   "authors": [
+    "Chuntong Liu",
+    "Mingli Yue",
+    "Shijie Li",
+    "Yue Zhai",
+    "Fangfang Wu",
+    "Wenjuan Ma",
+    "Lixia Zhao",
+    "Ying Fu",
+    "Bing-Bing Lu",
+    "Fei Ye"
+   ],
+   "corrAuthor": "Fei Ye (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract Carbon dot sensors often couple one excitation condition to one analyte and one output, limiting information from a single probe. Here, we report intrinsically dual-emissive carbon dots (De-CDs) whose two excitation windows partition complementary sensing functions. Under 365 nm excitation, Hg2+ quenches the 450 and 680 nm emissions and clothianidin restores them, enabling sequential on-off-on determination by ratiometric fluorescence and a complementary UV−Vis response at 441 nm. The fluorescence channel quantified Hg2+ over 0.0116−12 μmol L−1 (LOD = 0.0116 μmol L−1), while clothianidin showed piecewise calibration up to 45 μmol L−1 (LOD = 0.0031 μmol L−1); UV−Vis LODs were 0.0095 and 0.0010 μmol L−1. The dual-channel design enables simultaneous utilization of fluorescent and UV wavelengths, thereby reducing interference and enhancing selectivity during detection. Under 420 nm excitation, a red-emission redistribution quantified Zn2+ over 0.0157−3.5 μmol L−1 (LOD = 0.0157 μmol L−1) and provided a zineb calibration over 0.0102−9 μmol L−1 (LOD = 0.0102 μmol L−1). Hg2+ forms ground-state complexes causing fluorescence quenching, and clothianidin competitively displaces Hg2+ to restore fluorescence (“On-Off-On”). In contrast, Zn2+ induces chelation-enhanced fluorescence by restricting intramolecular motion and suppressing non-radiative decay. Measurements in soil, river water, and fruit agreed with ICP-AES, LC−MS, or GC. Excitation-dependent responses were further demonstrated in HepG2 cells, zebrafish, mice, and rice seedlings. This carbon-dot scaffold separates sensing tasks by excitation wavelength and integrates complementary readouts with multiscale imaging. This multifunctional platform integrates environmental, common foods monitoring and bioimaging for synchronous analysis of multiple pollutants.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 3
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 3,
+   "autoPdf": true,
+   "filename": "Fei Ye, Anal. Chem., 2026, A Double-Excitation Intrinsically Dual Emissive Carbon Dot Platform Enables Multi-Channel Sensitive Detection and Imaging of Common Pesticides in Live Mo",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.snb.2026.141197",
+   "url": "https://doi.org/10.1016/j.snb.2026.141197",
+   "titleEn": "Low temperature-regulated Pd-PdO/ZnO fibrous tubes derived from waste willow catkins for dual-selective detection of NO2/butylamine and application in smart agriculture",
+   "journal": "Sensors and Actuators B: Chemical",
+   "journalAbbr": "Sens. Actuators B Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-05",
+   "year": "2026",
+   "authors": [
+    "Jing Zhang",
+    "Ming-Song Lv",
+    "Qiu-Yue Zheng",
+    "Ying-Nan Dou",
+    "Bao-Yu Song",
+    "Shuang Gao",
+    "Ying-Ming Xu"
+   ],
+   "corrAuthor": "Shuang Gao",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 2
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Shuang Gao, Sens. Actuators B Chem., 2026, Low temperature-regulated Pd-PdO ZnO fibrous tubes derived from waste willow catkins for dual-selective detection of NO2 butylamine and a",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adfm.79031",
+   "url": "https://doi.org/10.1002/adfm.79031",
+   "titleEn": "Breaking the 35% Efficiency Milestone: Material Innovations and Interface Mechanisms in Monolithic Perovskite/Silicon Tandem Solar Cells",
+   "journal": "Advanced Functional Materials",
+   "journalAbbr": "Adv. Funct. Mater.",
+   "tier": 2,
+   "pubDate": "2026-11-07",
+   "year": "2026",
+   "authors": [
+    "Jingwei Xue",
+    "Long Jiang",
+    "Pengju Shi",
+    "Dengfeng Cao",
+    "Zhenhan Wang",
+    "Zhaozhao Bi",
+    "Hang Su",
+    "Qiang Wu",
+    "Yuanbo Yang",
+    "Li T",
+    "Wei Ma"
+   ],
+   "corrAuthor": "Wei Ma (추정)",
+   "corrConfirmed": false,
+   "abstract": "ABSTRACT Crystalline silicon solar cells are approaching their theoretical Auger efficiency limit, necessitating tandem architectures that transcend the Shockley–Queisser constraint and lower the cost of electricity. Monolithic perovskite/silicon tandem solar cells (PSTSCs) have breached the 35% power conversion efficiency barrier, emerging as the leading candidate to disrupt the photovoltaic landscape. However, translating this laboratory success to terawatt‐scale deployment requires precise control over charge transport and interfacial recombination at the interconnecting layer (ICL). This review examines the material innovations driving this evolution, grounded in a quantitative loss‐budget analysis, with a focus on the ICL and full‐dimensional interface engineering. We first examine the evolving ICL paradigm, from defect‐mediated transport in amorphous silicon to efficient band‐to‐band tunneling in polycrystalline silicon junctions, and the enhanced charge extraction enabled by transparent conductive oxides with self‐assembled monolayers (SAMs), whose Ohmic contact formation we trace through an anchoring‐to‐Fermi‐level‐depinning mechanism. We further dissect breakthroughs mitigating non‐radiative losses on textured silicon substrates, where SAMs and passivation strategies overcome steric hindrance and contact resistance, and where the same pyramid texture governs wide‐bandgap perovskite crystallization and its process‐engineering trade‐offs. Finally, we navigate the “efficiency‐stability‐cost” trilemma, addressing halide‐segregation and ion‐migration suppression under a standardized stability framework, alongside scalable manufacturing toward industrial translation.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 2
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Wei Ma, Adv. Funct. Mater., 2026, Breaking the 35% Efficiency Milestone Material Innovations and Interface Mechanisms in Monolithic Perovskite Silicon Tandem Solar Cells",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1038/s41467-026-79298-8",
+   "url": "https://doi.org/10.1038/s41467-026-79298-8",
+   "titleEn": "Addressing the 1000-h/1000-nit stability challenge in perovskite LEDs",
+   "journal": "Nature Communications",
+   "journalAbbr": "Nat. Commun.",
+   "tier": 2,
+   "pubDate": "2026-11-06",
+   "year": "2026",
+   "authors": [
+    "Yucai Yuan",
+    "Shiyu Xing",
+    "Gan Zhang",
+    "Bo Li",
+    "Suhui Zhang",
+    "Shengnan Liu",
+    "Yu Pan",
+    "Zhuoyue Gu",
+    "Ke Chao Zhou",
+    "Weidong Tang",
+    "Yuxiang Gao",
+    "Shiang Zhang",
+    "Zhixiang Ren",
+    "Shi‐Yuan Zhang",
+    "Fengjia Fan",
+    "Chen Zou",
+    "Feng Linrun",
+    "Baodan Zhao",
+    "Dawei Di"
+   ],
+   "corrAuthor": "Dawei Di",
+   "corrConfirmed": true,
+   "abstract": "Abstract Perovskite light-emitting diodes (PeLEDs) offer exceptional colour purity and efficiency for next-generation display applications. Despite the recent advances in device stability, achieving long-term stable PeLEDs under display-relevant conditions remains a critical challenge. The actual device half-life (T 50 ) experimentally measured for visible PeLEDs were in most cases limited to below 1000 h for any given brightness, in contrast to the much longer extrapolated lifetimes reported. Here, we demonstrate stable green PeLEDs with a T 50 lifetime of 1350 h at an initial luminance of 1000 cd m −2 (nits), a maximum energy-conversion efficiency of 28.0%, and a peak external quantum efficiency of 24.5%. The exceptional performance is enabled by the insertion of a fluorinated self-assembled monolayer between the metal oxide and polymeric hole-transport layers. This molecular interlayer leads to Ohmic-like characteristics for charge injection, lowering the operating voltage at ~1000 nits to sub-bandgap levels (~2.1 V) where ion migration is suppressed. The accumulated photon output of our PeLEDs over the course of their T 50 lifespan is found to sharply increase as the driving voltage drops to sub-bandgap values, highlighting the critical role of employing low-voltage device architectures in reaching the 1350-h/1000-nit stability milestone. Finally, a flexible active-matrix PeLED display prototype is developed, showing the potential of the devices for wearable optoelectronics.",
+   "pdfUrl": "https://www.nature.com/articles/s41467-026-79298-8_reference.pdf",
+   "oaStatus": "gold",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 1
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Dawei Di, Nat. Commun., 2026, Addressing the 1000-h 1000-nit stability challenge in perovskite LEDs",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.cej.2026.183715",
+   "url": "https://doi.org/10.1016/j.cej.2026.183715",
+   "titleEn": "Multidentate-interlocking strategy: Suppressing surface defects for efficient broadband HgTe quantum dots photodetectors",
+   "journal": "Chemical Engineering Journal",
+   "journalAbbr": "Chem. Eng. J.",
+   "tier": 3,
+   "pubDate": "2026-10-30",
+   "year": "2026",
+   "authors": [
+    "Yichen Bu",
+    "Yadong Jiang",
+    "Wenxin Zeng",
+    "Zaihua Duan",
+    "Longcheng Que",
+    "Bohan Li",
+    "Zhen Yuan",
+    "Huiling Tai"
+   ],
+   "corrAuthor": "Huiling Tai",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Huiling Tai, Chem. Eng. J., 2026, Multidentate-interlocking strategy Suppressing surface defects for efficient broadband HgTe quantum dots photodetectors",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.cej.2026.183980",
+   "url": "https://doi.org/10.1016/j.cej.2026.183980",
+   "titleEn": "LiCl-assisted polarization and assembly regulation of self-assembled monolayers for inverted perovskite solar cells",
+   "journal": "Chemical Engineering Journal",
+   "journalAbbr": "Chem. Eng. J.",
+   "tier": 3,
+   "pubDate": "2026-11-01",
+   "year": "2026",
+   "authors": [
+    "Han Jiang",
+    "Jin Ye",
+    "Yu Tan",
+    "Cunyun Xu",
+    "Zezhuan Jiang",
+    "Zhongjun Dai",
+    "Qianqian Zhang",
+    "Xiaofeng He",
+    "Gaobo Xu",
+    "Zirui Peng",
+    "Chengxi Zhang",
+    "Qunliang Song"
+   ],
+   "corrAuthor": "Qunliang Song",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 2
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Qunliang Song, Chem. Eng. J., 2026, LiCl-assisted polarization and assembly regulation of self-assembled monolayers for inverted perovskite solar cells",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsami.6c15583",
+   "url": "https://doi.org/10.1021/acsami.6c15583",
+   "titleEn": "Flexible Phase Change Adhesive Allowing Tunable Melting Point for Flexible Electronics Thermal Management with Controlled Adhesion",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-06",
+   "year": "2026",
+   "authors": [
+    "Jianfeng Liu",
+    "Jianhui Xia"
+   ],
+   "corrAuthor": "Jianhui Xia",
+   "corrConfirmed": true,
+   "abstract": "Currently, flexible phase-change materials that have been widely investigated for flexible electronics typically exhibit melting points below 60 °C and lack intrinsic interfacial adhesion. These limitations render them inadequate for thermal management under bending, twisting, and other mechanical deformations encountered in flexible devices. To overcome these constraints, we developed a strategy in which novel urea-based phase-change materials (PCMs) were incorporated in situ into a polyacrylate matrix via a solvent-free UV-curing process, thereby constructing a flexible phase-change adhesive (FPCA) that combines strong interfacial adhesion with a tunable melting point covering 60-100 °C. The optimized FPCA formulation (E90A10-H6U-40 wt %) achieves an exceptional combination of properties: high flexibility (tensile strength: 0.44 MPa; elongation at break: 1227%), melt point (74.2 °C), reliable phase change enthalpy (53.4 J/g), strong adhesion (180° peel force: 5.5 N/25 mm at phase-transition temperature), folding endurance exceeding 200 000 cycles, and stable performance after accelerated aging (85 °C/85% Relative Humidity for 168 h). The FPCA series also enables controlled thermal debonding with debonding ratios exceeding 99%, supporting temporary bonding and non-destructive device recycling. This work substantially broadens the material landscape for flexible thermal management and offers a promising pathway toward next-generation, wearable-compatible electronic devices.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "광가교 전반",
+   "topicScores": {
+    "광가교 전반": 2
+   },
+   "queryTopics": [
+    "광가교 전반"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Jianhui Xia, ACS Appl. Mater. Interfaces, 2026, Flexible Phase Change Adhesive Allowing Tunable Melting Point for Flexible Electronics Thermal Management with Controlled Adhesion",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.cej.2026.183785",
+   "url": "https://doi.org/10.1016/j.cej.2026.183785",
+   "titleEn": "A dual-response red-emitting nitrogen-doped carbon dots for smartphone-assisted sensing and visual discrimination of doxycycline and chlortetracycline as well as intracellular imaging",
+   "journal": "Chemical Engineering Journal",
+   "journalAbbr": "Chem. Eng. J.",
+   "tier": 3,
+   "pubDate": "2026-11-07",
+   "year": "2026",
+   "authors": [
+    "yuzhu yang",
+    "Ming  Xian Fan",
+    "Gui Yong Li",
+    "Jiao Wang",
+    "Shi Chen",
+    "Xi  Yao Zeng",
+    "Huan  Li Liu",
+    "Xiao Long Ma"
+   ],
+   "corrAuthor": "Xiao Long Ma",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "green",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Xiao Long Ma, Chem. Eng. J., 2026, A dual-response red-emitting nitrogen-doped carbon dots for smartphone-assisted sensing and visual discrimination of doxycycline and chlortetracy",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76636",
+   "url": "https://doi.org/10.1002/smll.76636",
+   "titleEn": "UV-Cured Semi-Interpenetrating Polymer Network Electrolyte for High-Performance Bipolar-Stacked Quasi-Solid-State Lithium Metal Batteries",
+   "journal": "Small",
+   "journalAbbr": "Small",
+   "tier": 3,
+   "pubDate": "2026-11-05",
+   "year": "2026",
+   "authors": [
+    "Jiyeon Lee",
+    "Anh Le Mong",
+    "Hyocheol Lee",
+    "Dukjoon Kim"
+   ],
+   "corrAuthor": "Dukjoon Kim",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT Lithium metal batteries are regarded as promising candidates for next‐generation energy storage systems due to their high energy density. However, electrolyte instability and lithium dendrite formation remain critical challenges. Accordingly, a semi‐interpenetrating polymer network (semi‐IPN) quasi‐solid polymer electrolyte (QSPE) is developed by incorporating polyethylene glycol monomethyl ether methacrylate (PEGMA), polyethylene glycol dimethacrylate (PEGDA), and vinyl ethylene carbonate (VEC) into a polyvinyl alcohol (PVA) matrix via UV curing. The prepared semi‐IPN QSPE exhibits a high ionic conductivity of 1.36 × 10 −3 S cm −1 and a Li‐ion transference number of 0.78 at room temperature, while maintaining flexibility with a tensile strength of 5.2 MPa and a Young's modulus of 25.1 MPa. Furthermore, it demonstrates a wide electrochemical stability window up to 4.8 V and excellent interfacial compatibility with a lithium (Li) anode. Based on these properties, bipolar cells, constructed by serially connecting two LFP/QSPE/Li unit cells, not only achieve an open‐circuit voltage of 6.36 V stably, but also deliver a discharge capacity of 144 mAh g −1 at 0.2 C with 77.0% capacity retention and 99.0% coulombic efficiency after 100 cycles.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.76636",
+   "oaStatus": "bronze",
+   "topic": "광가교 전반",
+   "topicScores": {
+    "광가교 전반": 1
+   },
+   "queryTopics": [
+    "광가교 전반"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Dukjoon Kim, Small, 2026, UV-Cured Semi-Interpenetrating Polymer Network Electrolyte for High-Performance Bipolar-Stacked Quasi-Solid-State Lithium Metal Batteries",
+   "source": "openalex"
+  }
+ ],
+ "others": [
+  {
+   "doi": "10.1016/j.nanoen.2026.112557",
+   "titleEn": "Gradient potassium doping reconstructs buried interfaces for reproducible and efficient perovskite/SAM Co-deposited perovskite/silicon tandem solar cells",
+   "journal": "Nano Energy",
+   "pubDate": "2026-11-02",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1007/s44562-026-00009-2",
+   "titleEn": "Heat generation, multiscale thermal transport and thermal management in colloidal quantum-dot assemblies and devices",
+   "journal": "Thermal Functional Materials",
+   "pubDate": "2026-11-05",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acs.jpcc.6c06480",
+   "titleEn": "Soluble Complexes Destruct Metal-Alkanoate Clusters in the Mixture of Colloidal Quantum Dots",
+   "journal": "The Journal of Physical Chemistry C",
+   "pubDate": "2026-11-03",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1093/bulcsj/uoag148",
+   "titleEn": "Hydrothermal synthesis of water-soluble CdSe quantum dots with enhanced photoluminescence through precursor optimization and ZnS-related surface modification",
+   "journal": "Bulletin of the Chemical Society of Japan",
+   "pubDate": "2026-11-02",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s12161-026-03335-x",
+   "titleEn": "Quantum Dot-based Fluorescent Sensors for Cd2⁺ Detection in Food and Environmental Samples: Mechanisms, Analytical Performance, and Future Perspectives",
+   "journal": "Food Analytical Methods",
+   "pubDate": "2026-10-31",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acsaem.6c02211",
+   "titleEn": "Rational Design and Controlled Synthesis of Perovskite Nanocrystals for Bridging Dimensionality and Excited-State Dynamics",
+   "journal": "ACS Applied Energy Materials",
+   "pubDate": "2026-10-31",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.29026/oet.2026.260024",
+   "titleEn": "Short-chain ligand engineering toward room-temperature synthesis of high-brightness CsPbBr3 nanocrystals for color-conversion LED applications",
+   "journal": "Opto-Electronic Technology",
+   "pubDate": "2026-10-31",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.solener.2026.115283",
+   "titleEn": "Lead(II) dithiocarbamate-derived PbS quantum dots for high-performance quantum dot-sensitized solar cells",
+   "journal": "Solar Energy",
+   "pubDate": "2026-10-30",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.15407/pcmm2026.05.026",
+   "titleEn": "Luminescent properties of inorganic perovskite nanocrystals obtained by dimethyl sulfoxide-assisted synthesis in polymer matrices",
+   "journal": "Physicochemical Mechanics of Materials",
+   "pubDate": "2026-11-04",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.jlumin.2026.122282",
+   "titleEn": "Substituent-tuned carboxylate passivation of CsPbBr3 nanocrystals: Decoupling carrier lifetimes from ambient photostability",
+   "journal": "Journal of Luminescence",
+   "pubDate": "2026-11-03",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3938/phit.35.032",
+   "titleEn": "Fabrication of Highly Efficient Perovskite Nanocrystals",
+   "journal": "Physics and High Technology",
+   "pubDate": "2026-10-30",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120201",
+   "titleEn": "Iron-based bimetallic sulfides colorimetric sensor array combined with machine learning for simultaneous discrimination and quantification of phenolic acids",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s13726-026-01783-0",
+   "titleEn": "Development of anthocyanin-loaded starch-PVA-alginate hydrogel beads as intelligent colorimetric indicators for real-time freshness monitoring of shrimp and chicken meat",
+   "journal": "Iranian Polymer Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/foods15213967",
+   "titleEn": "Colorimetric Sensor Based on the Oxidase-like Activity of Au@MnOx Nanozyme for High-Sensitivity Detection of Malathion",
+   "journal": "Foods",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.saa.2026.129088",
+   "titleEn": "Trimetallic nanozyme microspheres-mediated colorimetric assay for rapid and on-site detection of glyphosate",
+   "journal": "Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s44211-026-00985-z",
+   "titleEn": "Colorimetric chemiluminescent bifunctional sensor for sensitive detection of choline in milk samples",
+   "journal": "Analytical Sciences",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.jece.2026.125795",
+   "titleEn": "Machine learning-integrated plasmonic colorimetric platform for onsite screening of coexisting hazardous heavy metals",
+   "journal": "Journal of environmental chemical engineering",
+   "pubDate": "2026-11-04",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1680/jenes.26.00094",
+   "titleEn": "Sustainable green analytical techniques for heavy metal detection in environmental forensics",
+   "journal": "Journal of Environmental Engineering and Science",
+   "pubDate": "2026-11-04",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.jre.2026.10.022",
+   "titleEn": "Suppression of ligand-to-metal charge/energy transfer and alkaline phosphatase activity of Eu@ZrMOF for fluorescent and colorimetric perfluorooctanoic acid detection",
+   "journal": "Journal of Rare Earths",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijbiomac.2026.155119",
+   "titleEn": "A colorimetric sensor using DNA flower-copper(II) mimic enzyme for rapid detection of hydrogen peroxide in dried seafood",
+   "journal": "International Journal of Biological Macromolecules",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.hazadv.2026.101720",
+   "titleEn": "Sprayable Redox-Responsive Colorimetric Sensors for On-Site CWA Detection and Decontamination",
+   "journal": "Journal of Hazardous Materials Advances",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346480",
+   "titleEn": "Colorimetric detection of anthrax biomarker based on Mn2+-enhanced peroxidase-like activity of Ce-doped carbon dots",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijoes.2026.101539",
+   "titleEn": "Nanoparticle-Based Nanosensors for Organophosphate Pesticide Detection: Design Strategies, Sensing Mechanisms and Future Perspectives",
+   "journal": "International Journal of Electrochemical Science",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.trac.2026.119258",
+   "titleEn": "Smart Sensors Based on Cerium Nanozymes for Colorimetric, Fluorescence, and Electrochemical Detection",
+   "journal": "TrAC Trends in Analytical Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151920",
+   "titleEn": "Magnetic-controlled assembly of aptamer-functionalized MOF-based molecularly imprinted polymers for fluorescence/colorimetric dual-mode sensing of ochratoxin A",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.jece.2026.125744",
+   "titleEn": "Recognition-driven “off-on” colorimetric sensing of Cu2 + based on Prussian blue-TiB2 nanozymes",
+   "journal": "Journal of environmental chemical engineering",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120170",
+   "titleEn": "Selenium-modulated p-band center of nitrogen-doped carbon for colorimetric detection of total antioxidant capacity",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120112",
+   "titleEn": "A paper-based colorimetric sensor for Carbofuran detection via an acetylcholinesterase-triggered CaCO3/Eriochrome black T domino reaction",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-10-30",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08502-9",
+   "titleEn": "Fabrication of bimetallic nanoclusters with peroxidase-like activity for detection of phenylenediamine and formaldehyde",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-10-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/foods15213959",
+   "titleEn": "Development of Pullulan-Based Colorimetric Film with Butterfly Pea for Shrimp Freshness Monitoring",
+   "journal": "Foods",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijbiomac.2026.155135",
+   "titleEn": "Color-changing peelable bilayer nanofiber dressing enables one-way wound exudate drainage and delivery of astragalus polysaccharides to promote wound healing",
+   "journal": "International Journal of Biological Macromolecules",
+   "pubDate": "2026-11-03",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1177/03611981261497718",
+   "titleEn": "Effects of Ultraviolet Radiation and Temperature on the Daytime Optical and Colorimetric Properties of Pavement Markings",
+   "journal": "Transportation Research Record Journal of the Transportation Research Board",
+   "pubDate": "2026-11-02",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120216",
+   "titleEn": "Smartphone-integrated paper-based microfluidic platform for dual colorimetric and fluorometric analysis of lactic acid and pH in fermentation",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1088/1361-6501/aebca5",
+   "titleEn": "A novel digital image colorimetric analysis system with adaptive sensitivity and measuring range",
+   "journal": "Measurement Science and Technology",
+   "pubDate": "2026-11-02",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/bio.70669",
+   "titleEn": "A Dual-Functional Peptidyl Probe for Fluorometric and Colorimetric Detection of Hg 2+ and S 2- in Real Food Samples and Biological Systems",
+   "journal": "Luminescence",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08509-2",
+   "titleEn": "A dual-modal D-π-A molecular probe for fluorescence and smartphone-based colorimetric detection of the food allergen bovine serum albumin",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/rar2.70687",
+   "titleEn": "Oxygen Vacancy-Engineered CoFeMo-LDHs Enables Dual-Reaction Pathway Synergistic Enhancement of Nanozyme Activity for Intelligent Colorimetric Sensing",
+   "journal": "Rare Metals",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346498",
+   "titleEn": "Mesoporous Silica-Confined Au/Pt Bimetallic Nanozymes for Dissolved Oxygen-Driven and H2O2-Free Colorimetric Detection of Aniline",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.mtphys.2026.102304",
+   "titleEn": "Multimetal-Synergized CoFeMo layered double hydroxide nanozymes for robust colorimetric analysis of biomolecules",
+   "journal": "Materials Today Physics",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08493-7",
+   "titleEn": "N-doped carbon dots based metal-free nanozymes for smartphone-assisted colorimetric detection of Co2+ in water samples",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130888",
+   "titleEn": "Spherical Ag2O nanoparticles with laccase-mimicking activity: a smartphone-assisted and label-free colorimetric aptasensor for Pseudomonas aeruginosa detection in drinking water",
+   "journal": "Talanta",
+   "pubDate": "2026-10-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.64643/jatir.141288",
+   "titleEn": "Machine Learning Driven Analysis and Prediction of Hazardous Gas Concentrations: A Comprehensive Review of Sensing Data, Algorithms, and Emerging Applications",
+   "journal": "",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsanm.6c05096",
+   "titleEn": "Rapid Synthesis of Fibrous Phosphorus for Ammonia Sensing at Room Temperature",
+   "journal": "ACS Applied Nano Materials",
+   "pubDate": "2026-11-03",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.comptc.2026.116137",
+   "titleEn": "Synergistic effect of doping (La and Pr) and electric field on performance of gas sensor based on SnO2/SnSe2 Heterostructure toward NO2, NO, and HCN gases",
+   "journal": "Computational and Theoretical Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.sna.2026.118731",
+   "titleEn": "Fabrication of high-performance H2S sensor by partial melting of multilayer Sn/Zn/Pt deposited by sputtering method",
+   "journal": "Sensors and Actuators A Physical",
+   "pubDate": "2026-10-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18212753",
+   "titleEn": "Xylan-Derived N,S-Codoped Carbon Dots for Hg2+ Detection and Reusable Paper-Based Sensing",
+   "journal": "Polymers",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130874",
+   "titleEn": "Impact of alginate microgels on the performance of hybrid PSF/PVP/graphite electrodes for sensitive heavy-metal analysis",
+   "journal": "Talanta",
+   "pubDate": "2026-11-02",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.electacta.2026.150360",
+   "titleEn": "Gold Nanoparticle-Manganese Oxide-Modified ITO Electrode for Simultaneous Electrochemical Detection of Pb2+, Cd2+, and Cu2+",
+   "journal": "Electrochimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.inoche.2026.117853",
+   "titleEn": "Sulfonyl hydrazide Schiff base probe for selective Cu(II) ions sensing, and BSA binding studies: insights from spectroscopic and computational aspects",
+   "journal": "Inorganic Chemistry Communications",
+   "pubDate": "2026-11-01",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.hazadv.2026.101735",
+   "titleEn": "Hydrogel-Enabled Decontamination and Sensing of Chemical Toxicants: A Review",
+   "journal": "Journal of Hazardous Materials Advances",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346494",
+   "titleEn": "Solvent-dependent fluorescent probe with distinctly opposite sensing behavior for toxic Hg2+: application in food, plants analysis, and bioimaging",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.inoche.2026.117825",
+   "titleEn": "Three-dimensional fluorescence fingerprint spectra of ratiomatric CDs for simultaneous multi-target detection of heavy metal ions in wastewater",
+   "journal": "Inorganic Chemistry Communications",
+   "pubDate": "2026-10-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130905",
+   "titleEn": "Headspace GC-MS screening of MOS-VOC interfacial reactivity for rapid and resource-efficient gas-sensing metal oxides evaluation",
+   "journal": "Talanta",
+   "pubDate": "2026-11-03",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/ma19214606",
+   "titleEn": "Intelligent Recognition of Sulfur-Containing VOCs Using a Au/Pd-Modified RGO-SnO2 Gas Sensor Array",
+   "journal": "Materials",
+   "pubDate": "2026-10-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120169",
+   "titleEn": "CTAB assisted electrosynthesis of polycurcumin based enzymeless electrochemical platform for sensing of methyl-parathion pesticide in water and tomato samples",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151998",
+   "titleEn": "A comparative review of multi-target receptors strategies for electrochemical multi-pesticide detection in food matrices",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.mtchem.2026.104139",
+   "titleEn": "High energy density dielectric films based on photo-crosslinked high-polarization polynorbornene copolymers for capacitive energy storage",
+   "journal": "Materials Today Chemistry",
+   "pubDate": "2026-10-31",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1021/acsapm.6c04223",
+   "titleEn": "Programmed Main-Chain Scission in Aqueous Media toward UV-Curable, Dismountable Acrylic Coatings and Adhesives",
+   "journal": "ACS Applied Polymer Materials",
+   "pubDate": "2026-11-05",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.porgcoat.2026.110718",
+   "titleEn": "Lignin-incorporated HEMA/PEGDA UV-curable coatings for corrosion protection of carbon steel",
+   "journal": "Progress in Organic Coatings",
+   "pubDate": "2026-11-03",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
