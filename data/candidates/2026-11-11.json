@@ -1,0 +1,536 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T05:23:51+09:00",
+ "searchFrom": "2026-11-01",
+ "sources": {
+  "openalex": {
+   "ok": 33,
+   "fail": 0
+  },
+  "crossref": {
+   "ok": 0,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 4,
+   "fail": 0
+  }
+ },
+ "count": 4,
+ "papers": [
+  {
+   "doi": "10.1021/acssensors.6c02886",
+   "url": "https://doi.org/10.1021/acssensors.6c02886",
+   "titleEn": "“Lab-on-Double Confinement-Pipette Tip”: CDsCu/Mn@MPDA-Driven Portable Intelligent Sensor for In-Situ Rapid Detection of Pesticide Residues",
+   "journal": "ACS Sensors",
+   "journalAbbr": "ACS Sens.",
+   "tier": 2,
+   "pubDate": "2026-11-07",
+   "year": "2026",
+   "authors": [
+    "Mengyu Li",
+    "Zhao Liang",
+    "Qingshu Ge",
+    "Weichao Wu",
+    "Tong Ye",
+    "Suizheng Sun",
+    "Maoling Hu",
+    "Weicheng Xu",
+    "Hui Li",
+    "Ganghui Li",
+    "Xin Zhang",
+    "Xiaoyu Yu",
+    "Yang Xue",
+    "Miaomiao Xie",
+    "Ziyang Shang",
+    "Quanxi Wang",
+    "Run Ai",
+    "Yuwei Ren",
+    "Yingwang Ye"
+   ],
+   "corrAuthor": "Yingwang Ye",
+   "corrConfirmed": true,
+   "abstract": "The development of high specificity, ultrasensitive, and portable detection technologies is conducive to monitoring pesticide residues in the environment, thereby promoting the scientific use of pesticides. Here, a dual-confined sensitization \"lab-on-pipette tip\" was developed for colorimetric-photothermal in-situ detection of carbosulfan by encapsulating nanomaterials within the hydrogel matrix on a pipette tip. As the signal transduction core, an interfacial-enhanced mesoporous polydopamine was loaded with dual-metal carbon dots (CDsCu/Mn@MPDA) to mimic high-efficiency peroxidase activity. The synergy between the bimetallic sites lowered the energy barrier for the reduction of H2O2, generating abundant hydroxyl radicals. Crucially, the reducing sulfur species generated from acidified carbosulfan inhibit the activity of CDsCu/Mn@MPDA by triggering radical-scavenging reactions, generating target concentration-dependent signals. Furthermore, CDsCu/Mn@MPDA was encapsulated in the hydrogel and gelled at the pipette tip to construct an integrated platform. The double-confinement effect enhanced reaction-component contact efficiency, resulting in a 40-fold compression of the linear response range for carbosulfan residue detection. The sensing platform exhibited a response range of 0-1200 µM in solution. Strikingly, this range was compressed to 0-30 µM within the spatially confined microcavity. This on-demand tunable range platform slashes per-assay costs by ∼99.7% vs liquid chromatography mass spectrometry, bridging the lab-to-field gap for environmental sensing.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "변색 센서": 1,
+    "유해물질 검출 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서",
+    "유해물질 검출 센서"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Yingwang Ye, ACS Sens., 2026, “Lab-on-Double Confinement-Pipette Tip” CDsCu Mn@MPDA-Driven Portable Intelligent Sensor for In-Situ Rapid Detection of Pesticide Residues",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acssensors.6c03711",
+   "url": "https://doi.org/10.1021/acssensors.6c03711",
+   "titleEn": "Visual Detection of Foodborne Viruses in Leafy Greens Using an AsCas12f-Split-G-Quadruplex Sensor",
+   "journal": "ACS Sensors",
+   "journalAbbr": "ACS Sens.",
+   "tier": 2,
+   "pubDate": "2026-11-09",
+   "year": "2026",
+   "authors": [
+    "Tom Kasputis",
+    "Mathew Landivar",
+    "Lijuan Yuan",
+    "R Clay Wright",
+    "Chenming Zhang",
+    "Juhong Chen"
+   ],
+   "corrAuthor": "Juhong Chen (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract Foodborne viruses are responsible for a substantial burden of disease worldwide, with fresh produce serving as the most abundant vehicle for transmission. However, rapid detection in solid produce, such as leafy greens, remains underdeveloped, as conventional methods often require labor-intensive sample preparation and specialized instrumentation. Herein, we present a colorimetric CRISPR-split-G4 biosensor for rapid viral surveillance in leafy greens that combines reverse transcription recombinase polymerase amplification (RT-RPA), AsCas12f-mediated trans-cleavage, and a modular split-G-quadruplex (split-G4) reporter system. In this system, target recognition activates the trans-cleavage activity of AsCas12f, resulting in degradation of a blocker strand and subsequent assembly of a catalytically active G4-hemin DNAzyme that generates a visible signal easily detectable by the naked eye. Using norovirus as a model pathogen, the platform exhibited high analytical sensitivity and specificity, enabling reliable detection of viral particles with minimal instrumentation. To evaluate practical applicability, the assay was coupled with a simplified leaf-disk extraction workflow and successfully applied to contaminated romaine lettuce and baby spinach samples without requiring viral nucleic acid purification. The platform achieved detection limits of 1000 and 5000 viral copies per 100 mg of romaine lettuce and spinach tissue, respectively. From sample processing to visual readout, the entire assay was completed in approximately 2 h. By integrating isothermal amplification, CRISPR-based target recognition, and instrument-free signal generation into a streamlined workflow, this strategy provides a promising platform for decentralized food safety monitoring and establishes a flexible framework for the on-site detection of viral pathogens in complex food matrices.",
+   "pdfUrl": "",
+   "oaStatus": "hybrid",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Juhong Chen, ACS Sens., 2026, Visual Detection of Foodborne Viruses in Leafy Greens Using an AsCas12f-Split-G-Quadruplex Sensor",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsami.6c15759",
+   "url": "https://doi.org/10.1021/acsami.6c15759",
+   "titleEn": "Crystalline NiO:N Templating of Uniformly Anchored Self-Assembled Monolayers for Inverted Perovskite Solar Cells",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-09",
+   "year": "2026",
+   "authors": [
+    "Yonghoon Jung",
+    "Geon Woo Yoon",
+    "Junhyoung Park",
+    "Dae Woong Ko",
+    "Oh Yeong Gong",
+    "Ji Hun Jung",
+    "Hyeongjin Moon",
+    "Hyun Suk Jung",
+    "Yun Seog Lee"
+   ],
+   "corrAuthor": "Yun Seog Lee (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract The buried hole-selective contact in inverted perovskite solar cells (PSCs) is expected to transport holes through its bulk while also templating a defect-free self-assembled monolayer (SAM). A crystalline, vacuum-deposited nitrogen-doped NiO (NiO:N) film deterministically templates a uniformly anchored SAM, while the reactive-atmosphere N2/O2 ratio used during pulsed laser deposition (PLD) simultaneously programs bulk hole density and interfacial anchoring chemistry. Nitrogen incorporation is proposed to act as a shallow acceptor that generates Ni3+ states and raises p-type conductivity, whereas the dense, pinhole-free template enforces uniform SAM coverage, fully suppressing the underlying substrate signal and minimizing surface hydroxyl groups relative to discontinuous nanoparticle films. Consequently, NiO:N/SAM-based PSCs achieve a 6.2% relative increase in power conversion efficiency (PCE) over pristine NiO nanoparticles, reaching one of the highest reported performances for vacuum-deposited NiO-based PSCs, with improved thermal and operational stability. These results establish reactive-atmosphere NiO:N as a general, scalable platform for hole-selective contacts in inverted perovskite photovoltaics.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 3
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 3,
+   "autoPdf": false,
+   "filename": "Yun Seog Lee, ACS Appl. Mater. Interfaces, 2026, Crystalline NiO N Templating of Uniformly Anchored Self-Assembled Monolayers for Inverted Perovskite Solar Cells",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsami.6c19051",
+   "url": "https://doi.org/10.1021/acsami.6c19051",
+   "titleEn": "Deep-Learning-Empowered Gold Nanoparticle Dimer-Assisted Hyperbolic Metamaterial Surface Plasmon Resonance Fiber-Optic Sensor for Ultrasensitive Mercury Ion Detection",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-09",
+   "year": "2026",
+   "authors": [
+    "Lixia Li",
+    "Xinao Zhao",
+    "Bin Hang",
+    "Shuoyang Yu",
+    "Feng Ning",
+    "Yufang Liu"
+   ],
+   "corrAuthor": "Yufang Liu (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract Mercury ions (Hg2+) are highly toxic heavy-metal contaminants that pose serious environmental and health hazards, necessitating the development of highly sensitive and accurate detection methods. Herein, a fiber-optic surface plasmon resonance (SPR) sensor is developed for the ultrasensitive detection of Hg2+. The sensing probe is constructed on a hyperbolic metamaterial (HMM) consisting of three repeated Ag/ITO bilayers, decorated with thymine (T)-rich DNA-functionalized gold nanoparticles (AuNPs). Upon Hg2+ addition, specific T–Hg2+–T coordination captures a second population of DNA-functionalized AuNPs, forming AuNP dimers on the HMM surface. The nanometer interparticle gap of the AuNP dimer induces strong plasmonic coupling, which amplifies the local refractive index (RI) changes at the sensing interface and produces a pronounced SPR wavelength shift, enabling highly sensitive detection of Hg2+. Experimental results demonstrate that the proposed sensor exhibits a peak RI sensitivity of 8600 nm/RIU and achieves a limit of detection as low as 2.63 pM for Hg2+. Moreover, a DenseNet-based deep-learning model is employed to extract subtle spectral features from SPR spectra acquired at seven Hg2+ concentration levels, enabling quantitative concentration prediction with an R2 of 0.998505. Therefore, the proposed fiber-optic SPR sensor provides a promising strategy for sensitive and accurate Hg2+ detection.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 3
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 3,
+   "autoPdf": false,
+   "filename": "Yufang Liu, ACS Appl. Mater. Interfaces, 2026, Deep-Learning-Empowered Gold Nanoparticle Dimer-Assisted Hyperbolic Metamaterial Surface Plasmon Resonance Fiber-Optic Sensor for Ult",
+   "source": "openalex"
+  }
+ ],
+ "others": [
+  {
+   "doi": "10.1016/j.nanoen.2026.112557",
+   "titleEn": "Gradient potassium doping reconstructs buried interfaces for reproducible and efficient perovskite/SAM Co-deposited perovskite/silicon tandem solar cells",
+   "journal": "Nano Energy",
+   "pubDate": "2026-11-02",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.3389/fmolb.2026.1971794",
+   "titleEn": "Molecular architecture of surface-active ionic liquids governs protein structural integrity and drug recognition at engineered carbon quantum dot nano-bio interfaces",
+   "journal": "Frontiers in Molecular Biosciences",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.colcom.2026.100926",
+   "titleEn": "Interfacial engineering of silver quantum dots for antibacterial applications: From surface chemistry to translational design",
+   "journal": "Colloids and Interface Science Communications",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s44562-026-00009-2",
+   "titleEn": "Heat generation, multiscale thermal transport and thermal management in colloidal quantum-dot assemblies and devices",
+   "journal": "Thermal Functional Materials",
+   "pubDate": "2026-11-05",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acs.jpcc.6c06480",
+   "titleEn": "Soluble Complexes Destruct Metal-Alkanoate Clusters in the Mixture of Colloidal Quantum Dots",
+   "journal": "The Journal of Physical Chemistry C",
+   "pubDate": "2026-11-03",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1093/bulcsj/uoag148",
+   "titleEn": "Hydrothermal synthesis of water-soluble CdSe quantum dots with enhanced photoluminescence through precursor optimization and ZnS-related surface modification",
+   "journal": "Bulletin of the Chemical Society of Japan",
+   "pubDate": "2026-11-02",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.15407/pcmm2026.05.026",
+   "titleEn": "Luminescent properties of inorganic perovskite nanocrystals obtained by dimethyl sulfoxide-assisted synthesis in polymer matrices",
+   "journal": "Physicochemical Mechanics of Materials",
+   "pubDate": "2026-11-04",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.jlumin.2026.122282",
+   "titleEn": "Substituent-tuned carboxylate passivation of CsPbBr3 nanocrystals: Decoupling carrier lifetimes from ambient photostability",
+   "journal": "Journal of Luminescence",
+   "pubDate": "2026-11-03",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/separations13110335",
+   "titleEn": "Dynamic Associations Among Sensory Characteristics, Alkaloid Profiles, and Cardiotoxicity Variation During Zanba Processing of Tibetan Medicine Tiebangchui",
+   "journal": "Separations",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/biom16111632",
+   "titleEn": "Leonurus cardiaca L. Polysaccharide-Stabilized Palladium-Gold Nanoparticles and Fluorescent Carbon Dots for Selective and Dual-Mode Detection of Pesticide Glyphosate",
+   "journal": "Biomolecules",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120201",
+   "titleEn": "Iron-based bimetallic sulfides colorimetric sensor array combined with machine learning for simultaneous discrimination and quantification of phenolic acids",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s13726-026-01783-0",
+   "titleEn": "Development of anthocyanin-loaded starch-PVA-alginate hydrogel beads as intelligent colorimetric indicators for real-time freshness monitoring of shrimp and chicken meat",
+   "journal": "Iranian Polymer Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/foods15213967",
+   "titleEn": "Colorimetric Sensor Based on the Oxidase-like Activity of Au@MnOx Nanozyme for High-Sensitivity Detection of Malathion",
+   "journal": "Foods",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.saa.2026.129088",
+   "titleEn": "Trimetallic nanozyme microspheres-mediated colorimetric assay for rapid and on-site detection of glyphosate",
+   "journal": "Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s44211-026-00985-z",
+   "titleEn": "Colorimetric chemiluminescent bifunctional sensor for sensitive detection of choline in milk samples",
+   "journal": "Analytical Sciences",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.jece.2026.125795",
+   "titleEn": "Machine learning-integrated plasmonic colorimetric platform for onsite screening of coexisting hazardous heavy metals",
+   "journal": "Journal of environmental chemical engineering",
+   "pubDate": "2026-11-04",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1680/jenes.26.00094",
+   "titleEn": "Sustainable green analytical techniques for heavy metal detection in environmental forensics",
+   "journal": "Journal of Environmental Engineering and Science",
+   "pubDate": "2026-11-04",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.jre.2026.10.022",
+   "titleEn": "Suppression of ligand-to-metal charge/energy transfer and alkaline phosphatase activity of Eu@ZrMOF for fluorescent and colorimetric perfluorooctanoic acid detection",
+   "journal": "Journal of Rare Earths",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijbiomac.2026.155119",
+   "titleEn": "A colorimetric sensor using DNA flower-copper(II) mimic enzyme for rapid detection of hydrogen peroxide in dried seafood",
+   "journal": "International Journal of Biological Macromolecules",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.hazadv.2026.101720",
+   "titleEn": "Sprayable Redox-Responsive Colorimetric Sensors for On-Site CWA Detection and Decontamination",
+   "journal": "Journal of Hazardous Materials Advances",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346480",
+   "titleEn": "Colorimetric detection of anthrax biomarker based on Mn2+-enhanced peroxidase-like activity of Ce-doped carbon dots",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijoes.2026.101539",
+   "titleEn": "Nanoparticle-Based Nanosensors for Organophosphate Pesticide Detection: Design Strategies, Sensing Mechanisms and Future Perspectives",
+   "journal": "International Journal of Electrochemical Science",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.trac.2026.119258",
+   "titleEn": "Smart Sensors Based on Cerium Nanozymes for Colorimetric, Fluorescence, and Electrochemical Detection",
+   "journal": "TrAC Trends in Analytical Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151920",
+   "titleEn": "Magnetic-controlled assembly of aptamer-functionalized MOF-based molecularly imprinted polymers for fluorescence/colorimetric dual-mode sensing of ochratoxin A",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120245",
+   "titleEn": "ISO 16140-2 validation of a rapid colorimetric paper strip sensor for microbial quality assessment of dairy products",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/foods15213959",
+   "titleEn": "Development of Pullulan-Based Colorimetric Film with Butterfly Pea for Shrimp Freshness Monitoring",
+   "journal": "Foods",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijbiomac.2026.155135",
+   "titleEn": "Color-changing peelable bilayer nanofiber dressing enables one-way wound exudate drainage and delivery of astragalus polysaccharides to promote wound healing",
+   "journal": "International Journal of Biological Macromolecules",
+   "pubDate": "2026-11-03",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1177/03611981261497718",
+   "titleEn": "Effects of Ultraviolet Radiation and Temperature on the Daytime Optical and Colorimetric Properties of Pavement Markings",
+   "journal": "Transportation Research Record Journal of the Transportation Research Board",
+   "pubDate": "2026-11-02",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346498",
+   "titleEn": "Mesoporous silica-confined Au/Pt bimetallic nanozymes for dissolved oxygen-driven and H2O2-free colorimetric detection of aniline",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-06",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120216",
+   "titleEn": "Smartphone-integrated paper-based microfluidic platform for dual colorimetric and fluorometric analysis of lactic acid and pH in fermentation",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1088/1361-6501/aebca5",
+   "titleEn": "A novel digital image colorimetric analysis system with adaptive sensitivity and measuring range",
+   "journal": "Measurement Science and Technology",
+   "pubDate": "2026-11-02",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/bio.70669",
+   "titleEn": "A Dual-Functional Peptidyl Probe for Fluorometric and Colorimetric Detection of Hg 2+ and S 2- in Real Food Samples and Biological Systems",
+   "journal": "Luminescence",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08509-2",
+   "titleEn": "A dual-modal D-π-A molecular probe for fluorescence and smartphone-based colorimetric detection of the food allergen bovine serum albumin",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/rar2.70687",
+   "titleEn": "Oxygen Vacancy-Engineered CoFeMo-LDHs Enables Dual-Reaction Pathway Synergistic Enhancement of Nanozyme Activity for Intelligent Colorimetric Sensing",
+   "journal": "Rare Metals",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.molstruc.2026.148064",
+   "titleEn": "A quinoline-derived Schiff base chemosensor for the colorimetric detection of Hg2+ ions with smartphone-assisted quantification and real sample analysis",
+   "journal": "Journal of Molecular Structure",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.152016",
+   "titleEn": "Detection of sterigmatocystin using a smartphone-assisted colorimetric sensing method based on a self-designed portable device with hydrogel",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.64643/jatir.141288",
+   "titleEn": "Machine Learning Driven Analysis and Prediction of Hazardous Gas Concentrations: A Comprehensive Review of Sensing Data, Algorithms, and Emerging Applications",
+   "journal": "",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.comptc.2026.116137",
+   "titleEn": "Synergistic effect of doping (La and Pr) and electric field on performance of gas sensor based on SnO2/SnSe2 Heterostructure toward NO2, NO, and HCN gases",
+   "journal": "Computational and Theoretical Chemistry",
+   "pubDate": "2026-11-07",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsanm.6c05096",
+   "titleEn": "Rapid Synthesis of Fibrous Phosphorus for Ammonia Sensing at Room Temperature",
+   "journal": "ACS Applied Nano Materials",
+   "pubDate": "2026-11-03",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18212753",
+   "titleEn": "Xylan-Derived N,S-Codoped Carbon Dots for Hg2+ Detection and Reusable Paper-Based Sensing",
+   "journal": "Polymers",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130874",
+   "titleEn": "Impact of alginate microgels on the performance of hybrid PSF/PVP/graphite electrodes for sensitive heavy-metal analysis",
+   "journal": "Talanta",
+   "pubDate": "2026-11-02",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.electacta.2026.150360",
+   "titleEn": "Gold Nanoparticle-Manganese Oxide-Modified ITO Electrode for Simultaneous Electrochemical Detection of Pb2+, Cd2+, and Cu2+",
+   "journal": "Electrochimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.inoche.2026.117853",
+   "titleEn": "Sulfonyl hydrazide Schiff base probe for selective Cu(II) ions sensing, and BSA binding studies: insights from spectroscopic and computational aspects",
+   "journal": "Inorganic Chemistry Communications",
+   "pubDate": "2026-11-01",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.hazadv.2026.101735",
+   "titleEn": "Hydrogel-Enabled Decontamination and Sensing of Chemical Toxicants: A Review",
+   "journal": "Journal of Hazardous Materials Advances",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346494",
+   "titleEn": "Solvent-dependent fluorescent probe with distinctly opposite sensing behavior for toxic Hg2+: application in food, plants analysis, and bioimaging",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/s26217082",
+   "titleEn": "Hybrid 2D MoS2-Copper Benzene-1,3,5-Tricarboxylate Framework for Room-Temperature Gas Sensing: Toward Trace Ammonia Detection for Hydrogen-Carrier Safety",
+   "journal": "Sensors",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130905",
+   "titleEn": "Headspace GC-MS screening of MOS-VOC interfacial reactivity for rapid and resource-efficient gas-sensing metal oxides evaluation",
+   "journal": "Talanta",
+   "pubDate": "2026-11-03",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120169",
+   "titleEn": "CTAB assisted electrosynthesis of polycurcumin based enzymeless electrochemical platform for sensing of methyl-parathion pesticide in water and tomato samples",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151998",
+   "titleEn": "A comparative review of multi-target receptors strategies for electrochemical multi-pesticide detection in food matrices",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsapm.6c04223",
+   "titleEn": "Programmed Main-Chain Scission in Aqueous Media toward UV-Curable, Dismountable Acrylic Coatings and Adhesives",
+   "journal": "ACS Applied Polymer Materials",
+   "pubDate": "2026-11-05",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.porgcoat.2026.110718",
+   "titleEn": "Lignin-incorporated HEMA/PEGDA UV-curable coatings for corrosion protection of carbon steel",
+   "journal": "Progress in Organic Coatings",
+   "pubDate": "2026-11-03",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
