@@ -1,0 +1,383 @@
+{
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T05:26:37+09:00",
+ "searchFrom": "2026-11-03",
+ "sources": {
+  "openalex": {
+   "ok": 33,
+   "fail": 0
+  },
+  "crossref": {
+   "ok": 0,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 3,
+   "fail": 0
+  }
+ },
+ "count": 3,
+ "papers": [
+  {
+   "doi": "10.1021/acs.analchem.6c05146",
+   "url": "https://doi.org/10.1021/acs.analchem.6c05146",
+   "titleEn": "Vesicle-Surface Recognition Coupled with Graphdiyne-zyme Arrays for Marker-Independent Colorimetric Fingerprinting of Bacterial Extracellular Vesicles",
+   "journal": "Analytical Chemistry",
+   "journalAbbr": "Anal. Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-11",
+   "year": "2026",
+   "authors": [
+    "Jianyu Yang",
+    "Ruian Tang",
+    "Yaxuan Tang",
+    "Changfa Shao",
+    "Lilin Yin",
+    "Dong Xu",
+    "Yu Gu",
+    "Ting Yang",
+    "Chunxian Guo"
+   ],
+   "corrAuthor": "Chunxian Guo (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract Bacterial extracellular vesicles (bEVs) that encode disease-relevant molecular information are released into body fluids at early stages of infection, rendering them promising biomarkers for early diagnosis. However, the lack of universal surface markers causes limitation of conventional antibody-based strategies, severely restricting the use of bEVs for early diagnosis. Here, we report a marker-independent recognition strategy that translates the interfacial heterogeneity of bEV membranes into amplified catalytic signatures. Graphdiyne-zyme sensor arrays are designed and constructed, in which the graphdiyne spatially fixes and organizes three kinds of metal oxides to form multiple nanozymes with confined, multivalent catalytic interfaces. By coupling vesicle-surface recognition with graphdiyne-zyme arrays, the interfaces efficiently transform subtle membrane variations into distinct colorimetric fingerprints. The graphdiyne-zyme array generated distinguishable colorimetric fingerprints for bEVs from six UTI-associated bacterial species and, when integrated with an XGBoost classifier, achieved an accuracy of 96.9% in a clinical test set comprising 32 samples. This study establishes an analytical framework for the marker-independent recognition of bEVs, delivering an alternative approach to replace conventional affinity-based biosensing strategies.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Chunxian Guo, Anal. Chem., 2026, Vesicle-Surface Recognition Coupled with Graphdiyne-zyme Arrays for Marker-Independent Colorimetric Fingerprinting of Bacterial Extracellular Vesic",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.nanolett.6c04718",
+   "url": "https://doi.org/10.1021/acs.nanolett.6c04718",
+   "titleEn": "Exciton Transport in Disordered Perovskite Nanocrystal Solids",
+   "journal": "Nano Letters",
+   "journalAbbr": "Nano Lett.",
+   "tier": 2,
+   "pubDate": "2026-11-12",
+   "year": "2026",
+   "authors": [
+    "Simon Solari",
+    "Enrique Arévalo Rodríguez",
+    "Antonella Cutrupi",
+    "Amalia Coro",
+    "Marc Meléndez",
+    "Víctor Zamora",
+    "F. J. Mompeán",
+    "Alicia de Andrés",
+    "Almudena Torres‐Pardo",
+    "Beatriz H. Juárez",
+    "Ferry Prins"
+   ],
+   "corrAuthor": "Ferry Prins (추정)",
+   "corrConfirmed": false,
+   "abstract": "Abstract Solution-processed thin films of colloidal lead halide perovskite (LHP) nanocrystals (NCs) show great potential for next-generation optoelectronic devices. However, these NC solids exhibit non-negligible size and shape polydispersity, which introduces both structural and energetic disorder. Here we resolve the exciton dynamics in space, time, and energy to elucidate the impact of disorder on exciton transport. We show that the disorder depends sensitively on the alkylamine ligand used in the synthesis. While shorter alkyl chain lengths lead to high polydispersity, longer alkyl chains lead to a narrower size distribution and smaller particles where quantum confinement becomes more pronounced, consequently leading to increased energetic disorder. Strikingly, we find that exciton transport is less efficient in NC solids with long alkyl chains, despite the fact that they have significantly more narrowly size-distributed ensembles. This demonstrates that energetic disorder rather than structural disorder is the dominant factor for predicting exciton transport within these disordered systems.",
+   "pdfUrl": "",
+   "oaStatus": "hybrid",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Ferry Prins, Nano Lett., 2026, Exciton Transport in Disordered Perovskite Nanocrystal Solids",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1016/j.bios.2026.119429",
+   "url": "https://doi.org/10.1016/j.bios.2026.119429",
+   "titleEn": "From qualitative to quantitative: Real-Time HSV kinetics enable smartphone-based multiplex LAMP for microbial source tracking",
+   "journal": "Biosensors and Bioelectronics",
+   "journalAbbr": "Biosens. Bioelectron.",
+   "tier": 3,
+   "pubDate": "2026-11-11",
+   "year": "2026",
+   "authors": [
+    "Liyan Li",
+    "Sungwoo Bae"
+   ],
+   "corrAuthor": "Sungwoo Bae",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Sungwoo Bae, Biosens. Bioelectron., 2026, From qualitative to quantitative Real-Time HSV kinetics enable smartphone-based multiplex LAMP for microbial source tracking",
+   "source": "openalex"
+  }
+ ],
+ "others": [
+  {
+   "doi": "10.54254/2755-2721/2027.38924",
+   "titleEn": "An Overview of Perovskite Quantum Dots for Carbon Dioxide Photoreduction",
+   "journal": "Applied and Computational Engineering",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3389/fmolb.2026.1971794",
+   "titleEn": "Molecular architecture of surface-active ionic liquids governs protein structural integrity and drug recognition at engineered carbon quantum dot nano-bio interfaces",
+   "journal": "Frontiers in Molecular Biosciences",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.colcom.2026.100926",
+   "titleEn": "Interfacial engineering of silver quantum dots for antibacterial applications: From surface chemistry to translational design",
+   "journal": "Colloids and Interface Science Communications",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s44562-026-00009-2",
+   "titleEn": "Heat generation, multiscale thermal transport and thermal management in colloidal quantum-dot assemblies and devices",
+   "journal": "Thermal Functional Materials",
+   "pubDate": "2026-11-05",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acs.jpcc.6c06480",
+   "titleEn": "Soluble Complexes Destruct Metal-Alkanoate Clusters in the Mixture of Colloidal Quantum Dots",
+   "journal": "The Journal of Physical Chemistry C",
+   "pubDate": "2026-11-03",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.15407/pcmm2026.05.026",
+   "titleEn": "Luminescent properties of inorganic perovskite nanocrystals obtained by dimethyl sulfoxide-assisted synthesis in polymer matrices",
+   "journal": "Physicochemical Mechanics of Materials",
+   "pubDate": "2026-11-04",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.jlumin.2026.122282",
+   "titleEn": "Substituent-tuned carboxylate passivation of CsPbBr3 nanocrystals: Decoupling carrier lifetimes from ambient photostability",
+   "journal": "Journal of Luminescence",
+   "pubDate": "2026-11-03",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s00604-026-08532-3",
+   "titleEn": "COF-AgNPs nanozyme combined with multimodal machine learning for dual-mode detection of Hg2+ in aquatic products",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/app.71752",
+   "titleEn": "Development of Optical Polyviologen Nanoparticle-Immobilized Cellulose Nanocrystal-Reinforced Gum Arabic as Self-Healing Hydrogel Toward Multi-Stimuli Responsive and Anticounterfeiting Applications",
+   "journal": "Journal of Applied Polymer Science",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/separations13110335",
+   "titleEn": "Dynamic Associations Among Sensory Characteristics, Alkaloid Profiles, and Cardiotoxicity Variation During Zanba Processing of Tibetan Medicine Tiebangchui",
+   "journal": "Separations",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/biom16111632",
+   "titleEn": "Leonurus cardiaca L. Polysaccharide-Stabilized Palladium-Gold Nanoparticles and Fluorescent Carbon Dots for Selective and Dual-Mode Detection of Pesticide Glyphosate",
+   "journal": "Biomolecules",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151920",
+   "titleEn": "Magnetic-controlled assembly of aptamer-functionalized MOF-based molecularly imprinted polymers for fluorescence/colorimetric dual-mode sensing of ochratoxin A",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-06",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120201",
+   "titleEn": "Iron-based bimetallic sulfides colorimetric sensor array combined with machine learning for simultaneous discrimination and quantification of phenolic acids",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s13726-026-01783-0",
+   "titleEn": "Development of anthocyanin-loaded starch-PVA-alginate hydrogel beads as intelligent colorimetric indicators for real-time freshness monitoring of shrimp and chicken meat",
+   "journal": "Iranian Polymer Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/foods15213967",
+   "titleEn": "Colorimetric Sensor Based on the Oxidase-like Activity of Au@MnOx Nanozyme for High-Sensitivity Detection of Malathion",
+   "journal": "Foods",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijoes.2026.101539",
+   "titleEn": "Nanoparticle-based nanosensors for organophosphate pesticide detection: Design strategies, sensing mechanisms and future perspectives",
+   "journal": "International Journal of Electrochemical Science",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.saa.2026.129088",
+   "titleEn": "Trimetallic nanozyme microspheres-mediated colorimetric assay for rapid and on-site detection of glyphosate",
+   "journal": "Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s44211-026-00985-z",
+   "titleEn": "Colorimetric chemiluminescent bifunctional sensor for sensitive detection of choline in milk samples",
+   "journal": "Analytical Sciences",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.jece.2026.125795",
+   "titleEn": "Machine learning-integrated plasmonic colorimetric platform for onsite screening of coexisting hazardous heavy metals",
+   "journal": "Journal of environmental chemical engineering",
+   "pubDate": "2026-11-04",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1680/jenes.26.00094",
+   "titleEn": "Sustainable green analytical techniques for heavy metal detection in environmental forensics",
+   "journal": "Journal of Environmental Engineering and Science",
+   "pubDate": "2026-11-04",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acssuschemeng.6c06954",
+   "titleEn": "Dynamically Co-assembling Guaiacol Glyceryl Ether and Cellulose Nanocrystals for Iridescent Films Construction: The Visualized and Sensitive Monitoring for Food Spoilage",
+   "journal": "ACS Sustainable Chemistry & Engineering",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/foods15213959",
+   "titleEn": "Development of Pullulan-Based Colorimetric Film with Butterfly Pea for Shrimp Freshness Monitoring",
+   "journal": "Foods",
+   "pubDate": "2026-11-04",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.ijbiomac.2026.155135",
+   "titleEn": "Color-changing peelable bilayer nanofiber dressing enables one-way wound exudate drainage and delivery of astragalus polysaccharides to promote wound healing",
+   "journal": "International Journal of Biological Macromolecules",
+   "pubDate": "2026-11-03",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346498",
+   "titleEn": "Mesoporous silica-confined Au/Pt bimetallic nanozymes for dissolved oxygen-driven and H2O2-free colorimetric detection of aniline",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-06",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120216",
+   "titleEn": "Smartphone-integrated paper-based microfluidic platform for dual colorimetric and fluorometric analysis of lactic acid and pH in fermentation",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-05",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.64643/jatir.141288",
+   "titleEn": "Machine Learning Driven Analysis and Prediction of Hazardous Gas Concentrations: A Comprehensive Review of Sensing Data, Algorithms, and Emerging Applications",
+   "journal": "",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.comptc.2026.116137",
+   "titleEn": "Synergistic effect of doping (La and Pr) and electric field on performance of gas sensor based on SnO2/SnSe2 Heterostructure toward NO2, NO, and HCN gases",
+   "journal": "Computational and Theoretical Chemistry",
+   "pubDate": "2026-11-07",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1021/acsanm.6c05096",
+   "titleEn": "Rapid Synthesis of Fibrous Phosphorus for Ammonia Sensing at Room Temperature",
+   "journal": "ACS Applied Nano Materials",
+   "pubDate": "2026-11-03",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18212753",
+   "titleEn": "Xylan-Derived N,S-Codoped Carbon Dots for Hg2+ Detection and Reusable Paper-Based Sensing",
+   "journal": "Polymers",
+   "pubDate": "2026-11-05",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/smm2.70110",
+   "titleEn": "Recent Advances in Self-Healing Conducting Polymers for Gas Sensors",
+   "journal": "SmartMat",
+   "pubDate": "2026-11-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/s26217082",
+   "titleEn": "Hybrid 2D MoS2-Copper Benzene-1,3,5-Tricarboxylate Framework for Room-Temperature Gas Sensing: Toward Trace Ammonia Detection for Hydrogen-Carrier Safety",
+   "journal": "Sensors",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130905",
+   "titleEn": "Headspace GC-MS screening of MOS-VOC interfacial reactivity for rapid and resource-efficient gas-sensing metal oxides evaluation",
+   "journal": "Talanta",
+   "pubDate": "2026-11-03",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s12633-026-03914-x",
+   "titleEn": "Well-Controlling the Performance of Porous Silicon Sensors for Effective Detection of Pesticides: Role of Structural Characteristics",
+   "journal": "Silicon",
+   "pubDate": "2026-11-11",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s00289-026-06777-9",
+   "titleEn": "Synthesis and characterization of modified alkali soluble photocurable epoxy resin and comprehensive properties",
+   "journal": "Polymer Bulletin",
+   "pubDate": "2026-11-11",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1021/acsapm.6c04223",
+   "titleEn": "Programmed Main-Chain Scission in Aqueous Media toward UV-Curable, Dismountable Acrylic Coatings and Adhesives",
+   "journal": "ACS Applied Polymer Materials",
+   "pubDate": "2026-11-05",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1016/j.porgcoat.2026.110718",
+   "titleEn": "Lignin-incorporated HEMA/PEGDA UV-curable coatings for corrosion protection of carbon steel",
+   "journal": "Progress in Organic Coatings",
+   "pubDate": "2026-11-03",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
