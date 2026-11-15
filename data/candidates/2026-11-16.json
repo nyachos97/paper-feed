@@ -1,0 +1,513 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T08:30:30+09:00",
+ "searchFrom": "2026-11-06",
+ "sources": {
+  "openalex": {
+   "ok": 33,
+   "fail": 0
+  },
+  "crossref": {
+   "ok": 0,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 5,
+   "fail": 0
+  }
+ },
+ "count": 8,
+ "papers": [
+  {
+   "doi": "10.1002/adma.75703",
+   "url": "https://doi.org/10.1002/adma.75703",
+   "titleEn": "Reconstructing Colloidal NiO x Contacts for Efficient and Lamination-Resilient Perovskite Photovoltaics",
+   "journal": "Advanced Materials",
+   "journalAbbr": "Adv. Mater.",
+   "tier": 1,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Yulu Sun",
+    "Ruoyao Xu",
+    "Xiaohe Yu",
+    "Hebing Tang",
+    "Weilun Cai",
+    "Jun Wang",
+    "Kaige Chen",
+    "Bo Jiao",
+    "Shuya Pan",
+    "Peizhou Li",
+    "Fang Yuan",
+    "Jie Xu",
+    "Bo Jiao",
+    "Wen Deng",
+    "Yingguo Yang",
+    "Zhaoxin Wu",
+    "Hua Dong"
+   ],
+   "corrAuthor": "Yingguo Yang",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT High‐efficiency inverted perovskite solar cells (PSCs) increasingly rely on NiO x /self‐assembled monolayer (SAM) buried contacts, yet the geometric and surface heterogeneity of colloidal NiO x on textured fluorine‐doped tin oxide (FTO) compromises SAM assembly, perovskite crystallization, and interfacial strain uniformity. Here, β‐acryloyloxypropionic acid (CEA) is used to reconstruct both the mesoscale organization and exposed facets of NiO x . Through carboxyl anchoring and photoinduced interparticle coupling, CEA converts zero‐dimensional NiO x aggregates into chain‐connected assemblies that form conformal contacts while retaining colloidal processability. CEA also preferentially adsorbs on high‐energy NiO(111) facets, producing a NiO(100)‐dominated surface that promotes homogeneous SAM assembly. This coupled dimensional and facet reconstruction improves bottom‐interface crystallization, suppresses non‐radiative recombination and residual microstrain, and limits stress localization during BIPV‐grade lamination. The resulting PSCs achieve a champion power conversion efficiency (PCE) of 27.53% and a stabilized output of 27.52%, while 833.70 cm 2 modules deliver 20.85%. After lamination, semitransparent bifacial modules retain 98.98% and 99.56% of their initial front and rear‐side PCEs, respectively, and maintain 89% and 88% after 2400 h under ISOS‐L‐3 and ISOS‐D‐3 protocols. This work establishes molecularly reconstructed NiO x as a scalable interface for efficient and lamination‐resilient perovskite photovoltaics.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.75703",
+   "oaStatus": "bronze",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 2
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Yingguo Yang, Adv. Mater., 2026, Reconstructing Colloidal NiO x Contacts for Efficient and Lamination-Resilient Perovskite Photovoltaics",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/adfm.79628",
+   "url": "https://doi.org/10.1002/adfm.79628",
+   "titleEn": "Cellulose Nanopaper-Regulated Flexible Organic Semiconductor Heterointerface for Ultrasensitive and Wireless Detection of a Nerve Agent Simulant",
+   "journal": "Advanced Functional Materials",
+   "journalAbbr": "Adv. Funct. Mater.",
+   "tier": 2,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Jiayue Han",
+    "Chenyuan Wang",
+    "Xue Liu",
+    "Huizi Li",
+    "Jiangong CHENG",
+    "Yanyan Fu"
+   ],
+   "corrAuthor": "Yanyan Fu",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT Flexible chemiresistive sensors are promising for portable warning, environmental monitoring, and personal protection against hazardous volatile chemicals. Herein, a flexible organic semiconductor sensor based on wood‐derived cellulose nanopaper (WCN) and poly(9,9‐dioctylfluorene‐alt‐benzothiadiazole) (F8BT) is developed for the ultrasensitive detection of diethyl chlorophosphate (DCP), a representative nerve agent simulant. WCN acts as a lightweight and flexible substrate with a stable interfacial environment, while F8BT serves as the active sensing layer for molecular recognition and charge transduction. The resulting F8BT‐WCN heterointerface significantly enhances DCP sensing performance, delivering a response of 74% to 132 ppm DCP, a response time of 2 s, a detection limit of 0.65 ppb, and good concentration dependence over 1.68 ppb–132 ppm. The sensor also exhibits excellent selectivity and stable responses under mechanical deformation, humidity variation, and long‐term storage. In addition, a passive wireless device was developed to enable contactless readout of DCP‐induced sensing signals, demonstrating the feasibility of wireless integration. This work provides an effective strategy for developing flexible and high‐performance gas sensors for portable hazardous vapor detection.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.79628",
+   "oaStatus": "bronze",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 6
+   },
+   "queryTopics": [
+    "유해물질 검출 센서"
+   ],
+   "score": 6,
+   "autoPdf": true,
+   "filename": "Yanyan Fu, Adv. Funct. Mater., 2026, Cellulose Nanopaper-Regulated Flexible Organic Semiconductor Heterointerface for Ultrasensitive and Wireless Detection of a Nerve Agent Simulan",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/aenm.71831",
+   "url": "https://doi.org/10.1002/aenm.71831",
+   "titleEn": "Perovskite Bandgap-Driven SAM Engineering for Hole-Selective Contacts",
+   "journal": "Advanced Energy Materials",
+   "journalAbbr": "Adv. Energy Mater.",
+   "tier": 2,
+   "pubDate": "2026-11-14",
+   "year": "2026",
+   "authors": [
+    "Wonjong Lee",
+    "Siwon Yun",
+    "Hyeji Han",
+    "Minkyu Kim",
+    "Jongchul Lim",
+    "Nam Joong Jeon",
+    "Gill Sang Han"
+   ],
+   "corrAuthor": "Gill Sang Han",
+   "corrConfirmed": true,
+   "abstract": "ABSTRACT Self‐assembled monolayers (SAMs) have revolutionized hole‐selective contacts in inverted p‐i‐n perovskite solar cells (PSCs), enabling dopant‐free operation, minimal parasitic absorption, and precise work function tuning. However, the diverse interfacial demands across narrow‐bandgap (NBG, 1.2–1.42 eV), medium‐bandgap (MBG, 1.42–1.65 eV), and wide‐bandgap (WBG, >1.65 eV) perovskites reveal that conventional carbazole‐based SAMs exhibit performance limitations tied to bandgap‐specific challenges. NBG systems suffer from Sn 2 + oxidation and deep valence‐band mismatches requiring enhanced passivation, while MBG compositions (the workhorse of single‐junction PSCs) demand balanced energetics and uniform coverage to minimize hysteresis and enable scalable fabrication, and WBG compositions demand aligned valence band maximum (VBM) levels and suppressed halide segregation for tandem applications. This review studied the bandgap‐dependent requirements for SAMs in perovskite solar cells, systematically correlating perovskite bandgap regimes with the corresponding interfacial and electronic design criteria of SAM molecules. Based on these insights, we propose targeted SAM tailoring strategies optimized for narrow‐, medium‐, and wide‐bandgap perovskites. Furthermore, we outline design principles for integrating such tailored SAMs into multi‐junction perovskite solar cells, providing a prospective pathway toward enhancing device performance and facilitating the commercialization of perovskite‐based photovoltaic technologies.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 4
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Gill Sang Han, Adv. Energy Mater., 2026, Perovskite Bandgap-Driven SAM Engineering for Hole-Selective Contacts",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsenergylett.6c02986",
+   "url": "https://doi.org/10.1021/acsenergylett.6c02986",
+   "titleEn": "Spiro-OMeTAD-Inspired Molecular Design: Electron Tunneling Meets Halogen Bonding for Robust Buried Interfaces",
+   "journal": "ACS Energy Letters",
+   "journalAbbr": "ACS Energy Lett.",
+   "tier": 2,
+   "pubDate": "2026-11-14",
+   "year": "2026",
+   "authors": [
+    "Parameswaran Rajamanickam",
+    "Rajendiran Balasaravanan",
+    "Yu-Hsin Hsu",
+    "Deebakkrishnan Ganesan",
+    "Ming-Han Cai",
+    "Shao-Huan Hong",
+    "Cheng‐Liang Liu",
+    "Ming-Chou Chen",
+    "Eric Wei‐Guang Diau"
+   ],
+   "corrAuthor": "Eric Wei‐Guang Diau",
+   "corrConfirmed": true,
+   "abstract": "Abstract Tin-based perovskite solar cells (TPSCs) are limited by fragile buried interfaces and uncontrolled nucleation. These get exacerbated when conventional hole-transport materials such as spiro-OMeTAD are used with dopants, especially in inverted p–i–n devices, leading to accelerated ion migration and poor stability. To overcome these limitations, we introduce BDTP-4D, a spiro-OMeTAD-inspired bis-dithienopyrrole molecule designed to mimic its merits while avoiding dopant-induced instability. Applied as a self-assembled monolayer (SAM) atop NiOx, BDTP-4D was co-sensitized with triphenylamine derivatives possessing targeted functionalities (–Br, –SMe, –OMe), which modulated hole-transport-layer surface energy and directed perovskite nucleation and crystallization. This yielded pinhole-free films with large, homogeneous grains atop the co-sensitized electrodes. Mechanistic analysis revealed complementary buried-interfacial processes: NiOx–Br electronic coupling and halogen-bonding between Br and Sn perovskite (BDTP:Br), and sulfur-mediated passivation (BDTP:SMe). This mixed-SAM strategy reproduces the benefits of doped spiro-OMeTAD while eliminating interfacial instability, thereby defining a generalizable molecular design principle for robust buried interfaces across emerging photovoltaics.",
+   "pdfUrl": "",
+   "oaStatus": "hybrid",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 4
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Eric Wei‐Guang Diau, ACS Energy Lett., 2026, Spiro-OMeTAD-Inspired Molecular Design Electron Tunneling Meets Halogen Bonding for Robust Buried Interfaces",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acssensors.6c03815",
+   "url": "https://doi.org/10.1021/acssensors.6c03815",
+   "titleEn": "MOF Nanozyme Sensor Array Encodes Wavelength-Resolved Catalytic Fingerprints for Interpretable Pesticide Screening",
+   "journal": "ACS Sensors",
+   "journalAbbr": "ACS Sens.",
+   "tier": 2,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Liping Zhang",
+    "Bin Zhou",
+    "Parham Kabirifar",
+    "Qin Wang"
+   ],
+   "corrAuthor": "Qin Wang",
+   "corrConfirmed": true,
+   "abstract": "Rapid pesticide screening is limited by low-dimensional optical readouts that may not preserve sufficient information to distinguish structurally diverse residues and estimate their concentrations. Here, three poly(vinylpyrrolidone) (PVP)-modulated MOF-199 copper nanozymes were combined with laccase-like, peroxidase-like, and superoxide dismutase-like chromogenic reactions to construct a 3 × 3 cross-reactive material-reaction sensor array. Quantitative XPS and N2 sorption revealed PVP-dependent differences in surface composition, external surface area, and pore volume. Across eight pesticides and twelve concentrations from 0.1 to 100 μg mL-1, full UV-vis spectra from 400 to 700 nm were assembled into 9 × 301 matrices. A multitask one-dimensional convolutional neural network (1D-CNN) decoded these matrices to jointly perform pesticide classification and concentration regression, achieving 94.4% accuracy, macro-F1 = 94.4%, R2 = 0.894, and RMSE = 10.46 μg mL-1 in standard-solution tests. Spectral-window ablation showed improved prediction with broader wavelength coverage, while an endpoint comparison further supported the advantage of the full spectral representation. Input-gradient and Grad-CAM analyses mapped model reliance to material-reaction channels and chromogenic wavelength regions, supporting interpretable identity-concentration decoding. In apple, cucumber, and pepper matrices, the trained nine-class classifier assigned representative pesticides and blank controls with 97.2% overall accuracy. These results demonstrate that wavelength-resolved catalytic fingerprints support interpretable classification and concentration estimation of single-pesticide samples in standard solutions and retain class-discriminating information in the tested produce matrices.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "변색 센서": 1,
+    "유해물질 검출 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Qin Wang, ACS Sens., 2026, MOF Nanozyme Sensor Array Encodes Wavelength-Resolved Catalytic Fingerprints for Interpretable Pesticide Screening",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acs.analchem.6c04913",
+   "url": "https://doi.org/10.1021/acs.analchem.6c04913",
+   "titleEn": "Microfluidic Chips for Rapid On-Site Detection of both Total Nitrogen and Total Phosphorus in Water Quality Monitoring",
+   "journal": "Analytical Chemistry",
+   "journalAbbr": "Anal. Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Boxi Lu",
+    "Shengbo Chen",
+    "Siqi Yang",
+    "Dou Wang",
+    "Xingyu Jiang"
+   ],
+   "corrAuthor": "Xingyu Jiang",
+   "corrConfirmed": true,
+   "abstract": "Abstract Pollution of nitrogen and phosphorus in aquatic environments poses a growing threat to global water quality, driving an urgent demand for rapid, portable, and reliable on-site detection tools. This study develops a portable microfluidic chip for rapid on-site detection of both total nitrogen (TN) and total phosphorus (TP) in water. The device employs on-chip UV-activated persulfate at 50 °C to efficiently digest diverse nitrogen and phosphorus species into nitrate and orthophosphate, followed by colorimetric quantification via the Griess diazotization and phospho-molybdenum blue reactions, respectively. By pre-loading all reagents into integrated bubble caps within the on-chip design, the system eliminates manual reagent handling, minimizes reagent consumption and operational complexity, and enables reliable field deployment across diverse matrices, including surface waters from multiple river systems and coastal sites, as well as groundwater. Complete analysis is achieved within 40 min with detection limits of 0.061 mg/L (TN) and 0.040 mg/L (TP), both below EPA standards (TN: 1.5 mg/L; TP: 0.2 mg/L). This platform offers a cost-effective, user-friendly solution for real-time water quality management, demonstrating significant potential for adaptive environmental sensing networks. Notably, quantitative readout is performed exclusively by a smartphone-based recognition app built on the uni-app framework: the user marks a blank reference region and a sample region on the captured chip image, and an embedded, pre-trained model [random forest (RF) for TN, support-vector regression (SVR) for TP] converts the normalized colors to concentration entirely on-device. In the on-site prototype, the smartphone replaces both the laboratory absorbance reader and most discrete on-chip photodetectors.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Xingyu Jiang, Anal. Chem., 2026, Microfluidic Chips for Rapid On-Site Detection of both Total Nitrogen and Total Phosphorus in Water Quality Monitoring",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/smll.76750",
+   "url": "https://doi.org/10.1002/smll.76750",
+   "titleEn": "Surface Hydroxylation-Regulated Self-Assembled Molecular Extrusion Enables Efficient Inverted Perovskite Solar Cells Without a Pre-Deposited Hole-Transport Layer",
+   "journal": "Small",
+   "journalAbbr": "Small",
+   "tier": 3,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Zhiguo Nie",
+    "Shan Zhong",
+    "Chengrui Xie",
+    "Zhipeng Zhang",
+    "Weiwei Meng",
+    "Yulan Huang",
+    "Bo Wu",
+    "Guichuan Xing",
+    "Mingzhu Long"
+   ],
+   "corrAuthor": "Mingzhu Long",
+   "corrConfirmed": true,
+   "abstract": "Self-assembled monolayers (SAMs) offer a promising route for simplifying inverted perovskite solar cells (PSCs), yet achieving uniform interfacial assembly remains challenging, particularly during co-deposition with the perovskite layer. Here, a mild aqueous dimethylamine treatment is employed to controllably hydroxylate the ITO surface, generating abundant terminal In/Sn-OH sites and a more homogeneous anchoring environment. The hydroxyl-enriched surface enables efficient SAM extrusion by facilitating the downward migration, interfacial interaction, and robust anchoring of SAM molecules from the precursor solution. This hydroxyl-assisted extrusion process suppresses molecular aggregation and solvent-induced desorption, yielding a uniform SAM distribution at the buried interface. The optimized interfacial assembly improves perovskite crystallinity and suppresses interfacial recombination. As a result, inverted PSCs fabricated without a pre-deposited hole-transport layer deliver a champion power conversion efficiency of 26.72% and superior operational stability, retaining 95.4% of their initial efficiency after 1200 h of continuous operation under 1-sun illumination. This work presents a mild and effective approach for regulating SAM extrusion during co-deposition and constructing robust buried interfaces for efficient inverted PSCs.",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 4
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 4,
+   "autoPdf": true,
+   "filename": "Mingzhu Long, Small, 2026, Surface Hydroxylation-Regulated Self-Assembled Molecular Extrusion Enables Efficient Inverted Perovskite Solar Cells Without a Pre-Deposited Hole-Transpo",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1002/solr.70531",
+   "url": "https://doi.org/10.1002/solr.70531",
+   "titleEn": "Synergistic Temperature Regulation and Interface Engineering of Magnetron-Sputtered NiO x for Inverted Perovskite Solar Cells",
+   "journal": "Solar RRL",
+   "journalAbbr": "Sol. RRL",
+   "tier": 3,
+   "pubDate": "2026-11-11",
+   "year": "2026",
+   "authors": [
+    "Dongrui Sun",
+    "Xiangyi Shen",
+    "Yi Cai",
+    "Ke Jin",
+    "Xue Ma",
+    "Xue Wang",
+    "Zhangjun Yu",
+    "Yingdong Xia",
+    "Qingxun Guo",
+    "Yonghua Chen"
+   ],
+   "corrAuthor": "Qingxun Guo",
+   "corrConfirmed": true,
+   "abstract": "Magnetron‐sputtered nickel oxide (NiO x ) has emerged as a stable and efficient hole transport layer (HTL) for high‐performance inverted perovskite solar cells (PSCs) due to its high carrier mobility, excellent stability, and compatibility with large‐scale manufacturing. However, the limited crystallinity of sputtered NiO x films and interfacial mismatch with perovskites still restrict device efficiency. Here, we present a synergistic strategy that integrates sputtering temperature optimization with bilayer molecular modification (Me‐4PACz/PEACl) for interfacial passivation. By tuning the substrate temperature during NiO x sputtering, its optoelectronic properties were effectively enhanced, while sequential deposition of Me‐4PACz and phenethylammonium chloride (PEACl) layers further regulated the buried perovskite interface and passivated defects. As a result, the optimized PSCs achieved a champion power conversion efficiency (PCE) of 23.37%. The unencapsulated devices retained over 90% of their initial PCE after 1500 h of storage under an inert N 2 atmosphere, highlighting their excellent operational stability. Importantly, benefiting from the compatibility of magnetron sputtering with scalable screen‐printing processes, large‐area devices (1 cm 2 ) were successfully fabricated, underscoring the scalability and industrial potential of this integrated approach.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/solr.70531",
+   "oaStatus": "bronze",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 1
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Qingxun Guo, Sol. RRL, 2026, Synergistic Temperature Regulation and Interface Engineering of Magnetron-Sputtered NiO x for Inverted Perovskite Solar Cells",
+   "source": "openalex"
+  }
+ ],
+ "others": [
+  {
+   "doi": "10.1038/s41598-026-78516-z",
+   "titleEn": "Impact of PTAA and MeO-2PACz hole transport layers on interfacial recombination in inverted perovskite solar cells",
+   "journal": "Scientific Reports",
+   "pubDate": "2026-11-12",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1002/adom.72026",
+   "titleEn": "Enhanced Thermal Stability of InAs Colloidal Quantum Dot Films With AlBr 3 Ligands",
+   "journal": "Advanced Optical Materials",
+   "pubDate": "2026-11-13",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1002/adom.71977",
+   "titleEn": "Regulating the Energy Levels of HgTe Colloidal Quantum Dots for High-performance Extended Shortwave Infrared Photodiodes",
+   "journal": "Advanced Optical Materials",
+   "pubDate": "2026-11-12",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.54254/2755-2721/2027.38924",
+   "titleEn": "An Overview of Perovskite Quantum Dots for Carbon Dioxide Photoreduction",
+   "journal": "Applied and Computational Engineering",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3389/fmolb.2026.1971794",
+   "titleEn": "Molecular architecture of surface-active ionic liquids governs protein structural integrity and drug recognition at engineered carbon quantum dot nano-bio interfaces",
+   "journal": "Frontiers in Molecular Biosciences",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.colcom.2026.100926",
+   "titleEn": "Interfacial engineering of silver quantum dots for antibacterial applications: From surface chemistry to translational design",
+   "journal": "Colloids and Interface Science Communications",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1007/s00604-026-08539-w",
+   "titleEn": "Visible-light-activated CdS/Ag₂S/g-C₃N₄ nanozyme for sensitive colorimetric detection of carbohydrate antigen19-9",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-14",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00216-026-06915-2",
+   "titleEn": "Multifunctional Au/RuO2 tracer with chromogenic, photothermal, and peroxidase-like properties for multimodal lateral flow immunoassay",
+   "journal": "Analytical and Bioanalytical Chemistry",
+   "pubDate": "2026-11-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acs.langmuir.6c06466",
+   "titleEn": "A Platinum Nanozyme-Based Three-Channel Cross-Reactive Colorimetric Sensor Array for Rapid Discrimination of Multiple Antibiotics",
+   "journal": "Langmuir",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.porgcoat.2026.110759",
+   "titleEn": "RGB-readable dithizone-polyurethane coatings for colorimetric screening of hazardous metal ions in synthetic seawater",
+   "journal": "Progress in Organic Coatings",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08532-3",
+   "titleEn": "COF-AgNPs nanozyme combined with multimodal machine learning for dual-mode detection of Hg2+ in aquatic products",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/app.71752",
+   "titleEn": "Development of Optical Polyviologen Nanoparticle-Immobilized Cellulose Nanocrystal-Reinforced Gum Arabic as Self-Healing Hydrogel Toward Multi-Stimuli Responsive and Anticounterfeiting Applications",
+   "journal": "Journal of Applied Polymer Science",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/separations13110335",
+   "titleEn": "Dynamic Associations Among Sensory Characteristics, Alkaloid Profiles, and Cardiotoxicity Variation During Zanba Processing of Tibetan Medicine Tiebangchui",
+   "journal": "Separations",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/biom16111632",
+   "titleEn": "Leonurus cardiaca L. Polysaccharide-Stabilized Palladium-Gold Nanoparticles and Fluorescent Carbon Dots for Selective and Dual-Mode Detection of Pesticide Glyphosate",
+   "journal": "Biomolecules",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151920",
+   "titleEn": "Magnetic-controlled assembly of aptamer-functionalized MOF-based molecularly imprinted polymers for fluorescence/colorimetric dual-mode sensing of ochratoxin A",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-06",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151726",
+   "titleEn": "Co-MOF@CNF composite films for dual-functional intelligent packaging with ammonia-responsive colorimetric sensing and active shrimp freshness preservation",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acssuschemeng.6c06954",
+   "titleEn": "Dynamically Co-assembling Guaiacol Glyceryl Ether and Cellulose Nanocrystals for Iridescent Films Construction: The Visualized and Sensitive Monitoring for Food Spoilage",
+   "journal": "ACS Sustainable Chemistry & Engineering",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.scp.2026.102614",
+   "titleEn": "Integrated gel-based electrocolorimetric extraction for the determination of promethazine in pharmaceutical and beverage samples",
+   "journal": "Sustainable Chemistry and Pharmacy",
+   "pubDate": "2026-11-14",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.aca.2026.346498",
+   "titleEn": "Mesoporous silica-confined Au/Pt bimetallic nanozymes for dissolved oxygen-driven and H2O2-free colorimetric detection of aniline",
+   "journal": "Analytica Chimica Acta",
+   "pubDate": "2026-11-06",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/pssa.70591",
+   "titleEn": "Effect of Lanthanum Doping on Spray-Deposited ZnO Thin Films for Carbon Monoxide Gas-Sensing Applications",
+   "journal": "physica status solidi (a)",
+   "pubDate": "2026-11-13",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.comptc.2026.116137",
+   "titleEn": "Synergistic effect of doping (La and Pr) and electric field on performance of gas sensor based on SnO2/SnSe2 Heterostructure toward NO2, NO, and HCN gases",
+   "journal": "Computational and Theoretical Chemistry",
+   "pubDate": "2026-11-07",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130896",
+   "titleEn": "Engineering VGCF/Eu-MOF/GCE sensing platform for ratiometric electrochemical detection of Pb2+",
+   "journal": "Talanta",
+   "pubDate": "2026-11-12",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.nxmate.2026.103968",
+   "titleEn": "Phosphorene-metal oxide hybrids: Dual functionality in heavy metal ions sensing and antibacterial activity",
+   "journal": "Next Materials",
+   "pubDate": "2026-11-11",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/smm2.70110",
+   "titleEn": "Recent Advances in Self-Healing Conducting Polymers for Gas Sensors",
+   "journal": "SmartMat",
+   "pubDate": "2026-11-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/s26217082",
+   "titleEn": "Hybrid 2D MoS2-Copper Benzene-1,3,5-Tricarboxylate Framework for Room-Temperature Gas Sensing: Toward Trace Ammonia Detection for Hydrogen-Carrier Safety",
+   "journal": "Sensors",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s12633-026-03914-x",
+   "titleEn": "Well-Controlling the Performance of Porous Silicon Sensors for Effective Detection of Pesticides: Role of Structural Characteristics",
+   "journal": "Silicon",
+   "pubDate": "2026-11-11",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18222831",
+   "titleEn": "Upcycling Polylactide into UV-Curable Pressure-Sensitive Adhesives via Glycolysis and Maleic Anhydride Functionalization",
+   "journal": "Polymers",
+   "pubDate": "2026-11-12",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1007/s00289-026-06777-9",
+   "titleEn": "Synthesis and characterization of modified alkali soluble photocurable epoxy resin and comprehensive properties",
+   "journal": "Polymer Bulletin",
+   "pubDate": "2026-11-11",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
