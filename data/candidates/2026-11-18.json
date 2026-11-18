@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generatedAt": "2026-11-18T11:06:32+09:00",
+ "generatedAt": "2026-11-18T11:36:44+09:00",
  "searchFrom": "2026-11-08",
  "sources": {
   "openalex": {
@@ -12,11 +12,11 @@
    "fail": 0
   },
   "unpaywall": {
-   "ok": 11,
+   "ok": 10,
    "fail": 0
   }
  },
- "count": 11,
+ "count": 19,
  "papers": [
   {
    "doi": "10.1002/adma.75735",
@@ -99,6 +99,77 @@
    "source": "crossref"
   },
   {
+   "doi": "10.1002/adma.75761",
+   "url": "https://doi.org/10.1002/adma.75761",
+   "titleEn": "An Interfacial Electron Pump Enhanced Photo-Assisted CO 2 -to-Bioplastic Microbial Electrosynthesis",
+   "journal": "Advanced Materials",
+   "journalAbbr": "Adv. Mater.",
+   "tier": 1,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Shihao Tian",
+    "Yi Liu",
+    "Hanyu Li",
+    "Qi Wang",
+    "Yang Zhou",
+    "Jian‐Rong Zhang",
+    "Wenlei Zhu"
+   ],
+   "corrAuthor": "Wenlei Zhu (추정)",
+   "corrConfirmed": false,
+   "abstract": "Most solar- and electrochemical CO 2 -utilization strategies still terminate in small-molecule products, whereas direct access to recoverable carbon products such as bioplastics remains uncommon. Here, we develop a photo-assisted bioelectrochemical platform by coupling a Shewanella oneidensis MR-1 bioanode functionalized with Ti 3 C 2 T x MXene quantum dots (MQDs) to a Cupriavidus necator biocathode modified with Ni-doped carbon dots/poly(diallyldimethylammonium chloride) (Ni-CDs/PDDA). Cell-associated MQDs form a conductive and photoactive biointerface, operationally described as an interfacial electron pump, that facilitates lactate-dependent extracellular electron transfer (EET) under applied anodic bias and adds an illumination-dependent current contribution. The MQDs-enabled microbial fuel cell (MFC) delivers a peak power density of 0.82 ± 0.03 mW cm -2 under illumination. In the coupled CO 2 -fed system, anodic illumination raises polyhydroxybutyrate (PHB) productivity to 131 mg L -1 d -1 at -0.6 V versus the reversible hydrogen electrode (vs. RHE), approximately 47% above the matched dark value over a 12 h interval. The coupled platform reaches an apparent total-energy-to-PHB efficiency of 3.42% when electrical, incident optical, and lactate-derived chemical inputs are included. Multiscale analyses support an EET-coupled interfacial relay involving cytochrome/heme-associated components within the native EET network. This interface-to-synthesis strategy links photo-assisted microbial electron harvesting to H 2 -mediated CO 2 -to-PHB biosynthesis.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 1
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Wenlei Zhu, Adv. Mater., 2026, An Interfacial Electron Pump Enhanced Photo-Assisted CO 2 -to-Bioplastic Microbial Electrosynthesis",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/adma.75763",
+   "url": "https://doi.org/10.1002/adma.75763",
+   "titleEn": "Ultrarobust and Thermo-Mechano-Photo-Responsive Elastomers by Supramolecular and Dynamic 3D Topological Architectures",
+   "journal": "Advanced Materials",
+   "journalAbbr": "Adv. Mater.",
+   "tier": 1,
+   "pubDate": "2026-11-17",
+   "year": "2026",
+   "authors": [
+    "Sijia Li",
+    "Zimo Pang",
+    "Xinwei Chen",
+    "Yujie Chen",
+    "Liang Wu",
+    "Xinyuan Zhu",
+    "Huai Sun",
+    "Hezhou Liu"
+   ],
+   "corrAuthor": "Hezhou Liu (추정)",
+   "corrConfirmed": false,
+   "abstract": "Mechanically robust elastomers are being widely used in multi-stimuli-responsive systems including closed-loop recycling, information encryption, and advanced photolithography. However, their advancement is hindered by an inherent trade-off: structural integrity for mechanical robustness versus molecular-level reversibility for stimuli responsiveness. In this study, we constructed ultrarobust recyclable and photo-responsive supramolecular-dynamic covalent networks (SDCN) based on molecular engineering of anthracene-functionalized poly(urethane-urea-amide) (PUUA) networks with hindered urea motifs. Well-designed SDCN achieves multiscale assembly through coordinated π-π stacking, hydrogen bonding, and dynamic covalent interactions, creating dynamic coupling between soft-chain crosslinks and self-assembly hard domains, and driving microphase separation. Under stretching, strain-activated disassembly of dynamically assembled nanostructures synergizes with stress-induced crystallization, in situ evolving three-dimensional topological architectures and promoting strength-toughness enhancement. Consequently, PUUA elastomers exhibit remarkable mechanical performance (100.17 MPa tensile strength, 1286.79% elongation and 498.15 MJ m -3 toughness at room temperature; 113.67 MPa strength and 667.8% elongation at -40°C) and recycling performance (92.4% recyclability via solvent reprocessing). Significantly, UV-responsive anthracene photonic moieties combined with temperature-mediated interfacial SDCN transition enable fluorescent encryption and sub-micron photolithographic patterning. Therefore, this work coordinates dynamic thermal-mechanical-optical responses and multi-scale molecular transition mechanisms, which can be expected to boost high-precision photolithographic patterning and flexible microcircuit printing fields.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "광가교 전반",
+   "topicScores": {
+    "광가교 전반": 1
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Hezhou Liu, Adv. Mater., 2026, Ultrarobust and Thermo-Mechano-Photo-Responsive Elastomers by Supramolecular and Dynamic 3D Topological Architectures",
+   "source": "crossref"
+  },
+  {
    "doi": "10.1021/acs.analchem.6c06060",
    "url": "https://doi.org/10.1021/acs.analchem.6c06060",
    "titleEn": "Ligand-Framework Reactivity Contrast Enables Programmable Threshold Fluorescence Switching in MXene Quantum Dots",
@@ -127,11 +198,89 @@
     "변색 센서": 2
    },
    "queryTopics": [
-    "CQD 리간드"
+    "광가교 리간드"
    ],
    "score": 2,
    "autoPdf": true,
    "filename": "Yan Li, Anal. Chem., 2026, Ligand-Framework Reactivity Contrast Enables Programmable Threshold Fluorescence Switching in MXene Quantum Dots",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsnano.6c11633",
+   "url": "https://doi.org/10.1021/acsnano.6c11633",
+   "titleEn": "Spatially Internalized InP@ZnS Quantum Dots Facilitate Bifunctional Catalysis for High-Efficiency Photo-Driven PHB Biosynthesis",
+   "journal": "ACS Nano",
+   "journalAbbr": "ACS Nano",
+   "tier": 2,
+   "pubDate": "2026-11-14",
+   "year": "2026",
+   "authors": [
+    "Xinyi Chen",
+    "Haiyang Huang",
+    "Jingyi Teng",
+    "Hanyu Gao",
+    "Yunfeng Qiu",
+    "Miao Yu",
+    "Zhuo Ma",
+    "Ruiwen Wang",
+    "Shaoqin Liu"
+   ],
+   "corrAuthor": "Shaoqin Liu (추정)",
+   "corrConfirmed": false,
+   "abstract": "Semiconductor-biological hybrid systems show potential for sustainable biomanufacturing but are limited by high transmembrane resistance, rapid photogenerated carrier recombination, and a single catalytic mode. We constructed a spatially compartmentalized dual-pathway biohybrid by integrating core-shell InP@ZnS quantum dots (QDs) in vivo into Cupriavidus necator H16. Intracellular QDs directly inject photogenerated electrons via near-field coupling into redox centers, promoting NADP+ and NAD+ reduction, while extracellular QDs photocatalytically generate H2, which acts as a diffusible auxiliary electron carrier, further elevating the pools of NADPH, NADH, and ATP. Under this dual-pathway configuration, peak bulk NADPH/NADP+ and NADH/NAD+ ratios increased by 37.8% and 48.6% (single-cell increases of 26.8% and 37.8%), and total ATP rose by 50.6% during the logarithmic growth phase and by 33.9% at the single-cell level. Without external mediators and under low ambient light (4200 lx), the hybrid achieved a polyhydroxybutyrate (PHB) titer of 6.55 g L-1, which was 2.18-fold higher than that of the light control, representing the highest enhancement reported for C. necator H16-based systems. The ZnS shell suppresses carrier recombination and reduces metal ion leakage, thereby improving stability. This work demonstrates a dual-pathway electron-delivery strategy for microbial production of sustainable materials and presents a generalizable approach that integrates internalization of QDs, dual-pathway electron transfer, and passivation with the ZnS shell.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Shaoqin Liu, ACS Nano, 2026, Spatially Internalized InP@ZnS Quantum Dots Facilitate Bifunctional Catalysis for High-Efficiency Photo-Driven PHB Biosynthesis",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1038/s41467-026-79398-5",
+   "url": "https://doi.org/10.1038/s41467-026-79398-5",
+   "titleEn": "Atomic-level coordination-engineered quantum dots orchestrate mitochondrial energy rescue for diabetic bone regeneration",
+   "journal": "Nature Communications",
+   "journalAbbr": "Nat. Commun.",
+   "tier": 2,
+   "pubDate": "2026-11-17",
+   "year": "2026",
+   "authors": [
+    "Min Jiang",
+    "Hongrui Qin",
+    "Hongyong Zhao",
+    "Wenjun Ma",
+    "Ping Tang",
+    "Hongjiang Wei",
+    "Guangyu Jian",
+    "Ding Chen",
+    "Zishuo Cheng",
+    "Richard D. Cannon",
+    "Ping Ji",
+    "Dize Li",
+    "Tao Chen"
+   ],
+   "corrAuthor": "Tao Chen (추정)",
+   "corrConfirmed": false,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Tao Chen, Nat. Commun., 2026, Atomic-level coordination-engineered quantum dots orchestrate mitochondrial energy rescue for diabetic bone regeneration",
    "source": "crossref"
   },
   {
@@ -243,6 +392,79 @@
    "score": 1,
    "autoPdf": false,
    "filename": "Iván Mora-Seró, ACS Energy Lett., 2026, Multifunctional Dendrimer Interlayers for Tin-Based Perovskite Solar Cells Inducing Interfacial Dipoles and Suppressing Electrode Corrosion",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsnano.6c14267",
+   "url": "https://doi.org/10.1021/acsnano.6c14267",
+   "titleEn": "Deciphering Charge Delocalization across Mercaptobenzonitrile Ligand Terminals and Inner Hydrides in Atomically Precise Cu14H10 Nanoclusters for Electrocatalytic CO2 Reduction",
+   "journal": "ACS Nano",
+   "journalAbbr": "ACS Nano",
+   "tier": 2,
+   "pubDate": "2026-11-11",
+   "year": "2026",
+   "authors": [
+    "Anik Sarkar",
+    "Sarah Elhajj",
+    "Zhicheng Yang",
+    "Manju P. Maman",
+    "Zhenming Du",
+    "Ryan T. VanderLinden",
+    "Guoxiang Hu",
+    "Tianquan Lian",
+    "Samer Gozem",
+    "Gangli Wang"
+   ],
+   "corrAuthor": "Gangli Wang (추정)",
+   "corrConfirmed": false,
+   "abstract": "Cu hydride nanoclusters with atomic precision in composition and structure offer exciting catalytic activities and opportunities for rigorous structure-function correlations. Determination of their atomic structures, especially the hydride locations, hinges on the availability of high-quality single crystals and neutron beams, while their relatively weak UV-visible absorption and electrochemical instability challenge the analysis of their electronic properties. Herein, we synthesize a Cu14H10 nanocluster coordinated by three 4-mercaptobenzonitrile (MBN) and eight triphenylphosphine ligands. Two-dimensional NMR analyses combined with single crystal X-ray diffraction reveal unequivocally the locations of the ten hydrides in four groups (stoichiometry ratio of 1:3:3:3) with drastically different environments (chemical shifts 11-3 ppm): one H at the inversion center and three triangular layers along the C3 axial bridging together the Cu core. MBN serves two additional purposes besides stabilizing ligands: its electron-withdrawing nature and a highly sensitive vibrational reporter of its local charge density. The first property gives rise to a low-lying Cu-core-to-MBN metal-to-ligand charge transfer (MLCT) excited state, and the second property enables direct spectroscopic probing of both the charge transfer nature and dynamics of the MLCT excited state through the dynamic spectral shift of the MBN CN stretching mode. Through combined transient IR absorption spectroscopy and time-dependent density functional theory (TD-DFT) calculations, we obtained the complete atomic and electronic structure, revealing core-to-ligand charge transfers in these nanoclusters. Computed under identical conditions using an iso-structure with a mildly electron-donating ligand, the Cu14H10 featuring charge delocalization toward the electron-withdrawing MBN has a smaller HOMO-LUMO gap, which is deemed favorable for electrocatalytic CO2 reduction. The preferential formation of complex multielectron-hydrogenation products (8-12 e-, C1 hydrocarbons, and C2+ products) over two-electron pathways such as CO formation or the competing hydrogen evolution reaction highlights their promise as atomically precise catalysts for deep CO2 reduction.",
+   "pdfUrl": "https://pubs.acs.org/ancac3/article-pdf/doi/10.1021/acsnano.6c14267/69149638/acsnano.6c14267.pdf",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Gangli Wang, ACS Nano, 2026, Deciphering Charge Delocalization across Mercaptobenzonitrile Ligand Terminals and Inner Hydrides in Atomically Precise Cu14H10 Nanoclusters for Electr",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/adfm.79685",
+   "url": "https://doi.org/10.1002/adfm.79685",
+   "titleEn": "Proton-Pump Engineering in Photo-Responsive TiCo-MOFs for Efficient Photocatalytic H 2 O 2 Production",
+   "journal": "Advanced Functional Materials",
+   "journalAbbr": "Adv. Funct. Mater.",
+   "tier": 2,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Haorong Li",
+    "Xinyi Chen",
+    "Yan Yan",
+    "Ruyu Zhang",
+    "Shengchang Xiang",
+    "Xi Fan",
+    "Zhangjing Zhang"
+   ],
+   "corrAuthor": "Zhangjing Zhang (추정)",
+   "corrConfirmed": false,
+   "abstract": "The current industrial anthraquinone route to hydrogen peroxide is energy-intensive, hazardous, environmentally unfriendly and has spurred a quest for greener synthetic methods. Photocatalytic H 2 O 2 production using water and oxygen is an attractive alternative, but its efficiency is often limited by the slow kinetics of water oxidation, which in turn restricts the proton supply needed for the oxygen reduction reaction. Herein, we report a proton-pump engineering strategy that precisely tailors the proton-donating capability of a stable photo-responsive TiCo 2 -based metal-organic framework (MOF) without altering its underlying framework topology. By incorporating functional groups with distinct pK a values, -NH 2 and -OH, onto the terephthalate linkers, we achieve controlled modulation of the local proton transfer kinetics. The TiCo 2 -OH MOF exhibits significantly enhanced proton conductivity, superior charge separation efficiency, and a markedly stabilized *OOH intermediate. As a result, this material delivers a high H 2 O 2 production rate of 20 525 µmol g -1 h -1 in pure water under visible light irradiation without any sacrificial agents, exceeding the best previously reported MOF-based photocatalysts under comparable conditions. This work establishes pore engineering as a generalizable, non-destructive strategy for overcoming the proton supply bottleneck in photocatalytic proton-coupled reactions, offering a sustainable platform for green H 2 O 2 synthesis.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Zhangjing Zhang, Adv. Funct. Mater., 2026, Proton-Pump Engineering in Photo-Responsive TiCo-MOFs for Efficient Photocatalytic H 2 O 2 Production",
    "source": "crossref"
   },
   {
@@ -387,6 +609,48 @@
    "source": "crossref"
   },
   {
+   "doi": "10.1021/acsami.6c13055",
+   "url": "https://doi.org/10.1021/acsami.6c13055",
+   "titleEn": "Solar-Matched Colloidal Quantum Dots/Metal-Organic Framework Hybrid Materials for Photo-Induced Charge Transfer",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-17",
+   "year": "2026",
+   "authors": [
+    "Dhanvini Gudi",
+    "Kevin J. Bennett",
+    "Jill M. Cleveland",
+    "Luke R. O’Connor",
+    "Minghao Wang",
+    "Gregory Foley",
+    "James R. Wilkes",
+    "Kyle S. Barcus",
+    "Hoon Jeong Lee",
+    "Sujitra J. Pookpanratana",
+    "Jier Huang",
+    "Arthur E. Bragg",
+    "Susanna M. Thon",
+    "V. Sara Thoi"
+   ],
+   "corrAuthor": "V. Sara Thoi (추정)",
+   "corrConfirmed": false,
+   "abstract": "Lead sulfide colloidal quantum dots (PbS CQDs) are promising third-generation photovoltaic materials, and metal-organic frameworks (MOFs) are complementary materials that are used as multifunctional charge storage and redox platforms. Hybrid materials combining CQDs and MOFs are highly promising for applications utilizing solar-driven charge transfer, but their synthesis can be challenging due to the thermal instability of solar-matched infrared CQDs. Here, we demonstrate a room-temperature, \"bottle-around-ship\" synthesis of a nanocomposite that integrates near-infrared (NIR) absorbing PbS CQDs with an iron-based MOF, MIL-88B(Fe). We employ a syringe-pump-assisted addition of precursors to achieve controlled nucleation and crystallization of the MOF around the CQDs under ambient conditions. Structural characterization confirms the formation of crystalline composites composed of co-localized CQDs with the MOFs. Steady-state, time-resolved optical spectroscopy reveals photoluminescence quenching and shortening of the exciton lifetime in the composite compared to the CQDs alone. Transient absorption data suggest a photo-induced charge transfer from the PbS CQDs to the MIL-88B(Fe) framework on a picosecond timescale. This work establishes a room-temperature synthesis approach for integrating thermally sensitive solar-matched CQDs with functional MOFs and performs an initial spectroscopic study to evaluate the potential of these nanocomposites as advanced hybrid materials for photocatalysis and optoelectrochemical devices in the future.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "V. Sara Thoi, ACS Appl. Mater. Interfaces, 2026, Solar-Matched Colloidal Quantum Dots Metal-Organic Framework Hybrid Materials for Photo-Induced Charge Transfer",
+   "source": "crossref"
+  },
+  {
    "doi": "10.1002/smll.76815",
    "url": "https://doi.org/10.1002/smll.76815",
    "titleEn": "Homochiral Interfacial Coupling Enables Chiroptical Amplification and Spin Regulation in 0D/2D Perovskite Heterojunctions",
@@ -421,6 +685,42 @@
    "score": 1,
    "autoPdf": false,
    "filename": "Jun Wang, Small, 2026, Homochiral Interfacial Coupling Enables Chiroptical Amplification and Spin Regulation in 0D 2D Perovskite Heterojunctions",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/smll.76738",
+   "url": "https://doi.org/10.1002/smll.76738",
+   "titleEn": "Gluconic Acid Ligand Enables Rapid Chemical Bath Deposition of SnO 2 for High-Efficiency Perovskite Solar Cells",
+   "journal": "Small",
+   "journalAbbr": "Small",
+   "tier": 3,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Weiwei Sun",
+    "Weifeng Liu",
+    "Zhifei Li",
+    "Jinqing Lv",
+    "Zhiwen Dong",
+    "Yukun Gao",
+    "Tingting You",
+    "Penggang Yin"
+   ],
+   "corrAuthor": "Penggang Yin (추정)",
+   "corrConfirmed": false,
+   "abstract": "Chemical bath deposition (CBD) is widely used to prepare SnO 2 electron transport layers for high-efficiency n-i-p perovskite solar cells. However, the conventional CBD recipe using thioglycolic acid (TGA) suffers from long deposition time, nanoparticle aggregation, energy level mismatch, abundant oxygen vacancy defects, and residual thiol. Herein, we report a green and rapid CBD strategy by completely replacing TGA with gluconic acid (GA). The abundant carboxyl and hydroxyl groups of GA regulate the deposition process: they suppress nanoparticle aggregation through hydrogen bonding and steric hindrance, enabling a dense and conformal SnO 2 film within 50 min; they also promote the full oxidation of Sn 2+ , reducing oxygen vacancy defects. The resulting GA-SnO 2 promotes better energy level alignment with the perovskite film and improved interfacial charge transport. Moreover, GA inherently avoids thiol residues at the buried interface. The champion device (0.0729 cm 2 ) based on GA-SnO 2 achieves a lab-measured efficiency of 26.24%, retains 91.34% of its initial efficiency after 1000 h of maximum power point tracking, and a 5 cm × 5 cm mini-module reaches 22.23% efficiency. This work provides a rapid, green, and scalable route to high-quality SnO 2 electron transport layers.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.76738",
+   "oaStatus": "",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 1
+   },
+   "queryTopics": [
+    "광가교 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Penggang Yin, Small, 2026, Gluconic Acid Ligand Enables Rapid Chemical Bath Deposition of SnO 2 for High-Efficiency Perovskite Solar Cells",
    "source": "crossref"
   }
  ],
