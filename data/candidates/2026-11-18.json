@@ -1,0 +1,850 @@
+{
+ "date": "2026-11-18",
+ "generatedAt": "2026-11-18T11:06:32+09:00",
+ "searchFrom": "2026-11-08",
+ "sources": {
+  "openalex": {
+   "ok": 30,
+   "fail": 3
+  },
+  "crossref": {
+   "ok": 3,
+   "fail": 0
+  },
+  "unpaywall": {
+   "ok": 11,
+   "fail": 0
+  }
+ },
+ "count": 11,
+ "papers": [
+  {
+   "doi": "10.1002/adma.75735",
+   "url": "https://doi.org/10.1002/adma.75735",
+   "titleEn": "High-Efficiency Perovskite-Organic Tandem Solar Cells Enabled by Perovskite Crystallization Optimization and Metal-Free Interconnecting Layer",
+   "journal": "Advanced Materials",
+   "journalAbbr": "Adv. Mater.",
+   "tier": 1,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Longfei Liu",
+    "Chuizheng Feng",
+    "Songtao Liu",
+    "Yao Xu",
+    "Zihao Wang",
+    "Jianing Li",
+    "Yi Zhang",
+    "Kai Zhang",
+    "Fei Huang"
+   ],
+   "corrAuthor": "Fei Huang (추정)",
+   "corrConfirmed": false,
+   "abstract": "Perovskite-organic tandem solar cells (PO-TSCs) offer a promising route toward high-efficiency and cost-effective photovoltaics by combining wide-bandgap (WBG) perovskite solar cells (PSCs) with narrow-bandgap organic solar cells. Nevertheless, achieving high-performance PO-TSCs still faces key challenges: open-circuit voltage ( V OC ) loss in the WBG perovskite sub-cell and optoelectrical loss at the interconnecting layer (ICL). Here, we incorporate 4-nitrophenethylamine hydrochloride (4N-PEACl), a functional additive bearing a strong electron-withdrawing group (-NO 2 ), into the WBG perovskite precursor solution to modulate crystallization kinetics and passivate bulk defects. This additive significantly improves crystallinity and phase stability, suppresses non-radiative recombination and enhances charge extraction and transport. Consequently, the optimized 1.85 eV WBG single-junction PSC achieves a champion efficiency of 19.79%, with V OC increasing from 1.349 to 1.388 V. Furthermore, the optimal PO-TSC achieves an efficiency of 27.10% with an ICL of PCBM/AZO/SnO 2 /PEDOT:PSS/Ph-4PACz. This work highlights the efficacy of -NO 2 -functionalized molecules in improving WBG perovskite film quality and provides new design strategy for low-cost but effective ICLs in PO-TSCs.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 1
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Fei Huang, Adv. Mater., 2026, High-Efficiency Perovskite-Organic Tandem Solar Cells Enabled by Perovskite Crystallization Optimization and Metal-Free Interconnecting Layer",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/jacs.6c14075",
+   "url": "https://doi.org/10.1021/jacs.6c14075",
+   "titleEn": "Buried Interfacial Transport Governs Oxide-Protected Electrocatalysis",
+   "journal": "Journal of the American Chemical Society",
+   "journalAbbr": "J. Am. Chem. Soc.",
+   "tier": 1,
+   "pubDate": "2026-11-17",
+   "year": "2026",
+   "authors": [
+    "Jinbo Wang",
+    "Peikun Zhang",
+    "Yanfang Liu",
+    "Xianye Luo",
+    "Shuo Yang",
+    "Mengyi Qiu",
+    "Hang Xia",
+    "Junyi Zheng",
+    "Ru Chen",
+    "Yandong Wu",
+    "Zude Shi",
+    "Yifan Yao",
+    "Zhuhua Zhang",
+    "Yongmin He",
+    "Shuangyin Wang"
+   ],
+   "corrAuthor": "Shuangyin Wang (추정)",
+   "corrConfirmed": false,
+   "abstract": "Protective overlayers are widely used to stabilize metal catalysts under harsh electrochemical conditions. Unlike graphene coatings, oxide overlayers introduce a buried metal-oxide interface that fundamentally reshapes reaction pathways by separating proton delivery from product release. Although proton transport through oxides has been extensively investigated, the fate of reaction products at buried interfaces remains unresolved; for example, H2-molecule vs H-atom pathways remain under debate in oxide-protected hydrogen evolution. Here, we revisit this buried interface using a microelectrochemical cell with well-defined model structures. Systematic measurements across nine metal-oxide heterostructures, combined with density functional theory calculations, reveal that product transport is governed by two sequential kinetic barriers: hydrogen spillover across the metal-oxide junction and hydrogen permeation through the oxide lattice. These coupled barriers determine whether reaction products are released, accumulate at buried interfaces, or induce interfacial failure. This work not only identifies superior Pt-TiO2 and Pd-TiO2 but also clarifies which step is impeded in Au-TiO2, Pt-SiO2, Pt-HfO2, Pd-SiO2, Pd-HfO2, Au-SiO2, and Au-HfO2 heterostructures. Guided by these model studies, we implement a TiO2 protection strategy in a proton-exchange-membrane water electrolyzer with remarkable durability. These findings provide a framework for constructing a complete proton-to-product route for buried interfaces, potentially resolving long-standing ambiguities in oxide-protected electrocatalysis.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 1
+   },
+   "queryTopics": [
+    "페로브스카이트 SAM"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Shuangyin Wang, J. Am. Chem. Soc., 2026, Buried Interfacial Transport Governs Oxide-Protected Electrocatalysis",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acs.analchem.6c06060",
+   "url": "https://doi.org/10.1021/acs.analchem.6c06060",
+   "titleEn": "Ligand-Framework Reactivity Contrast Enables Programmable Threshold Fluorescence Switching in MXene Quantum Dots",
+   "journal": "Analytical Chemistry",
+   "journalAbbr": "Anal. Chem.",
+   "tier": 2,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Dejia Hu",
+    "Yaqi Sang",
+    "Danyang Xiao",
+    "Tianhao Xia",
+    "Bufeng Liang",
+    "Muhammad Usman",
+    "Yan Li"
+   ],
+   "corrAuthor": "Yan Li (추정)",
+   "corrConfirmed": false,
+   "abstract": "Hydrogen peroxide (H2O2) is both a biologically relevant redox species and a common transduction product in oxidase-catalyzed assays, making its concentration indicative of biological redox status or clinically important substrates such as glucose. However, most H2O2 detection methods produce continuously varying signals and therefore lack a distinct visual readout at physiologically relevant decision thresholds, limiting rapid point-of-care assessment. Here, Asc-Ti2C QDs with a ligand-framework architecture were designed to generate a visible readout at a defined H2O2 threshold. The contrasting reactivities of the ascorbate ligands and Ti2C framework produced an abrupt fluorescence transition, and this threshold could be systematically tuned by adjusting the ligand-to-framework ratio. As a proof-of-concept application, the Asc-Ti2C QDs were coupled with glucose oxidase, immobilized in a PVA/PVP matrix, and integrated into a cassette for hypoglycemia screening. The resulting device exhibited a readily visible fluorescence transition at 4.0 mM glucose, close to the 3.9 mM hypoglycemia alert threshold, enabling direct naked-eye identification without instrumental quantification. Overall, this work advances fluorescence sensing beyond continuous quantification toward direct readout of biologically relevant thresholds, enabling more rapid and actionable diagnostic decisions.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2,
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 2,
+   "autoPdf": true,
+   "filename": "Yan Li, Anal. Chem., 2026, Ligand-Framework Reactivity Contrast Enables Programmable Threshold Fluorescence Switching in MXene Quantum Dots",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/adfm.79550",
+   "url": "https://doi.org/10.1002/adfm.79550",
+   "titleEn": "A Room-Temperature Self-Healing Polymeric Additive for Efficient, Mechanically Robust, and Environmentally Durable Perovskite Solar Cells",
+   "journal": "Advanced Functional Materials",
+   "journalAbbr": "Adv. Funct. Mater.",
+   "tier": 2,
+   "pubDate": "2026-11-13",
+   "year": "2026",
+   "authors": [
+    "Xiaochen Sun",
+    "Dongqing He",
+    "Daizhe Wang",
+    "Yaxin Li",
+    "Katerina S. Lambride",
+    "Panagiotis E. Keivanidis",
+    "Jiaxing Song",
+    "Dongyan Tang",
+    "Guibin Shen",
+    "Tengling Ye"
+   ],
+   "corrAuthor": "Tengling Ye (추정)",
+   "corrConfirmed": false,
+   "abstract": "Perovskite solar cells (PSCs) face critical challenges in long-term stability, lead toxicity, and mechanical fragility, aggravated under UV light and mechanical deformation. Here, we introduce an in situ crosslinked dynamic polymer network (PSS) as a multifunctional additive that simultaneously imparts room-temperature self-healing, crystallization regulation, defect passivation, and ion immobilization. The network enables the perovskite composite to achieve room-temperature self-healing in 10 min. Flexible PSCs incorporating PSS attain a champion power conversion efficiency (PCE) of 24.97%, retain over 84% of initial performance after 8000 bending cycles, and recover to over 96% within 10 min. In rigid devices, the network regulates crystallization and passivates defects, yielding a champion PCE of 26.30%. Moreover, the crosslinked framework acts as a physical barrier at grain boundaries, while its abundant functional groups bind mobile ions through chelation, collectively suppressing moisture/oxygen ingress and ion migration. This synergistic effect enables over 96% efficiency retention after 1500 h of maximum power point tracking, reduces lead leakage by over 90% in water, and significantly enhances UV tolerance. This in situ crosslinked network with low T g and diphenyl disulfide bonds provides a promising platform for rapid self-healing additives toward high-efficiency, mechanically robust, and environmentally sustainable perovskite photovoltaics.",
+   "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.79550",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Tengling Ye, Adv. Funct. Mater., 2026, A Room-Temperature Self-Healing Polymeric Additive for Efficient, Mechanically Robust, and Environmentally Durable Perovskite Solar Cells",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsenergylett.6c02852",
+   "url": "https://doi.org/10.1021/acsenergylett.6c02852",
+   "titleEn": "Extraction-Limited Charge Loss in Tin-Based Perovskite Solar Cells",
+   "journal": "ACS Energy Letters",
+   "journalAbbr": "ACS Energy Lett.",
+   "tier": 2,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Yusheng Li",
+    "Dong Liu",
+    "Dandan Wang",
+    "Jiaqi Liu",
+    "Huan Bi",
+    "Liang Wang",
+    "Shuzi Hayase",
+    "Qing Shen"
+   ],
+   "corrAuthor": "Qing Shen (추정)",
+   "corrConfirmed": false,
+   "abstract": "Tin-based perovskite solar cells (PSCs) present a promising lead-free alternative for photovoltaics, yet their performance remains markedly inferior to that of lead-based counterparts. A limited understanding of the underlying differences in charge transport dynamics between tin- and lead-based PSCs continues to impede efforts to overcome the reduced open-circuit voltage (Voc) and fill factor (FF) characteristic of tin-based devices. Here, using bias-modulated electrical transient measurements, we reveal a previously neglected extraction-limited charge loss mechanism in tin-based PSCs (efficiency &gt; 14%) that is not evident in lead-based counterparts (&gt; 25%) and fundamentally constrains both Voc and FF. Under high forward bias, the defects and their associated self-doping at the perovskite/electron transport layer interface severely reduce charge extraction efficiency by limiting the extraction of low-mobility carriers due to bulk field screening, which in turn leads to reduced collection efficiency as the unextracted carriers are forced into nonradiative recombination. This mechanism explains the low Voc and FF in tin-based PSCs and underscores interfacial doping control as critical for further performance enhancement.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Qing Shen, ACS Energy Lett., 2026, Extraction-Limited Charge Loss in Tin-Based Perovskite Solar Cells",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsenergylett.6c02967",
+   "url": "https://doi.org/10.1021/acsenergylett.6c02967",
+   "titleEn": "Multifunctional Dendrimer Interlayers for Tin-Based Perovskite Solar Cells: Inducing Interfacial Dipoles and Suppressing Electrode Corrosion",
+   "journal": "ACS Energy Letters",
+   "journalAbbr": "ACS Energy Lett.",
+   "tier": 2,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Jesus Sanchez-Diaz",
+    "Sergio Galve Lahoz",
+    "Luis Lanzetta",
+    "Eloi Ros",
+    "Teresa Diaz Perez",
+    "Cristóbal Voz",
+    "Juan Luis Delgado",
+    "Joaquim Puigdollers",
+    "Iván Mora-Seró"
+   ],
+   "corrAuthor": "Iván Mora-Seró (추정)",
+   "corrConfirmed": false,
+   "abstract": "Tin-based perovskite solar cells (Sn-PSCs) offer eco-friendly optoelectronics but suffer from low efficiency and ambient instability. Here, we introduce a second-generation poly(amidoamine) (PAMAM) dendrimer interlayer between the C60/BCP electron transport layer and the Ag top electrode. Electrostatic field orientation induced by the metallic electrode activates a PAMAM dipole that shifts the effective interface work function by ∼0.55 eV. This modification of the interfacial energetics is accompanied by an increase in the open-circuit voltage (VOC) by ∼50 mV and is consistent with reduced contact-induced energetic losses. Additionally, the dendrimer forms a physical/chemical barrier against iodine-mediated electrode corrosion. Consequently, unencapsulated Sn-PSCs retain 80% of their initial power conversion efficiency (PCE) after 1000 h in ambient air (∼30 °C, 20-35% RH), a benchmark stability also demonstrated here for Sn-Pb PSCs. This electrode-induced dipole orientation presents a generalizable strategy for boosting efficiency and operational durability in lead-free perovskite photovoltaics.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "유해물질 검출 센서": 1
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Iván Mora-Seró, ACS Energy Lett., 2026, Multifunctional Dendrimer Interlayers for Tin-Based Perovskite Solar Cells Inducing Interfacial Dipoles and Suppressing Electrode Corrosion",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsami.6c17598",
+   "url": "https://doi.org/10.1021/acsami.6c17598",
+   "titleEn": "Chromophore Orientation as a Design Strategy for Self-Assembled Monolayers in p-i-n Perovskite Solar Cells",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-17",
+   "year": "2026",
+   "authors": [
+    "Aida Drevilkauskaitė",
+    "Matas Steponaitis",
+    "Ieva Barauskienė",
+    "Ernestas Kasparavičius",
+    "Justina Mikučiūnaitė",
+    "Kasparas Rakštys",
+    "Kotryna Gumauskaitė",
+    "Vytautas Getautis",
+    "Artiom Magomedov"
+   ],
+   "corrAuthor": "Artiom Magomedov (추정)",
+   "corrConfirmed": false,
+   "abstract": "Self-assembled monolayers of the carbazole-based phosphonic acids recently became a popular choice for hole-selective layers in p-i-n perovskite solar cells. However, the role of molecular geometry in controlling interfacial coverage and device performance remains poorly understood. In this work, we have investigated anchor-to-chromophore connectivity as a molecular design parameter by synthesizing four carbazole phosphonic acid derivatives with T-shape and Rod-shape structures. The molecular pairs were designed to keep similar energetic properties while varying the spatial orientation of the chromophore relative to the phosphonic acid anchoring group. Optical spectroscopy and photoemission yield measurements confirm that the energy levels are governed primarily by the substitution position on the carbazole core, rather than by molecular orientation. In contrast, electrochemical impedance and cyclic voltammetry measurements reveal pronounced differences in charge-transfer blocking ability, indicating improved ITO surface coverage for Rod-shape molecules. When implemented in p-i-n perovskite solar cells, Rod-shape interlayers provide a reproducible improvement in device performance, although in part hindered by less favorable wetting behavior. After mitigating film formation and top interface losses, devices with 3-Rod reached a power conversion efficiency of 25.04%. These results demonstrate the importance of chromophore orientation for designing densely packed, high-performance phosphonic acid materials for perovskite solar cells.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "페로브스카이트 SAM",
+   "topicScores": {
+    "페로브스카이트 SAM": 3
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 3,
+   "autoPdf": false,
+   "filename": "Artiom Magomedov, ACS Appl. Mater. Interfaces, 2026, Chromophore Orientation as a Design Strategy for Self-Assembled Monolayers in p-i-n Perovskite Solar Cells",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1016/j.bios.2026.119424",
+   "url": "https://doi.org/10.1016/j.bios.2026.119424",
+   "titleEn": "Upcycling distillers’ spent grains to fabricate Fe-doped lignin-derived carbon nanozymes for tri-modal visual colorimetric-fluorescent-photothermal quantification of starch in liquor fermented grains",
+   "journal": "Biosensors and Bioelectronics",
+   "journalAbbr": "Biosens. Bioelectron.",
+   "tier": 3,
+   "pubDate": "2026-11-09",
+   "year": "2026",
+   "authors": [
+    "Weizhen Xu",
+    "Haiyang Liang",
+    "Zihao Feng",
+    "Nuoyu Liu",
+    "Anting Yang",
+    "Zonghua Ao",
+    "Zhilin Chen",
+    "Chuan Song",
+    "Suyi Zhang",
+    "Yu Zhou"
+   ],
+   "corrAuthor": "Yu Zhou",
+   "corrConfirmed": true,
+   "abstract": "",
+   "pdfUrl": "",
+   "oaStatus": "closed",
+   "topic": "변색 센서",
+   "topicScores": {
+    "변색 센서": 2
+   },
+   "queryTopics": [
+    "변색 센서"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Yu Zhou, Biosens. Bioelectron., 2026, Upcycling distillers’ spent grains to fabricate Fe-doped lignin-derived carbon nanozymes for tri-modal visual colorimetric-fluorescent-phototh",
+   "source": "openalex"
+  },
+  {
+   "doi": "10.1021/acsami.6c18313",
+   "url": "https://doi.org/10.1021/acsami.6c18313",
+   "titleEn": "A Multifunctional Core-Sheath Fiber Patch Based on Cellulose Nanocrystal-Reinforced and Curcumin-Loaded Polylactic Acid for Enhanced Pelvic Tissue Repair",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Chenghao Wu",
+    "Fuxun Qi",
+    "Shasha Zhang",
+    "Deng-Guang Yu",
+    "Xinliang Chen",
+    "Xiaoyan Li",
+    "Lei Chu"
+   ],
+   "corrAuthor": "Lei Chu (추정)",
+   "corrConfirmed": false,
+   "abstract": "Pelvic organ prolapse (POP) affects millions of women due to tissue defect, marked by disrupted collagen homeostasis and abnormal immune reaction. Therefore, there is a demand for developing a multifunctional patch resolving these current straits. Herein, we fabricated a multifunctional core-sheath fibrous patch via coaxial electrospinning, comprising cellulose nanocrystal (CNC)-reinforced polylactic acid (PLA) sheath and curcumin-loaded PLA core. Post-electrospinning heat treatment enhanced PLA crystallinity improved mechanical properties and enabled sustained curcumin release. The patch exhibited stable degradation, good biocompatibility, and potent anti-inflammatory activity. In vivo, the CNC-PLA/Cur-h patch achieved native-tissue-comparable biomechanical strength within 4 weeks, with enhanced neovascularization, elevated collagen I/III ratio, and well-organized extracellular matrix. RNA sequencing confirmed upregulated angiogenesis and ECM-related genes, as well as downregulated inflammatory markers. This multifunctional platform integrates mechanical robustness, controlled biodegradability, and proregenerative capacity, presenting a promising strategy for POP repair.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 2
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Lei Chu, ACS Appl. Mater. Interfaces, 2026, A Multifunctional Core-Sheath Fiber Patch Based on Cellulose Nanocrystal-Reinforced and Curcumin-Loaded Polylactic Acid for Enhanced Pel",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1021/acsami.6c20066",
+   "url": "https://doi.org/10.1021/acsami.6c20066",
+   "titleEn": "Chloroacetate Buffer-Modified SnO2 Electron Transport Layer for Efficient Perovskite Solar Cells",
+   "journal": "ACS Applied Materials & Interfaces",
+   "journalAbbr": "ACS Appl. Mater. Interfaces",
+   "tier": 3,
+   "pubDate": "2026-11-16",
+   "year": "2026",
+   "authors": [
+    "Lingfeng Liu",
+    "Limin Qi"
+   ],
+   "corrAuthor": "Limin Qi (추정)",
+   "corrConfirmed": false,
+   "abstract": "Tin oxide (SnO2) is a popular material for the electron transport layer (ETL) in perovskite solar cells (PSCs). However, the defects at the SnO2/perovskite interface tend to induce non-radiative recombination and deprotonation of formamidinium (FA+), limiting the device performance. Herein, a chloroacetate (CA) buffer system consisting of chloroacetic acid and its potassium salt was employed as a unique multifunctional interface modifier to synergistically engineer the SnO2 ETL/perovskite interface. The chloroacetate anion anchors to Sn and Pb sites, while the chloroacetic acid stabilizes FA+ through the hydrogen bond. As a result, the acidic buffer system suppresses FA+ deprotonation, enhances perovskite film quality, and improves carrier transport. Consequently, the CA buffer-modified PSC devices achieve a champion power conversion efficiency of 24.8%, considerably higher than 22.6% for the control devices. They also demonstrate prolonged dark-storage stability; particularly, the unencapsulated devices retain 99% of initial efficiency after 1500 h of ambient storage. This work shows that combining an organic acid and its conjugated base offers a facile yet effective strategy to simultaneously passivate the buried interface and stabilize perovskite components for efficient and stable PSCs.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "유해물질 검출 센서",
+   "topicScores": {
+    "페로브스카이트 SAM": 1,
+    "유해물질 검출 센서": 2
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 2,
+   "autoPdf": false,
+   "filename": "Limin Qi, ACS Appl. Mater. Interfaces, 2026, Chloroacetate Buffer-Modified SnO2 Electron Transport Layer for Efficient Perovskite Solar Cells",
+   "source": "crossref"
+  },
+  {
+   "doi": "10.1002/smll.76815",
+   "url": "https://doi.org/10.1002/smll.76815",
+   "titleEn": "Homochiral Interfacial Coupling Enables Chiroptical Amplification and Spin Regulation in 0D/2D Perovskite Heterojunctions",
+   "journal": "Small",
+   "journalAbbr": "Small",
+   "tier": 3,
+   "pubDate": "2026-11-17",
+   "year": "2026",
+   "authors": [
+    "Yixin Ma",
+    "Xi Zhang",
+    "Yi Dong",
+    "Shumin Zhao",
+    "Jialin Zhang",
+    "Qingbiao Fan",
+    "Xinran Song",
+    "Jing Li",
+    "Jun Wang"
+   ],
+   "corrAuthor": "Jun Wang (추정)",
+   "corrConfirmed": false,
+   "abstract": "Chiral perovskites are promising materials for circularly polarized light detection and spin-optoelectronic applications, but simultaneously enhancing chiroptical responses and regulating spin dynamics within a single system remains challenging. Here, we construct dual-homochiral 0D/2D perovskite heterostructures by integrating chiral CsPbBr 3 quantum dots with a chiral 2D perovskite framework. The homochiral interfacial coupling gives rise to markedly enhanced chiroptical responses, consistent with an interfacial modulation of the chiral lattice distortion, and enables circularly polarized light photodetection with a photocurrent dissymmetry factor (g ph ) of 0.461, 6.6 times that of the achiral quantum-dot control (0.07). Femtosecond transient absorption reveals sub-picosecond interfacial carrier transfer from the quantum dots to the 2D framework (τ CT ≈ 0.33 ps, an upper bound), while helicity-resolved transient absorption shows that the heterostructure sustains spin-polarized excited states for ≈260 ps. These findings establish homochiral interfacial coupling as an effective design element for regulating chiroptical responses and spin dynamics in chiral perovskite heterostructures.",
+   "pdfUrl": "",
+   "oaStatus": "",
+   "topic": "CQD 리간드",
+   "topicScores": {
+    "CQD 리간드": 1
+   },
+   "queryTopics": [
+    "CQD 리간드"
+   ],
+   "score": 1,
+   "autoPdf": false,
+   "filename": "Jun Wang, Small, 2026, Homochiral Interfacial Coupling Enables Chiroptical Amplification and Spin Regulation in 0D 2D Perovskite Heterojunctions",
+   "source": "crossref"
+  }
+ ],
+ "others": [
+  {
+   "doi": "10.1039/d6mh01501h",
+   "titleEn": "Self-assembled monolayer-dependent ionic defect restructuring in perovskite solar cells: a deep-level transient spectroscopy study",
+   "journal": "Materials Horizons",
+   "pubDate": "2026-11-16",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1038/s41598-026-78516-z",
+   "titleEn": "Impact of PTAA and MeO-2PACz hole transport layers on interfacial recombination in inverted perovskite solar cells",
+   "journal": "Scientific Reports",
+   "pubDate": "2026-11-12",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.4142/jvs.26235",
+   "titleEn": "Retinoic acid exerts neuroprotective effects by regulating PP2A subunit B-dependent apoptotic signaling in ischemic and excitotoxic injury",
+   "journal": "Journal of Veterinary Science",
+   "pubDate": "2027-01-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.67505/ijiamr.v6.i2.62006",
+   "titleEn": "Salicylic acid-mediated stress tolerance in Tulsi plant (Ocimum sanctum L.) under salinity stress and mercury toxicity",
+   "journal": "International Journal of Innovation and Multidisciplinary Research",
+   "pubDate": "2026-11-20",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/adom.72026",
+   "titleEn": "Enhanced Thermal Stability of InAs Colloidal Quantum Dot Films With AlBr 3 Ligands",
+   "journal": "Advanced Optical Materials",
+   "pubDate": "2026-11-13",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1002/adom.71977",
+   "titleEn": "Regulating the Energy Levels of HgTe Colloidal Quantum Dots for High-performance Extended Shortwave Infrared Photodiodes",
+   "journal": "Advanced Optical Materials",
+   "pubDate": "2026-11-12",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3390/nano16221474",
+   "titleEn": "Advances in Printed Quantum Dot Sensors: Materials, Mechanisms, and Emerging Applications",
+   "journal": "Nanomaterials",
+   "pubDate": "2026-11-15",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1039/d6nr02629j",
+   "titleEn": "Rectification modulation via interfacial noncovalent interactions between peptide self-assembled monolayers and quantum dot monolayers",
+   "journal": "Nanoscale",
+   "pubDate": "2026-11-12",
+   "topic": "페로브스카이트 SAM"
+  },
+  {
+   "doi": "10.1039/d6na00490c",
+   "titleEn": "Influence of ligand denticity and molecular size on surface ligand packing of CdSe/CdS quantum dots: an FTIR-based comparative analysis",
+   "journal": "Nanoscale Advances",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.54254/2755-2721/2027.38924",
+   "titleEn": "An Overview of Perovskite Quantum Dots for Carbon Dioxide Photoreduction",
+   "journal": "Applied and Computational Engineering",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.3389/fmolb.2026.1971794",
+   "titleEn": "Molecular architecture of surface-active ionic liquids governs protein structural integrity and drug recognition at engineered carbon quantum dot nano-bio interfaces",
+   "journal": "Frontiers in Molecular Biosciences",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.colcom.2026.100926",
+   "titleEn": "Interfacial engineering of silver quantum dots for antibacterial applications: From surface chemistry to translational design",
+   "journal": "Colloids and Interface Science Communications",
+   "pubDate": "2026-11-09",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1021/acs.jpcc.6c05404",
+   "titleEn": "Designing High-Valent Copper-Oxo Complexes through Ligand Engineering",
+   "journal": "The Journal\nof Physical\nChemistry C",
+   "pubDate": "2026-11-16",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1103/z126-g8bl",
+   "titleEn": "Assessing the classicality of photon echo from excitons in lead halide perovskite nanocrystals",
+   "journal": "Physical Review Research",
+   "pubDate": "2026-11-16",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1002/smtd.71216",
+   "titleEn": "Unraveling the Crystallization Kinetics of High-Quality Perovskite Quantum Dots via Microfluidic Synthesis System",
+   "journal": "Small Methods",
+   "pubDate": "2026-11-16",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.22270/ujpr.v11i5.1668",
+   "titleEn": "SYNTHESIS AND CHARACTERIZATION OF CEFADROXIL-BENZALDEHYDE DERIVED LIGAND, METAL COMPLEXES, AND EVALUATION OF THEIR ANTI-INFLAMMATORY, CYTOTOXIC, AND ANTIMICROBIAL ACTIVITIES",
+   "journal": "Universal Journal of Pharmaceutical Research",
+   "pubDate": "2026-11-15",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.34248/bsengineering.2016186",
+   "titleEn": "Facet-Controlled Truncated-Octahedral Pd Nanocrystal/Mesoporous SnO2 Nanocomposites for Low-Temperature, High-Sensitivity Hydrogen Sensing",
+   "journal": "Black Sea Journal of Engineering and Science",
+   "pubDate": "2026-11-15",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08539-w",
+   "titleEn": "Visible-light-activated CdS/Ag₂S/g-C₃N₄ nanozyme for sensitive colorimetric detection of carbohydrate antigen19-9",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-14",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00216-026-06915-2",
+   "titleEn": "Multifunctional Au/RuO2 tracer with chromogenic, photothermal, and peroxidase-like properties for multimodal lateral flow immunoassay",
+   "journal": "Analytical and Bioanalytical Chemistry",
+   "pubDate": "2026-11-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1051/e3sconf/202675501002/pdf",
+   "titleEn": "Fabrication of a smart colorimetric wound dressing containing red onion peel (",
+   "journal": "Springer Link (Chiba Institute of Technology)",
+   "pubDate": "2026-11-13",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ay01405d",
+   "titleEn": "Smartphone-assisted paper-based colorimetric aptasensor for rapid detection of N -acetylneuraminic acid",
+   "journal": "Analytical Methods",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ay01284a",
+   "titleEn": "CuCo-N-C nanozyme-mediated hydrogel colorimetric platform: dual-reading modes of ratiometry and smartphone for nitrite detection",
+   "journal": "Analytical Methods",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ay01550f",
+   "titleEn": "Colorimetric sensor array based on trimetallic MOF-derived Zn-Co-Cu nanozymes for discrimination of seven antioxidants",
+   "journal": "Analytical Methods",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acs.langmuir.6c06466",
+   "titleEn": "A Platinum Nanozyme-Based Three-Channel Cross-Reactive Colorimetric Sensor Array for Rapid Discrimination of Multiple Antibiotics",
+   "journal": "Langmuir",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.colsurfa.2026.142344",
+   "titleEn": "Lignin-curcumin-based fluorescent polymer sensor for colorimetric/fluorescent dual-mode detection and removal of Fe3+/Fe2+ ions",
+   "journal": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.porgcoat.2026.110759",
+   "titleEn": "RGB-readable dithizone-polyurethane coatings for colorimetric screening of hazardous metal ions in synthetic seawater",
+   "journal": "Progress in Organic Coatings",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ra04074h",
+   "titleEn": "Facile smartphone-assisted colorimetric detection of high-load Hg 2+ in industrial wastewater using a silica-supported ion-imprinted polymer",
+   "journal": "RSC Advances",
+   "pubDate": "2026-11-11",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.molstruc.2026.148069",
+   "titleEn": "Ratiometric and colorimetric fluorescence sensing of levofloxacin by a Zn-MOF with smartphone-assisted visual quantification",
+   "journal": "Journal of Molecular Structure",
+   "pubDate": "2026-11-11",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130951",
+   "titleEn": "Dual-readout aptasensing platform integrating colorimetric and image analysis for enrofloxacin detection in food and water matrices using gold nanozyme",
+   "journal": "Talanta",
+   "pubDate": "2026-11-11",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1007/s00604-026-08532-3",
+   "titleEn": "COF-AgNPs nanozyme combined with multimodal machine learning for dual-mode detection of Hg2+ in aquatic products",
+   "journal": "Microchimica Acta",
+   "pubDate": "2026-11-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.fochx.2026.104778",
+   "titleEn": "Machine learning-assisted boronic acid colorimetric indicator displacement array for dual-functional tea fingerprinting and interference-resistant EGCG quantification",
+   "journal": "Food Chemistry X",
+   "pubDate": "2026-11-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.microc.2026.120245",
+   "titleEn": "ISO 16140-2 validation of a rapid colorimetric paper strip sensor for microbial quality assessment of dairy products",
+   "journal": "Microchemical Journal",
+   "pubDate": "2026-11-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ra08921f",
+   "titleEn": "Visual discrimination down to the analytical limit of detection in colorimetric lateral flow biosensors via streamlined image processing",
+   "journal": "RSC Advances",
+   "pubDate": "2026-11-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.sbsr.2026.101107",
+   "titleEn": "Optical chemosensing of cysteine, arginine, and aspartic acid using plasmonic triangular silver nanoparticle: a novel miniaturized sensor for colorimetric fingerprint of amino acids",
+   "journal": "Sensing and Bio-Sensing Research",
+   "pubDate": "2026-11-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/app.71752",
+   "titleEn": "Development of Optical Polyviologen Nanoparticle-Immobilized Cellulose Nanocrystal-Reinforced Gum Arabic as Self-Healing Hydrogel Toward Multi-Stimuli Responsive and Anticounterfeiting Applications",
+   "journal": "Journal of Applied Polymer Science",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.molstruc.2026.148064",
+   "titleEn": "A quinoline-derived Schiff base chemosensor for the colorimetric detection of Hg2+ ions with smartphone-assisted quantification and real sample analysis",
+   "journal": "Journal of Molecular Structure",
+   "pubDate": "2026-11-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/separations13110335",
+   "titleEn": "Dynamic Associations Among Sensory Characteristics, Alkaloid Profiles, and Cardiotoxicity Variation During Zanba Processing of Tibetan Medicine Tiebangchui",
+   "journal": "Separations",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.152016",
+   "titleEn": "Detection of sterigmatocystin using a smartphone-assisted colorimetric sensing method based on a self-designed portable device with hydrogel",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ra06979g",
+   "titleEn": "Aggregation induced emission based fluorescent and colorimetric sensor for selective detection of Fe 2+ : experimental and computational insights with real-time applications",
+   "journal": "RSC Advances",
+   "pubDate": "2026-11-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.3390/biom16111632",
+   "titleEn": "Leonurus cardiaca L. Polysaccharide-Stabilized Palladium-Gold Nanoparticles and Fluorescent Carbon Dots for Selective and Dual-Mode Detection of Pesticide Glyphosate",
+   "journal": "Biomolecules",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1039/d6ay00313c",
+   "titleEn": "Fast antibiotic susceptibility test-integrated microfluidic chips for detection of carbapenem/colistin-resistant bacteria using smartphone-based analysis",
+   "journal": "Analytical Methods",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.151726",
+   "titleEn": "Co-MOF@CNF composite films for dual-functional intelligent packaging with ammonia-responsive colorimetric sensing and active shrimp freshness preservation",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.4012/dmj.2026-147",
+   "titleEn": "Time-dependent color changes in polyetheretherketone (PEEK) after immersion in different media",
+   "journal": "Dental Materials Journal",
+   "pubDate": "2026-11-10",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1021/acssuschemeng.6c06954",
+   "titleEn": "Dynamically Co-assembling Guaiacol Glyceryl Ether and Cellulose Nanocrystals for Iridescent Films Construction: The Visualized and Sensitive Monitoring for Food Spoilage",
+   "journal": "ACS Sustainable Chemistry & Engineering",
+   "pubDate": "2026-11-10",
+   "topic": "CQD 리간드"
+  },
+  {
+   "doi": "10.1016/j.scp.2026.102614",
+   "titleEn": "Integrated gel-based electrocolorimetric extraction for the determination of promethazine in pharmaceutical and beverage samples",
+   "journal": "Sustainable Chemistry and Pharmacy",
+   "pubDate": "2026-11-14",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.152124",
+   "titleEn": "Pt-Ni bimetallic nanozymes with enhanced oxidase-like activity for smartphone-assisted colorimetric detection of prochloraz in fruit samples",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-12",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ra07863j",
+   "titleEn": "A reversible indole-based colorimetric chemosensor for Cu 2+ : implications for smartphone-integrated sensing, logic gate experiments, environmental and biological applications",
+   "journal": "RSC Advances",
+   "pubDate": "2026-11-11",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1039/d6ra08860k",
+   "titleEn": "A pyridyl-benzopyridoindole-dione probe for ultrafast fluorometric selective detection of diethyl chlorophosphate (DCP) nerve agent mimic with latent fingerprint and logic gate applications",
+   "journal": "RSC Advances",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.foodchem.2026.152062",
+   "titleEn": "Dual-functional nanopaper integrating visible-light-responsive nanozyme and anchored chromogenic product for organophosphorus pesticides sensing",
+   "journal": "Food Chemistry",
+   "pubDate": "2026-11-09",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.1002/pssa.70591",
+   "titleEn": "Effect of Lanthanum Doping on Spray-Deposited ZnO Thin Films for Carbon Monoxide Gas-Sensing Applications",
+   "journal": "physica status solidi (a)",
+   "pubDate": "2026-11-13",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.sna.2026.118795",
+   "titleEn": "Microfluidic analyzer UV-VIS-NIR for the determination of heavy metals",
+   "journal": "Sensors and Actuators A Physical",
+   "pubDate": "2026-11-13",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.talanta.2026.130896",
+   "titleEn": "Engineering VGCF/Eu-MOF/GCE sensing platform for ratiometric electrochemical detection of Pb2+",
+   "journal": "Talanta",
+   "pubDate": "2026-11-12",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1016/j.nxmate.2026.103968",
+   "titleEn": "Phosphorene-metal oxide hybrids: Dual functionality in heavy metal ions sensing and antibacterial activity",
+   "journal": "Next Materials",
+   "pubDate": "2026-11-11",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.1002/smm2.70110",
+   "titleEn": "Recent Advances in Self-Healing Conducting Polymers for Gas Sensors",
+   "journal": "SmartMat",
+   "pubDate": "2026-11-10",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/s26217082",
+   "titleEn": "Hybrid 2D MoS2-Copper Benzene-1,3,5-Tricarboxylate Framework for Room-Temperature Gas Sensing: Toward Trace Ammonia Detection for Hydrogen-Carrier Safety",
+   "journal": "Sensors",
+   "pubDate": "2026-11-09",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.21608/ejmm.2026.520811.2722",
+   "titleEn": "Immunological Indices and Infections among Pesticide Applicators in Sohag Governorate",
+   "journal": "Egyptian Journal of Medical Microbiology",
+   "pubDate": "2027-10-01",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.22266/ijies2026.1231.02",
+   "titleEn": "DaYa-YOLO: Substituting a Frozen Colorimetric Prior for Learned Attention in Edge-deployed Rice Pest and Disease Detection",
+   "journal": "International Journal of Intelligent Engineering and Systems",
+   "pubDate": "2026-12-31",
+   "topic": "변색 센서"
+  },
+  {
+   "doi": "10.21608/esm.2026.533914",
+   "titleEn": "Economic Evaluation of Artificial Intelligence Applications in Improving The Efficiency of Fertilizer and Pesticide Use and Their Impact on Wheat and Barley Productivity and Profitability in Egypt",
+   "journal": "The Egyptian Science Magazine",
+   "pubDate": "2026-12-30",
+   "topic": "유해물질 검출 센서"
+  },
+  {
+   "doi": "10.3390/polym18222831",
+   "titleEn": "Upcycling Polylactide into UV-Curable Pressure-Sensitive Adhesives via Glycolysis and Maleic Anhydride Functionalization",
+   "journal": "Polymers",
+   "pubDate": "2026-11-12",
+   "topic": "광가교 전반"
+  },
+  {
+   "doi": "10.1007/s00289-026-06777-9",
+   "titleEn": "Synthesis and characterization of modified alkali soluble photocurable epoxy resin and comprehensive properties",
+   "journal": "Polymer Bulletin",
+   "pubDate": "2026-11-11",
+   "topic": "광가교 전반"
+  }
+ ],
+ "note": "papers=설정 저널 소속 후보(관련도 사전 판정만 한 상태), others=설정 밖 저널(제목 일치만). 최종 선별·요약은 Claude 예약 작업이 합니다."
+}
